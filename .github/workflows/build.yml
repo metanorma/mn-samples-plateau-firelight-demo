@@ -31,7 +31,7 @@ jobs:
           lfs: 'true'
       - name: Build
         run: |
-          npx --node-options='--experimental-vm-modules' -y @riboseinc/anafero-cli@0.0.4 --target-dir dist --path-prefix /mn-samples-plateau-firelight-demo --current-rev main
+          npx --node-options='--experimental-vm-modules' -y @riboseinc/anafero-cli@0.0.5 --target-dir dist --path-prefix /mn-samples-plateau-firelight-demo --current-rev main
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
