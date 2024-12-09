@@ -25,6 +25,10 @@ jobs:
         with:
           node-version: '20.11.0'
       - uses: actions/checkout@master
+        with:
+          # Shouldn’t be necessary, since anafero-cli fetches data from LFS,
+          # but…
+          lfs: 'true'
       - name: Build
         run: |
           npx --node-options='--experimental-vm-modules' -y @riboseinc/anafero-cli --target-dir dist --path-prefix /mn-samples-plateau-firelight-demo --current-rev main --debug
