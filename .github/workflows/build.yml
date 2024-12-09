@@ -31,7 +31,7 @@ jobs:
           lfs: 'true'
       - name: Build
         run: |
-          npx --node-options='--experimental-vm-modules --max-old-space-size=2048' -y @riboseinc/anafero-cli --target-dir dist --path-prefix /mn-samples-plateau-firelight-demo --current-rev main --debug
+          npx --node-options='--experimental-vm-modules --max-old-space-size=4096' -y @riboseinc/anafero-cli --target-dir dist --path-prefix /mn-samples-plateau-firelight-demo --current-rev main --debug
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
