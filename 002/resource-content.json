@@ -1,0 +1,81 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "contentSchemaID": "cover",
+        "labelInPlainText": "3D都市モデル導入のためのガイドブック — 3D都市モデル標準作業手順書",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "3D都市モデル導入のためのガイドブック — 3D都市モデル標準作業手順書"
+                }
+            ]
+        },
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "docMeta",
+                    "content": [
+                        {
+                            "type": "primaryDocID",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "PLATEAU 2"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "edition",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "第4版"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "pubDate",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "令和六年9月30日"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "author",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "urn:x-xml-element:name-d636fa12-bb27-41ef-a4fd-815e727c475d"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "mainTitle",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデル導入のためのガイドブック — 3D都市モデル標準作業手順書"
+                        }
+                    ]
+                },
+                {
+                    "type": "someOtherTitle",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Handbook of 3D City Models — Standard Implementation Procedures for 3D City Model"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

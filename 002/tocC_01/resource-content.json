@@ -1,0 +1,741 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.1  概要",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.1  概要"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.1  概要"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bc291474-c64c-fde4-0480-b1334c12e2af"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本付属書では、「3D都市モデル標準製品仕様書」（以下、「標準製品仕様書」という）に適合したデータ製品について、「建築物モデル」に従って作成されるべき都市オブジェクト（以下、「建築物オブジェクト」という）が満たすべき要件と、妥当な建築物オブジェクトを作成するための標準的な作業手順を示す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "figure",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_req_bldg"
+                    },
+                    "content": [
+                        {
+                            "type": "figCaption",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "表 C-1 — 要求クラス C-1: 妥当な建築物オブジェクト作成"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "attrs": {
+                                "colWidths": []
+                            },
+                            "content": [
+                                {
+                                    "type": "table_row",
+                                    "content": [
+                                        {
+                                            "type": "table_header",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "識別子"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "table_cell",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "code",
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "/req/bldg"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "table_row",
+                                    "content": [
+                                        {
+                                            "type": "table_header",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ターゲットタイプ"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "table_cell",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "3D都市モデル"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "table_row",
+                                    "content": [
+                                        {
+                                            "type": "table_header",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "説明"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "table_cell",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_ad6edc68-e784-2745-039f-0c4e6844bdeb"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "建物の説明とLODの要件"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "table_row",
+                                    "content": [
+                                        {
+                                            "type": "table_header",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "規範的声明"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "table_cell",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_1"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-1: 建築物のLODに応じた地物型の使用"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_2"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-2:3D都市モデルのLOD1とLOD0の必須構成"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_3"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-3: 建築物のLOD0形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_4"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-4: 建築物のLOD1形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_5"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-5: LOD1の空間属性の条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_6"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-6: LOD0幾何形状の妥当性"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_7"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求C-7: 建築物の下面高さの基準（LOD1）"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_8"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-8: LOD1の上面高さの基準"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_9"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-9: LOD1の高さ取得における誤差対策"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_10"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-10: 建築物のLOD2形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_11"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-11: LOD2立体の境界面参照"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_12"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-12: 建築物のLOD3形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_13"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-13: LOD3立体の境界面参照"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_14"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-14: 建築物のLOD4形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_15"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-15: 建築物オブジェクトの識別情報"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_16"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-16: LOD1上面高さの根拠付与"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_17"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-17: 建築物の高さ属性追加方法"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_18"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-18: bldg:BuildingPartの妥当性条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_19"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-19: bldg:BuildingPartの参照条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_20"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-20: 建築物の属性付与基準"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_21"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-21: bldg:_BoundarySurfaceの種類"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_22"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-22: 境界面の幾何オブジェクト参照条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_23"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-23: 外壁面の分割記述方法"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_24"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-24: bldg:Roomの機能区分方法"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_25"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-25: bldg:BuildingInstallationの空間属性タイプ"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_26"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-26: bldg:BuildingInstallationの接触条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_27"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-27: bldg:BuildingInstallationの境界面参照条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_28"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-28: bldg:BuildingInstallationの境界面記述条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_29"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-29: bldg:BuildingInstallationの設備区分方法"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_30"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-30: bldg:BuildingInstallationの空間属性タイプ"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_31"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-31: bldg:IntBuildingInstallationの設備区分方法"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_bldg_32"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 C-32: bldg:BuildingFunitureの空間属性タイプ"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_att_bldg_1"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "留意事項 C-1:2次元のGISデータのエラーについて"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_att_bldg_2"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "留意事項C-2: より詳細な建築物モデルに基づく建築物モデル（LOD0）の修正について"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_att_bldg_3"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "留意事項 C-3: 面の向きについて"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_att_bldg_4"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "留意事項C-4: より詳細な建築物モデルに基づく建築物モデル（LOD1）の修正について"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_att_bldg_5"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "留意事項 C-5: LOD1の押し出し高さについて"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_att_bldg_6"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "留意事項C-6: 建築物モデル（LOD4）における部屋の区分について"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_att_bldg_7"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "留意事項C-7: 建築物モデル（LOD4）における付属物の取得について"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

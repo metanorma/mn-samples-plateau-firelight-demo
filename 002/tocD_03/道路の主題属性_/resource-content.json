@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.3.2  道路の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.3.2  道路の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.3.2  道路の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bd8451b0-d144-44c8-ce18-5c201ce49fdb"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路の主題属性には、あらかじめCityGML又はGMLにおいて定義された属性（接頭辞tran、gml）と、i-URにより拡張された属性（接頭辞uro）がある。CityGMLで定義された属性は、道路の機能など、基本的な情報となる。i-URにより拡張された属性には、道路構造に関する情報を格納するための属性（uro:RoadStructureAttribute、uro:TrafficAreaStructureAttribute）、交通量に関する情報を格納するための属性（uro:TrafficVolumeAttribute）、さらに、作成したデータの品質に関する情報を格納するための属性（uro:RoadDataQualityAttribute）がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.7  bldg:Room",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.7  bldg:Room"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.7  bldg:Room"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c9a60718-73be-463c-aca6-928b8738c63a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Roomは、部屋を記述するために使用する地物型である。bldg:Roomは、建築物の内部空間の表現に使用し、LOD4のみに出現する。建築物モデル（LOD4）において、bldg:Roomは、bldg:Buildingに含まれる地物として記述する。このとき、bldg:Roomは、複数の地物の集まりとして表現する。bldg:Roomに含まれる地物とは、以下である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_d21cb55f-de99-5463-a558-3d3f6e6f4225"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "部屋を区切る境界面（bldg:_BoundarySurfaceの下位型）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_58f8c35e-b435-d5ab-d4f6-7bdba7085347"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "部屋に付属する固定的な設備（bldg:InteriorBuildingInstallation）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_36f801f5-1e68-bdee-c083-605129b7dbba"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "部屋の中に設置された移動可能な家具（bldg:BuildingFurniture）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

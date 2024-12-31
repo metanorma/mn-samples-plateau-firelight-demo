@@ -1,0 +1,128 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.3  メタデータの作成",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.3  メタデータの作成"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.3  メタデータの作成"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_13e69799-bc69-c8b8-f5bf-db2caf43ceab"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "メタデータとは、データ（ここでは、「3D都市モデル」）を説明するための情報である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c46164ac-6c4d-6bcb-0869-ceee2aaa44e6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルのメタデータとして、以下の四種類を作成する。それぞれ作成手順や内容を示す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_2b1b2520-73de-d1df-f765-aa6da7defe33"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "JMP2.0形式のメタデータ（5.3.2）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_91f2dc65-aea1-b660-1581-67d8384826ff"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "md形式のREADME（5.3.3）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_2f0b43f6-f5d5-d148-ac82-45f820efd6ae"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "原典資料リスト（5.3.4）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_9318d02b-21ab-73dd-f007-95bf432c6985"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "索引図（5.3.5）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

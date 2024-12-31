@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4  ファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4  ファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4  ファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ad1a31a1-450a-2972-0fbe-345e1ccdf03a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "成果品に含むべき各ファイルの名称に適用する命名規則を示す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c96695cf-4eba-a7e6-dac8-c153006eee37"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、オープンデータ用のファイルのファイル名称は、原則として、地方公共団体用3D都市モデル成果品のファイル名称の末尾に_opを付与する。詳細を各項に示す。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

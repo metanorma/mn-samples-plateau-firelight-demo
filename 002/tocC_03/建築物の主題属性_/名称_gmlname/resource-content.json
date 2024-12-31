@@ -1,0 +1,83 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.3.2.1  名称（gml:name）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.3.2.1  名称（gml:name）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.3.2.1  名称（gml:name）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ca89bda6-6eb7-901b-ad92-59221d4cdbba"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Buildingの属性gml:nameは、建築物の名称である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4944f7c6-ca94-9d48-18c8-451240ecce0a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "建築物の名称は、建築物を検索したり、地図上での位置を特定したりするために使用することができる有益な情報である。そのため、公共施設やランドマークについては、可能な限り名称を付与することが望ましい。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7bd6bf3c-4c55-1f8d-8ca4-b979ed6fd728"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "公共施設の名称については、原典資料として"
+                        },
+                        {
+                            "type": "resource_link",
+                            "attrs": {
+                                "href": "urn:x-metanorma-xml-id:nlftp"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "国土数値情報（公共施設データ）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "がある。またモデル整備主体となる基礎自治体にから主要な公共施設のリストを入手することも考えられる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.8.1.2  brid:WallSurface",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.8.1.2  brid:WallSurface"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.8.1.2  brid:WallSurface"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c2f3724f-c496-88a6-77f2-6c2e544bf91c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:WallSurfaceは、橋梁の壁面を記述するために使用する地物型である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

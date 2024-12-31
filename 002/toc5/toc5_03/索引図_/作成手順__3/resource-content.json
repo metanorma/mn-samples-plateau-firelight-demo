@@ -1,0 +1,152 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.3.5.2  作成手順",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.3.5.2  作成手順"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.3.5.2  作成手順"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3eb382ba-57e6-ef09-a42e-b3ba0ec2a0f8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "手順："
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_4924eace-d735-1242-60c0-07eec856fe6c"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "GISやCAD等で図を作成し、画像形式にしたものをテンプレート（WORD形式）に張り付ける。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_35f152bc-289e-43cc-c9cf-8a3b1a4ab302"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "製品仕様書作成用テンプレートセットに含まれる、索引図テンプレートを使用することを基本とする。"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "bullet_list",
+                                                    "content": [
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_2005ec4b-7326-4c73-0a50-08b19f375930"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "製品仕様書作成用テンプレートは、以下のURLよりダウンロードできる"
+                                                                        },
+                                                                        {
+                                                                            "type": "external_link",
+                                                                            "attrs": {
+                                                                                "href": "https://www.mlit.go.jp/plateau/file/libraries/doc/template.zip"
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_318efdb6-8c82-dbcf-48cf-ff2940411bda"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "使用するGISやCADの出力機能を用いて、索引図の仕様1から7に示す仕様に従った索引図を出力してもよい。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_b6616af1-2876-89ad-61c9-fb43e540073d"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "PDF形式に変換する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "P.7.2.2  埋設物同士の交差について",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "P.7.2.2  埋設物同士の交差について"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.7.2.2  埋設物同士の交差について"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6be74310-ae34-34df-cfe4-a70a4436ea1b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "土被りの情報の不足や推定値を用いた地下埋設物モデルを作成する場合、現況では交差していなくても埋設物同士が交差する場合がある。埋設物の交差が生じた場合は、計画機関と協議のうえユースケースへ影響が生じないことを確認のうえ、メタデータの識別情報の要約にデータ利用上の注意事項として埋設物同士が交差していることを記述することで埋設物同士の交差を許容できる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "B.2  空間参照系",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "B.2  空間参照系"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "B.2  空間参照系"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5d277f92-e76e-aa12-854b-26080ec991ab"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "空間参照系は、実世界における位置を識別するための体系であり、位置を座標により記述する場合には、原点や軸の方向、座標の単位等の取り決めが含まれる。座標が地球上のどこであるかを示すには、空間参照系を指定しなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3e1bbeef-9c0c-ce9d-7492-89d67c7365f6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルは日本全国を対象とすることから、日本全国を適用範囲とする空間参照系を適用する。水平方向は、「日本測地系2011 における経緯度座標系」を採用する。また、高さ方向は、「東京湾平均海面を基準とする標高」を採用する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6c2e3835-3dc1-6517-620e-27d38a5d19a5"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "2次元座標の取り扱いについては、B.4を参照すること。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_dd2e772f-7610-7d21-55df-cae51f952431"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "空間参照系の指定は、座標ごとに指定する、あるいは、これを含む幾何オブジェクトごとに指定するというように、いくつかの方法がある。3D都市モデルにおいては、空間参照系が一律に指定されることから、これらを包含するデータ集合であるcore:CityModelに対して空間参照系を指定する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_604bde7e-d209-8cca-9b44-05589a0fbc62"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "データ集合に記述する空間参照系は、これの定義を取得可能なURIにより指定する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_495f4121-655f-b848-9bb3-02f8ed7183e4"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:Envelopeの属性srsNameに空間参照系のURIを記述する。属性srsDimensionには次元数を入れる。gml:lowerCornerには、緯度、経度及び標高の最小値を記載し、gml:upperCornerには最大値を記載する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+
+    <!doctype html>
+    <html lang="ja"
+        
+    data-path-prefix="/mn-samples-plateau-firelight-demo/002"
+  
+        data-initial-resource-id="urn:x-metanorma-xml-id:___x5730___x5f62___x30e2___x30c7___x30eb_lod1__x306e___x4f5c___x6210___x624b___x9806_demtinrelief"
+        data-workspace-title="PLATEAU 2">
+      <head>
+        <meta charset="utf-8">
+        <!-- devtools
+        <script src="http://192.168.0.179:8097"></script> -->
+        <title data-react-helmet="true">S.3.1.2.2  地形モデル（LOD1）の作成手順（dem:TINRelief）</title>
+        
+        
+        <link rel="stylesheet" href="/mn-samples-plateau-firelight-demo/002/plateau-layout.css" />
+<link rel="stylesheet" href="/mn-samples-plateau-firelight-demo/002/metanorma-site-content.css" />
+<link rel="stylesheet" href="/mn-samples-plateau-firelight-demo/002/bootstrap.css" />
+      </head>
+      <body >
+        <div id="app"><div style="isolation:isolate;color-scheme:light" class="_t8qIa_spectrum kDKRXa_spectrum kDKRXa_i18nFontFamily YqfL3a_spectrum--light _1DrGeG_spectrum--large XhWg9q_spectrum XhWg9q_spectrum--dark XhWg9q_spectrum--darkest XhWg9q_spectrum--large XhWg9q_spectrum--light XhWg9q_spectrum--lightest XhWg9q_spectrum--medium" lang="en-US" dir="ltr"><div class="style_browserBar"><header class="style_browserBarTitle"><h1>PLATEAU 2</h1></header></div></div><main id="resources"><div style="isolation:isolate;color-scheme:light" class="_t8qIa_spectrum kDKRXa_spectrum kDKRXa_i18nFontFamily YqfL3a_spectrum--light _1DrGeG_spectrum--large XhWg9q_spectrum XhWg9q_spectrum--dark XhWg9q_spectrum--darkest XhWg9q_spectrum--large XhWg9q_spectrum--light XhWg9q_spectrum--lightest XhWg9q_spectrum--medium" lang="ja-JP" dir="ltr"><div class="style_resource "><ul class="style_resourceBreadcrumbsNav"><li> <a href="/mn-samples-plateau-firelight-demo/002/">PLATEAU 2</a></li><li> <a href="/mn-samples-plateau-firelight-demo/002/tocS_03">S.3  標準的な作業手順</a></li><li> <a href="/mn-samples-plateau-firelight-demo/002/tocS_03/幾何オブジェクトの作成__17">S.3.1  幾何オブジェクトの作成</a></li><li> <a href="/mn-samples-plateau-firelight-demo/002/tocS_03/幾何オブジェクトの作成__17/_lod1_33">S.3.1.2  LOD1</a></li></ul><div class="layout_overall"><article id="content"><h1>S.3.1.2.2  地形モデル（LOD1）の作成手順（dem:TINRelief）</h1><p about="urn:x-metanorma-xml-id:_46106d5a-7515-bd29-b66c-78110b3890b7" id="urn:x-metanorma-xml-id:_46106d5a-7515-bd29-b66c-78110b3890b7">①　原典資料を入手する。</p><p about="urn:x-metanorma-xml-id:_c65c3b35-0e30-fe80-425c-4d16478ba16b" id="urn:x-metanorma-xml-id:_c65c3b35-0e30-fe80-425c-4d16478ba16b">地形モデル（LOD1）は、基盤地図情報（標高モデル）からのデータ変換により作成することを基本とする。</p><p about="urn:x-metanorma-xml-id:_5c764bb3-e7a5-8040-2eaa-20078ef60235" id="urn:x-metanorma-xml-id:_5c764bb3-e7a5-8040-2eaa-20078ef60235">ただし、基盤地図情報（標高モデル）の作成時期よりも新しい航空レーザ点群がある場合には、この航空レーザ点群を使用できる。既存の都市オブジェクトがある場合には、その都市オブジェクトの底面の高さは既存の地形モデルに依存しているため、新しい航空レーザ点群で作成される地形モデルと整合しない（既存の都市オブジェクトが、新しい航空レーザから作成された地形モデルから浮かんだり、沈んだりする）場合があることに留意する。</p><p about="urn:x-metanorma-xml-id:_c91e1348-5ca1-9602-3ed1-dc1fb30acf93" id="urn:x-metanorma-xml-id:_c91e1348-5ca1-9602-3ed1-dc1fb30acf93">また、水部以外で基盤地図情報（標高モデル）や航空レーザ点群のデータがない場合は、航空写真の三次元図化で取得したブレークライン（傾斜が急激に変化する地点で高さを取得し、この地点をつないで作成した折れ線）を用いて欠落している範囲の標高モデル（DEM）を作成し、既存データと合成する。</p><p about="urn:x-metanorma-xml-id:_762e26bd-897c-bf6a-44fe-1505a993b113" id="urn:x-metanorma-xml-id:_762e26bd-897c-bf6a-44fe-1505a993b113">②　①で入手又は作成したデータからTINを作成する。</p><p about="urn:x-metanorma-xml-id:_f8e5a583-1eb4-8991-dba4-cc33e7849d8a" id="urn:x-metanorma-xml-id:_f8e5a583-1eb4-8991-dba4-cc33e7849d8a">DEMからTINを作成する。ただし、水部ではTINを作成しない。</p><p about="urn:x-metanorma-xml-id:_f1cd9a59-c373-b7eb-bc6a-02d99e9bdd61" id="urn:x-metanorma-xml-id:_f1cd9a59-c373-b7eb-bc6a-02d99e9bdd61">基盤地図情報（標高モデル）から作成する場合、欠落部の標高値に-9999が設定されているため、その点群を除去しTINを作成する。航空写真から作成する場合は、水涯線を図化し水涯線までのTINを作成し、航空レーザ点群から作成する場合は、水部ポリゴンデータ（作業規程の準則の第554条に定める、航空レーザ用写真地図データを用いて水部の範囲を対象に作成したポリゴンデータ）までのTINを作成する。</p></article><nav><ul></ul></nav></div></div></div></main></div>
+        <script src="/mn-samples-plateau-firelight-demo/002/bootstrap.js"></script>
+      </body>
+    </html>
+  

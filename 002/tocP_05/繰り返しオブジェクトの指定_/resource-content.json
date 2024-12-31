@@ -1,0 +1,79 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "P.6.2  繰り返しオブジェクトの指定",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "P.6.2  繰り返しオブジェクトの指定"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.6.2  繰り返しオブジェクトの指定"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_fc53b5da-61ac-5763-cb03-9846c269546d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "繰り返しオブジェクトは、GML形式以外の外部形式ファイルの参照（core:libraryObject）または、GML形式で記述された幾何オブジェクトの参照（core:relativeGMLGeometry）のいずれかを指定する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_165aa011-98fe-4452-2919-d1398afdfaa8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "繰り返しオブジェクトを外部形式ファイルの参照により指定する場合は、作成したプロトタイプモデルを地下埋設物モデル内のサブフォルダに格納し、属性core:libraryObjectではこのプロトタイプモデルへの相対パスにより所在を示す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7f7b054c-c00f-6f9b-df55-b8a3eae25eb9"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "GML形式ファイルで記述された幾何オブジェクトをプロトタイプモデルとして使用する場合、３D都市モデルと同じファイルにプロトタイプとなる幾何オブジェクトを含めなければならない。このとき、３D都市モデルは平面直角座標系が適用されており、同一ファイルには同じ座標参照系しか適用してはならないことから、プロトタイプモデルも平面直角座標系で記述しなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b799c319-6ec0-8bd3-ddae-61aca7d6f0bc"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "そのため、実在する都市オブジェクトの幾何オブジェクトをプロトタイプモデルとし、ほかの都市オブジェクトからこの幾何オブジェクトを参照することが効率的である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

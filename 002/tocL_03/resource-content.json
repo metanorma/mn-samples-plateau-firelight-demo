@@ -1,0 +1,89 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.3  brid:BridgePart",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.3  brid:BridgePart"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.3  brid:BridgePart"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_12097304-df3b-ff9c-163e-5a6a17747603"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:BridgePartは、橋梁の一部であり、橋梁モデル（LOD2）以上において、一つの橋梁を複数の部分に分けて記述するために用いる。一つの橋梁を複数の部分に分けて記述する場合とは、以下をいう。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_470145e0-9c16-a159-0a5e-607685977c23"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "一つの橋梁を、主題属性の異なる複数の部分に分ける場合"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2b41d1b5-669f-10f0-5376-0c54bcde9e52"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "例えば、一つの橋梁が、構造の異なる複数の区間から構成されている場合、それぞれをbrid:BridgePartとして作成し、それらを束ねたbrid:Bridgeを作成することで、一つの橋梁として表現できる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6816179a-02b4-cf10-1d03-d452eb0a4537"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "また、一つの橋梁を構成する区間ごとに異なる原典資料を使用し、品質が異なるデータとなっている場合には、それぞれをbrid:BridgePartとして作成し、brid:BridgePartごとに使用した原典資料や地図情報レベルを属性として記録することができる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

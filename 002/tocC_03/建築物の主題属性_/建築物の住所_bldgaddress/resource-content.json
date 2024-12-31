@@ -1,0 +1,119 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.3.2.4  建築物の住所（bldg:address）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.3.2.4  建築物の住所（bldg:address）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.3.2.4  建築物の住所（bldg:address）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_be4e8485-d236-16dc-d882-a7d59c6affa4"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書では、建築物の主題属性として住所（bldg: address）を定義している。住所は、概ねの場所を検索・特定するために使用できる有益な情報である。そのため、全ての建築物には可能な限り住所を付与することが望ましい。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a94c0fd3-7600-85ac-d8e6-818590261807"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "原典資料としては、国勢調査（町丁・字等別境界データ）、"
+                        },
+                        {
+                            "type": "resource_link",
+                            "attrs": {
+                                "href": "urn:x-metanorma-xml-id:nlftp"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "国土数値情報（公共施設データ）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "及び基礎自治体から入手した主要な公共施設リスト等がある。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e2239760-4ef9-42ab-252e-2e5864448091"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、CityGMLでは、住所の記述についてXMLに関する標準化団体であるOASIS（Organization for the Advancement of Structured Information Standards）により策定された extensible Address Language （xAL）を参照している。住所を構造化して記述する場合には、xALの構造に従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ca236128-7705-71d3-dcb4-d9b9975d33d5"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "建築物の住所は、建築物の場所を特定する地理識別子として利用されるだけではなく、建築物とこれに関連する様々な情報とを連携するキーとして利用されることが想定される。そのため、この属性を用いて、住所の地名辞典を整備更新できるよう、構造化して記述することを推奨する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4aa23039-2e14-b437-4377-d839959c8205"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "構造化して記述する場合の記述例を以下に示す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2460ed3b-06cc-17e5-a25d-2a126e07e9c3"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、構造化せずに略式（1行の住所文字列）で記述する場合は、以下のように記載する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

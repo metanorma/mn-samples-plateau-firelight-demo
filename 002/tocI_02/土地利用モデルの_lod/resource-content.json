@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "I.2.2  土地利用モデルのLOD",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "I.2.2  土地利用モデルのLOD"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "I.2.2  土地利用モデルのLOD"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_656f39f3-51a0-023e-4128-eae7e23de964"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "土地利用モデル（LOD1）では、土地の形状を、高さをもたない面として表現する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

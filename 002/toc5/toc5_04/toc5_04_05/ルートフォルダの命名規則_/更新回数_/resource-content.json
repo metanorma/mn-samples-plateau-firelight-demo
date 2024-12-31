@@ -1,0 +1,99 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.5.2.5  [更新回数]",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.5.2.5  [更新回数]"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.5.2.5  [更新回数]"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8aec8c97-d72e-747c-734a-d17da1d18f22"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[更新回数]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は、履歴管理用に半角数字を付す。初回に作成した成果物は1とする。以降、修正等を行った場合はバージョンアップごとに数字を加算していく。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0c160158-4f60-0bd3-06f8-31eef012f10c"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[更新回数]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[整備年度]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "ごとに加算する。"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[整備年度]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "が変わった場合は、1から開始する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

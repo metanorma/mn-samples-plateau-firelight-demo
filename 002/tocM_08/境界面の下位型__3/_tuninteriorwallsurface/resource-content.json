@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.8.2.8  tun:InteriorWallSurface",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.8.2.8  tun:InteriorWallSurface"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.8.2.8  tun:InteriorWallSurface"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4c143084-bf4e-8cb9-522e-56e0299b90a8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tun:InteriorWallSurfaceは、トンネルの内部空間の区画を区切る壁や仕切りとしての機能を有する面を記述するために使用する地物型である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

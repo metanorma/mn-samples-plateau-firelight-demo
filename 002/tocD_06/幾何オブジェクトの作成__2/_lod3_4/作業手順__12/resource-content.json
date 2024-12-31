@@ -1,0 +1,56 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.6.1.8.2  作業手順",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.6.1.8.2  作業手順"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.6.1.8.2  作業手順"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_bf91a425-a096-3967-1848-b12d52552e8d"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① LOD3.3モデルから、ユースケースに応じて及びtran:AuxiliaryTrafficAreaの属性tran:functionの区分を細分化する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

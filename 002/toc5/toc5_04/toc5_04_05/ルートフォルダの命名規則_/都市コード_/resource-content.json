@@ -1,0 +1,56 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.5.2.1  [都市コード]",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.5.2.1  [都市コード]"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.5.2.1  [都市コード]"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b0301770-49a0-49fc-8aa0-f92d2b600d79"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "フォルダ名の"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は、3D都市モデルの整備範囲を示すコード（市区町村の場合は、都道府県コード（2桁）と市区町村コード（3桁）の組み合わせからなる5桁の数字、都道府県の場合は都道府県コード）とする。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

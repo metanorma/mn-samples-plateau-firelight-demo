@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.10.2.1  延長の長い橋梁モデルの取り扱い",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.10.2.1  延長の長い橋梁モデルの取り扱い"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.10.2.1  延長の長い橋梁モデルの取り扱い"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_579c276e-4d44-0714-1227-5d476b528fe8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "一つの橋梁は、一つの橋梁モデルとしてデータ作成することを基本とする。ただし、高速道路の高架橋のように延長の長い橋梁は、一つのモデルとして作成するとデータ量が膨大になる。そこで、その場合には管理区間又は上部工の境界（伸縮装置が設置されている場所）により区切り、一つの橋梁モデルとしてよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

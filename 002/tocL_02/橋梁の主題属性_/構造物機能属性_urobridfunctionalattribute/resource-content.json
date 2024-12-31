@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.2.4.3  構造物機能属性（uro:bridFunctionalAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.2.4.3  構造物機能属性（uro:bridFunctionalAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.2.4.3  構造物機能属性（uro:bridFunctionalAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8fd1b1bd-ce4d-d2bb-bfbf-b95883e3c4de"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "橋梁の利用者や進行方向。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

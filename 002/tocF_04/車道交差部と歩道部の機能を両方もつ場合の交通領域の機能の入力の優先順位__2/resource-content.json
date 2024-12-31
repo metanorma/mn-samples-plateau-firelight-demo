@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "F.4.2  車道交差部と歩道部の機能を両方もつ場合の交通領域の機能の入力の優先順位",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "F.4.2  車道交差部と歩道部の機能を両方もつ場合の交通領域の機能の入力の優先順位"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "F.4.2  車道交差部と歩道部の機能を両方もつ場合の交通領域の機能の入力の優先順位"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f9f8b903-723d-ea62-7d6e-b57980516dcb"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "LOD2又はLOD3を作成する際に、歩道部であるが車両が通行できる交通領域が存在する場合がある。このような交通領域の機能（tran:function）は、車道交差部とすることを基本とする。その際は、歩道部の境界線を用いて車道交差部を二つに分ける。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ce9eb6f4-c3c5-73c2-66c2-ccca1581c435"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、ユースケースにおいて歩道部の連続性が必要である場合は交通領域の機能（tran:function）を歩道部とできる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

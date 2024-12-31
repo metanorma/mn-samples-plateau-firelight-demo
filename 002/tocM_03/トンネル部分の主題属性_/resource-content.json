@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.3.2  トンネル部分の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.3.2  トンネル部分の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.3.2  トンネル部分の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_21a50016-96ca-c2af-bf2d-515724ea2a99"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tun:TunnelPartは、tun:Tunnelと同様の主題属性をもつことができる。必要に応じてtun:TunnelPartごとに個別の属性をもつ。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.11.1.2.2  作業手順",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.11.1.2.2  作業手順"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.11.1.2.2  作業手順"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_2cd40dff-b8c4-cb74-9e2c-01a3b549f415"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① 建築物モデル（LOD0）の範囲に含まれる航空写真から作成した点群又は航空レーザ点群を抽出し、中央値を算出する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_870dce59-1b1b-b722-13e0-d7cc4fe2cf0b"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "② 建築物モデル（LOD0）を構成する各頂点に、高さとして、算出した中央値を与える。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_43af1d08-6a29-6843-3934-0f91bcfaa55a"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "③ 前項で作成した高さをもった外周を、地表面の高さまで押し下げ、立体を作成する。地表面が傾斜している場合は、最低となる高さまで押し下げる。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

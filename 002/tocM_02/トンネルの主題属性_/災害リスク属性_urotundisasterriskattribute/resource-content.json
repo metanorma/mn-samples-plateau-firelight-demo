@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.2.4.5  災害リスク属性（uro:tunDisasterRiskAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.2.4.5  災害リスク属性（uro:tunDisasterRiskAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.2.4.5  災害リスク属性（uro:tunDisasterRiskAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_00bf52c6-381e-fd58-0577-fd5c9632338b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "浸水想定区域や土砂災害警戒区域等の災害リスクに関する情報。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

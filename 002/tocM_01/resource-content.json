@@ -1,0 +1,489 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.1  概要",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.1  概要"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.1  概要"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_01f16cd4-1a41-65c4-1902-56119cfde99a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本付属書では、「3D都市モデル標準製品仕様書」（以下、「標準製品仕様書」という）に適合したデータ製品について、「トンネルモデル」に従って作成された都市オブジェクト（以下、「トンネルオブジェクト」という）が満たすべき要件と、妥当なトンネルモデルを作成するための標準的な作業手順を示す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "figure",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_req_tun"
+                    },
+                    "content": [
+                        {
+                            "type": "figCaption",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "表 M-1 — 要求クラス M-1: 妥当なトンネルオブジェクト"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table",
+                            "attrs": {
+                                "colWidths": []
+                            },
+                            "content": [
+                                {
+                                    "type": "table_row",
+                                    "content": [
+                                        {
+                                            "type": "table_header",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "識別子"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "table_cell",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "code",
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "/req/tun"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "table_row",
+                                    "content": [
+                                        {
+                                            "type": "table_header",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ターゲットタイプ"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "table_cell",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "3D都市モデル"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "table_row",
+                                    "content": [
+                                        {
+                                            "type": "table_header",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "説明"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "table_cell",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_dc02251c-aeb4-57b0-28fd-26288fdf8e4a"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "妥当なトンネルオブジェクト"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "table_row",
+                                    "content": [
+                                        {
+                                            "type": "table_header",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "規範的声明"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "table_cell",
+                                            "attrs": {
+                                                "colspan": null,
+                                                "rowspan": null,
+                                                "colwidth": null,
+                                                "background": null
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": ""
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_1"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-1: トンネル記述のLOD対応条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_2"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-2: トンネルのLOD0形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_3"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-3: トンネルのLOD1形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_4"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-4: tun:TunnelのLOD1形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_5"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-5: トンネルモデルの上面高さの基準"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_6"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-6: トンネルモデルの底面高さの基準"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_7"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-7: トンネルのLOD2形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_8"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-8: トンネルモデルのLOD2境界面区分条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_9"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-9: トンネルのLOD3形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_10"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-10: トンネルのLOD4形状定義"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_11"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-11: 境界面のポリゴンの条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_12"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-12: tun:TunnelInstallationの空間属性タイプ"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_13"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-13: tun:IntTunnelInstallationの空間属性タイプ"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_14"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-14: tun:TunnelFurnitureの空間属性タイプ"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_15"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-15: tun:_BoundarySurfaceの種類"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_16"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-16: 境界面の幾何オブジェクト参照条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_17"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-17: 外壁面と屋根面の区分条件"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "resource_link",
+                                                            "attrs": {
+                                                                "href": "urn:x-metanorma-xml-id:_req_tun_18"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "要求 M-18: 内壁面と天井面の区分条件"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

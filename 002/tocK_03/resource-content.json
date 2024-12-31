@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "K.3  urf:Boundary",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "K.3  urf:Boundary"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "K.3  urf:Boundary"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ab156413-02de-b6bd-3d60-cc92595cd399"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "urf:Boundaryは、都市計画区域や用途地域等の区域（urf:Zone）を区切る境界線に属性をもたせたい場合に使用する型である。区域の境界線に属性をもたせる必要が無い場合は、urf:Boundaryは使用しなくてよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

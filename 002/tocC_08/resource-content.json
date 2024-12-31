@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.8  bldg:BuildingInstallation",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.8  bldg:BuildingInstallation"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.8  bldg:BuildingInstallation"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_18715a8f-7065-30dc-5c21-e678b03c1c95"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:BuildingInstallationは、バルコニー、煙突又は屋外階段のような、建築物の外側に設置された付属的な設備であり、かつ永続的に設置されている設備である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

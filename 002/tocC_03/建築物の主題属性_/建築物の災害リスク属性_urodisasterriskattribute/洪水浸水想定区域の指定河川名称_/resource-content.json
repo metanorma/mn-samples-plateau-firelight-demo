@@ -1,0 +1,111 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.3.2.9.2  洪水浸水想定区域の指定河川名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.3.2.9.2  洪水浸水想定区域の指定河川名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.3.2.9.2  洪水浸水想定区域の指定河川名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4e15940d-74fe-20cf-b9ba-d8cd9f013331"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "洪水浸水想定区域（uro:RiverFloodingRiskAttribute）の属性uro:descriptionは、指定河川の名称となる。このとき、指定河川の名称は、以下の規則に従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_ed552437-a7a3-aa60-cfab-6d9b7108fe83"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "水防法に基づき指定された洪水浸水想定区域図の対象となる洪水予報河川又は水位周知河川として示された、「水系名」及び「指定河川名」を用いることを基本とする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_39345651-77b4-d41c-a003-8e41edf62e29"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "一つの浸水想定区域図に複数の洪水予報河川又は水位周知河川が含まれている場合は、「指定河川名」を列挙する。指定河川名を列挙する場合の区切り文字は「・」（全角中点）を使用する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_e9a04e84-f9b1-c0c4-4c8c-74f3d4480fec"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "都道府県が独自に作成している浸水の区域図は、当該浸水想定区域の名称から、対象となる区域を指す名称を用いる。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_944b69c3-bed0-9a22-2c6c-d0e88ba0f8cd"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、洪水浸水想定区域図の名称には、必ずしも全ての指定河川が含まれているとは限らない。よって、洪水浸水想定区域図の「基本事項等」に記載されている、「対象となる河川」を確認する必要がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

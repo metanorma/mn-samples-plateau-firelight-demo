@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "J.2.3.1  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "J.2.3.1  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "J.2.3.1  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_720b8fc1-eabf-63dc-a69a-82c9bf171b8a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "災害リスク（浸水）モデル（LOD1）では、浸水面の形状を、高さをもつ面として表現する。高さをもつ面の記述にはgml:MultiSurfaceを使用する。gml:MultiSurfaceに含まれる隣接する面はその頂点を共有し、連続的な浸水面として表現しなければならなない。また、各頂点の高さは、標高に水位を加えた高さとなる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2589cc14-54fa-efce-e016-3a6b78a3db2c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "災害リスク（土砂災害）モデル（LOD1）では、区域の形状を、高さをもたない面として表現する。高さをもたない面の記述にはgml:MultiSurfaceを使用する。このときの面の形状は、土砂災害警戒区域又は土砂災害特別警戒区域の形状と一致し、各頂点の高さは0となる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

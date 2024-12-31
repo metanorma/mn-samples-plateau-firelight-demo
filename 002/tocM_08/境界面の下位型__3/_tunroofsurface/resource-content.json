@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.8.2.1  tun:RoofSurface",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.8.2.1  tun:RoofSurface"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.8.2.1  tun:RoofSurface"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_776f9049-a97d-215b-38f0-8b2ad046bf9b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tun:RoofSurfaceは、屋根面を記述するために使用する地物型である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

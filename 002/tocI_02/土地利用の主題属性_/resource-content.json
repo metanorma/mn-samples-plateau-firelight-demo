@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "I.2.4  土地利用の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "I.2.4  土地利用の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "I.2.4  土地利用の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8d7ea2bd-aa59-d934-1100-bf147357be1c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "土地利用の主題属性は、都市計画基礎調査の土地利用現況により得られた情報である。原典資料として、GISデータ（土地利用現況）又は調書（土地利用現況）を使用できる。また、作成したデータの品質に関する情報を格納するための属性（uro: DataQualityAttribute ）がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

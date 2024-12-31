@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.3.1  橋梁部分の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.3.1  橋梁部分の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.3.1  橋梁部分の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_012444aa-85ac-7272-a979-679264b9cfac"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:BridgePartの空間属性は、brid:Bridgeの空間属性の取得方法と同じである。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_590a9278-6730-aa8f-5fec-ce24eee58ad3"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、連続するbrid:BridgePartの境界面は、brid:ClosureSurfaceとなる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

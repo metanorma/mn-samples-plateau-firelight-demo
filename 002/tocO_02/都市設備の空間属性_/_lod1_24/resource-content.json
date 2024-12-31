@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "O.2.3.2  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "O.2.3.2  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "O.2.3.2  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_920b82ad-4899-4186-5aa5-b3d2e471c830"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市設備モデル（LOD1）では、都市設備の形状を立体で表現することを基本とする。このとき、都市設備オブジェクトは、都市設備モデル（LOD1）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bedaacb0-fe28-6bfa-6fc5-008998440d02"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市設備モデル（LOD1）では、都市設備の上方からの正射影の外周を、一律の高さで上向きに押し出した立体として表現することを基本とする。ただし、道路上のマンホールのように、他の地物の面と一体として表現されるべきものは、都市設備の外周を包含する矩形又は矩形の組み合わせにより表現する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

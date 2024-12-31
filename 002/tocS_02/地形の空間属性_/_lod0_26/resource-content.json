@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "S.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "S.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "S.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ae78e523-3c86-09a1-71e7-6a142d398d11"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地形モデル（LOD0）では、地形の形状を点、線又は面により表現する。このとき、地形オブジェクトは、地形モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d3246b0d-0ae0-7a04-9b96-b045b0888d55"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地形モデル（LOD0）は、公共測量標準図式に従った表現となる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

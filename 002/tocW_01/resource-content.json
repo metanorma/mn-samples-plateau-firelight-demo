@@ -1,0 +1,89 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "W.1  概要",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "W.1  概要"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "W.1  概要"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f90b35e2-c84c-23b3-bb87-9f098c878cbb"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "品質評価については、関連するオープンソースソフトウェアがProject “PLATEAU”公式GitHubリポジトリに公開されており、それらを利用しても良い（ "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://github.com/Project-PLATEAU/"
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "text": " ）。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e787fa2b-65ad-4b0c-fb61-81ece14dc046"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、この品質評価ツールは、3D都市モデル標準製品仕様書第２.3版に対応しており、この標準作業手順書が発行される時点では、標準製品仕様書第4.0版には対応していないことに留意する必要がある。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3bbcfdfc-4c90-1741-769b-e2488a1b6247"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "品質評価ツールは主に全数・自動検査により実施可能な品質要求を対象としている。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4d7b6ae6-aac8-d75b-3fdb-6b96b5390bd9"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本付属書では、オープンソースソフトウェアが対象とする品質要求の項目を示す。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

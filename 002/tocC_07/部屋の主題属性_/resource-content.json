@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.7.2  部屋の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.7.2  部屋の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.7.2  部屋の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8eedb990-eb4a-656c-9c39-05272f6d5105"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Roomは、建築物の内部の部屋の総称となる。そのため、部屋の機能や用途は、主題属性bldg:class及びbldg:functionにより区分する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8844c85b-40da-8bd0-774c-097af305e850"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:class及びbldg:functionが取りうる値は、コードリストにより定義されている。標準製品仕様書では、bldg:class及びbldg:functionの定義域として建築生産で必要とする建築部位、工法及び設備などの名称を体系的に整理したUniclass2015のうち、Space/Locationのカテゴリを採用している。これは、建築物モデル（LOD4）は、BIMモデルからの変換によるデータ作成が進むと想定され、bldg:Roomに対応するIFCのクラスとして、IfcSpaceが存在するからである。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

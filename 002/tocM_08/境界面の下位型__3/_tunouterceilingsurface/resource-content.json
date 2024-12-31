@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.8.2.6  tun:OuterCeilingSurface",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.8.2.6  tun:OuterCeilingSurface"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.8.2.6  tun:OuterCeilingSurface"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d1500659-13b1-a5ce-6380-dc43c4dba02c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tun:OuterCeilingSurfaceは、トンネルの外側を覆う部分であり、天井としての機能を有する面を記述するために使用する地物型である。標準製品仕様書では使用しない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

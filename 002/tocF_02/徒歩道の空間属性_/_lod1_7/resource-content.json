@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "F.2.3.2  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "F.2.3.2  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "F.2.3.2  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_36c6bfb6-03d1-446e-3aa6-85e074f4542e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（徒歩道）モデル（LOD1）では、徒歩道の形状を面として表現する。このとき、交通（徒歩道）オブジェクトは、交通（徒歩道）モデル（LOD1）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_52ad6f4e-139b-bcc3-3cb0-e9e6db163b67"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran:Trackの境界は、徒歩道の横断方向は徒歩道縁となる。徒歩道の延長方向は、以下の場所で区切る。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_43a0881e-31cb-29bd-36dd-d62bdf1a06c2"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交差部（四差路、多差路及び三差路）での徒歩道の区切り方は、交通（道路）モデルと同様とする。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

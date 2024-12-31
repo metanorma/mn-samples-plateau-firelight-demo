@@ -1,0 +1,103 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "I.2.4.2  土地利用詳細属性（uro:landUseDetailAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "I.2.4.2  土地利用詳細属性（uro:landUseDetailAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "I.2.4.2  土地利用詳細属性（uro:landUseDetailAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3b6a7bee-eaa9-3bdc-966b-15003cee2844"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市計画基礎調査の土地利用現況として記録された情報を格納するための属性である。属性の型であるuro:LandUseDetailAttributeには都市独自の土地利用の区分（uro:orgLandUse）の他、面積（uro:nominalArea）や建ぺい率（uro:buildingCoverageRate）など、様々な属性の箱が用意されている。都市計画基礎調査でこれらの情報が収集されている場合には、定義済みの属性を使用する。また、該当する属性が無い場合には、汎用属性を使用して拡張できる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8e9944d1-77b7-0a53-bed1-27451b3f4eff"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、都市独自の土地利用の区分（uro:orgLandUse）を作成する場合には、区分を示すコードリスト（LandUseDetailAttribute \\_orgLandUse.xml）を作成しなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ff1b4470-e809-8754-e9e4-72f3fe3a2a00"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "データ品質属性（uro:DataQualityAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ad6ed8a6-05db-440f-03a4-5a5a961d90de"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "使用した原典資料やそれに基づくデータの品質、また、採用したLODは、データセットのメタデータに記録できる。ただし、データセット全体に対して一つのメタデータを作成することが基本となり、個々の都市オブジェクトの品質を記録することは困難である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3d847b7e-23cc-0163-b3c3-bc3157aa5287"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "そこで、標準製品仕様書では、個々のデータに対してデータ品質に関する情報を記述するための属性として、「データ品質属性」（uro:DataQualityAttribute）を定義している。データ品質属性は、属性としてデータ作成に使用した原典資料の地図情報レベル、その他原典資料の諸元及び精緻化したLODをもつ。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9a7abf46-b351-b9ef-8f4a-5a80831e6e72"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルに含まれる全ての土地利用オブジェクトは、このデータ品質属性を必ず作成しなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

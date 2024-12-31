@@ -1,0 +1,168 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "3.1  データ製品の名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "3.1  データ製品の名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3.1  データ製品の名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_54832099-e625-f0ff-8371-08b430a1bd0d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "データ製品の名称は、「"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "3D都市モデル_[都市コード]_[提供者区分]_[整備年度]_[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "」とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8a459196-0a87-96bc-fb63-223b4bcf0185"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者区分]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[整備年度]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "及び"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は、成果品のルートフォルダの名称に含まれる"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者区分]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[整備年度]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "及び"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "と一致する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

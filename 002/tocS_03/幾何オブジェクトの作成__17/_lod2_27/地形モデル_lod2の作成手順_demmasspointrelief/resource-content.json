@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "S.3.1.3.3  地形モデル（LOD2）の作成手順（dem:MassPointRelief）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "S.3.1.3.3  地形モデル（LOD2）の作成手順（dem:MassPointRelief）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "S.3.1.3.3  地形モデル（LOD2）の作成手順（dem:MassPointRelief）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bdcfdcb2-690e-ccbe-caba-6879ff823bd3"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "①　航空写真から作成した点群や航空写真レーザ点群をデータ変換しdem:MassPointReliefを作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_efaadae7-50b2-6226-a6c4-d7f7c3094239"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "② 地形の外形を多角形で取得する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e3684744-3e61-315b-628e-7a97f6d7b74f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ランダム点群の場合、点の集合から地形モデルの範囲を正確に取得できない。そのため地形の外側の境界（dem:extentのexterior）を必ず作成する。地形の内空の境界（dem:extentのinterior）は任意で取得する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

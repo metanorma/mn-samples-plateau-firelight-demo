@@ -1,0 +1,56 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.10.1.1.2  作業手順",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.10.1.1.2  作業手順"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.10.1.1.2  作業手順"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_9ed9d7a1-e260-7d99-b502-f079410507aa"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① DMデータより、道路のトンネル、鉄道のトンネル、坑口の図式を抽出する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

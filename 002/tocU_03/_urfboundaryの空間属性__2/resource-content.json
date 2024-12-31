@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "U.3.1  urf:Boundaryの空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "U.3.1  urf:Boundaryの空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "U.3.1  urf:Boundaryの空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5306880d-8cf6-0acf-0ded-87d6602cf88e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "urf:Boundaryは、urf:Zoneの境界となる。そのため、urf:Boundaryの空間属性（gml:MultiCurve）は、urf:Zoneの空間属性（gml:MultiSurface）を構成する曲線と一致しなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

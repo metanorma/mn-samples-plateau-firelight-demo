@@ -1,0 +1,92 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "2.3  標準製品仕様書の使用",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "2.3  標準製品仕様書の使用"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "2.3  標準製品仕様書の使用"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6af92339-ec2b-e371-e6e3-afa295d0447c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルのユースケースに対して、必要となる地物型等が標準製品仕様書に定義された地物型等で網羅されている場合は、標準製品仕様書を使用する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a8036522-e91f-17b1-6794-1fe34b712afe"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "手順："
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_8b56d80b-de1d-c13a-733e-1555711ff5e3"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "標準製品仕様書に定義された地物型等の一覧（前項にて作成）のうち、ユースケースに必要（3D都市モデルとして整備する対象）となる地物型等について、「作成対象」欄に〇を付ける。また、作成対象とする属性及び関連役割の内、必須とする属性及び関連役割には、●を付ける。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e77ef480-dcea-320c-4059-74c7b857ab97"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、標準製品仕様書の使用にあたり、以下の点に留意する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

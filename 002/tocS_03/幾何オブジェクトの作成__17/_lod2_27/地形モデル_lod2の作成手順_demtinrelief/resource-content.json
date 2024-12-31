@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "S.3.1.3.2  地形モデル（LOD2）の作成手順（dem:TINRelief）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "S.3.1.3.2  地形モデル（LOD2）の作成手順（dem:TINRelief）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "S.3.1.3.2  地形モデル（LOD2）の作成手順（dem:TINRelief）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_43097285-2ba1-b0bb-f4a2-42eba6bf1e5b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "①　航空写真から作成した点群や航空レーザ点群を用いて、TINを作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b4f20306-c25e-4e24-252c-b3044d5054ec"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "点群からTINを作成する。ただし、水部ではTINを作成しない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_19f666dd-f969-18ad-872f-8f658f511e7e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "航空写真から作成する場合は、水涯線を図化し水涯線までのTINを作成し、航空レーザ点群から作成する場合は、水部ポリゴンまでのTINを作成する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

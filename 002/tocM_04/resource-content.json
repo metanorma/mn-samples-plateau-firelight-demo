@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.4  tun:HollowSpace",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.4  tun:HollowSpace"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.4  tun:HollowSpace"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_72c6e1ca-bbb3-bb02-1418-0a742e37c651"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tun:HollowSpaceは、トンネルの内部空間の記述に使用する地物型である。トンネルモデル（LOD4）においてのみ使用する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

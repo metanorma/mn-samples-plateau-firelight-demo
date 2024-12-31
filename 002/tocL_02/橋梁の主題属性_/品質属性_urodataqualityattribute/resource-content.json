@@ -1,0 +1,79 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.2.4.8  品質属性（uro:DataQualityAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.2.4.8  品質属性（uro:DataQualityAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.2.4.8  品質属性（uro:DataQualityAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_67dd7cee-4b4b-484e-ebf5-45657b2901ba"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "橋梁オブジェクトの作成に使用した原典資料の記録や、適用した詳細なLODの区分を示すための属性である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_39e1a7cb-4824-ef11-5b57-f5a2663f74c9"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "使用した原典資料やそれに基づくデータの品質、また、採用したLODは、データセットのメタデータに記録できる。ただし、データセット全体に対して一つのメタデータを作成することが基本となり、個々の都市オブジェクトの品質を記録することは困難である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5bc43ad4-8590-5050-4b67-d7d0afe6ebf3"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "そこで、標準製品仕様書では、個々のデータに対してデータ品質に関する情報を記述するための属性として、「データ品質属性」（uro:DataQualityAttribute）を定義している。データ品質属性は、属性としてデータ作成に使用した原典資料の地図情報レベル、その他原典資料の諸元及び精緻化したLODをもつ。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b1ffa530-9f6f-5244-fc17-35258db7a820"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルに含まれる全ての橋梁オブジェクトは、このデータ品質属性を必ず作成しなければならない。ただし、橋梁（brid:Bridge）又は橋梁部分（brid:BridegPart）に対してデータ品質属性を付与することはできるが、これを構成する屋根面や外壁面（brid:_BoundarySurfaceの下位クラス）にデータ品質属性を付与することはできない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

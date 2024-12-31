@@ -1,0 +1,79 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.6  brid:IntBridgeInstallation",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.6  brid:IntBridgeInstallation"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.6  brid:IntBridgeInstallation"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c40979c8-5685-ea24-5d07-87210cf1a99c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:IntBridgeInstallationは、橋梁の内部に設置された、恒久的に存在する固定的な設備（内部付属物）を記述するために用いる。橋梁の付帯的な設備であり、主要な部分であってはならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3641d9f3-0791-7884-1adb-466d2cba9975"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "橋梁の内部付属物には以下を含む。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0c8d57b6-4e4c-455d-3664-7c185cc1655c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "階段、スロープ、エスカレータ、輸送設備（エレベータ、エスカレータ、動く歩道）、柱、デッキ、ステージ、手すり、パネル、梁"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f225f740-7be4-ce6c-6a7e-5597f55aa95a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、ユースケースの要求に応じて、取得対象とする内部付属物を限定してもよく、また、内部付属物として取得せず橋梁の一部として取得してもよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

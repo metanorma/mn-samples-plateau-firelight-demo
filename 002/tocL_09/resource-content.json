@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.9  brid:_Opening",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.9  brid:_Opening"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.9  brid:_Opening"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c70e823c-3639-8304-0350-47c07a86546f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:_Openingは、壁面や屋根面に設置される開口部である。開口部は、橋梁モデル（LOD3）又は橋梁モデル（LOD4）において記述できる。開口部は、これが設置された境界面のbrid:openingにより記述又は参照されなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

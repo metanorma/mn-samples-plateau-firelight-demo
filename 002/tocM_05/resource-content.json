@@ -1,0 +1,79 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.5  tun:TunnelInstallation",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.5  tun:TunnelInstallation"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.5  tun:TunnelInstallation"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2372800b-efca-647c-21d1-1968bd82ca11"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tun:TunnelInstallationは、トンネル本体の外側に設置され、トンネルの外観を特徴づける恒久的な設備を記述するために用いる。トンネルの付帯的な設備であり、主要な部分であってはならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0743dc4d-ad02-a85e-c8ff-c34b46b8c4a6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "トンネルの付属物には以下を含む。ただし、全て外部に設置され、トンネルと接するもののみを対象とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5940ad7a-6f31-8be7-77fd-2756d17eafd9"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "避難連絡坑、受変電設備、予備電源設備、排水設備、換気設備、排水設備、監視制御設備、通報装置、非常用警報装置、消火設備、避難誘導設備、その他。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d52b61e5-4c5f-9940-11cb-5a4907d9e471"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、ユースケースの要求に応じて、取得対象とする付属物を限定してもよく、また、付属物として取得せずトンネルの一部として取得してもよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

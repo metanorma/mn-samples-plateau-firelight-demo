@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "O.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "O.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "O.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_05b4f9cc-3c0a-75b5-d618-89468f8bddb7"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市設備モデル（LOD0）では、都市設備の形状を点、線又は面により表現する。このとき、都市設備オブジェクトは、都市設備モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ea088725-e84a-e5a9-dc09-dd03a7ced3d0"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市設備モデル（LOD0）は、公共測量標準図式に従った表現となる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

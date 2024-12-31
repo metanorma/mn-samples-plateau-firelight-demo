@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.3.2.7  交通量（uro:TrafficVolumeAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.3.2.7  交通量（uro:TrafficVolumeAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.3.2.7  交通量（uro:TrafficVolumeAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4599b929-0b90-4f2d-fa3e-0641c2de27bf"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "uro:TrafficVolumeAttributeは道路の交通量に関する情報である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_923ed204-5f49-21fb-2ed7-d537e448e629"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通量は、全国道路・街路交通量情勢調査（一般交通量調査）より取得する。そのため、本属性が付与される道路は、全国道路・街路交通情勢調査(一般交通量調査)の対象となる高速自動車国道、都市高速道路、一般国道、主要地方道である都道府県道及び指定市の市道、一般都道府県道、指定市の一部の一般市道となる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

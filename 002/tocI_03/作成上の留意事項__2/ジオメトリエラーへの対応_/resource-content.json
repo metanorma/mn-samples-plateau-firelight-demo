@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "I.3.2.1  ジオメトリエラーへの対応",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "I.3.2.1  ジオメトリエラーへの対応"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "I.3.2.1  ジオメトリエラーへの対応"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1b7ee8c3-58aa-8116-85fe-231b8589221e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "元となるGISデータに含まれる幾何オブジェクトが、妥当な幾何オブジェクトの要件を満たしていること、また、標準製品仕様書の品質要求を満たしていることを確認し、エラーが含まれる場合はエラーを修正することを基本とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e75e4a04-8edf-15d2-66e9-3d04ef54c755"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、原典資料のエラーとも考えられるため、修正の内容や量、修正方法、修正作業の実施主体について、3D都市モデルの整備主体と協議する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

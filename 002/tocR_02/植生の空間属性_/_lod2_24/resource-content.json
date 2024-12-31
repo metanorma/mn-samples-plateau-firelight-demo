@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "R.2.3.3  LOD2",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "R.2.3.3  LOD2"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "R.2.3.3  LOD2"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d751ec02-a4be-07c8-47b8-7a402c87088d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "植生モデル（LOD2）では、植生の形状を立体として表現することを基本とする。ただし、ユースケースで必要が無い場合には面の集まりとして表現してもよい。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ce07f56f-ff74-afa9-4aca-20b7e8e3af06"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "単独木は、樹冠と樹幹をそれぞれ簡略化した立体を組み合わせた立体として表現する。3m以上の植被は、植被の表層の高さを取得し、比高3m以上の形状を再現した立体として表現する。立体は、特徴点を結ぶ三角網から構成される面を境界面とする立体とする。3m未満の植被は、底面を最高高さまで立ち上げた立体とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_60de96ac-d948-08ab-08ee-14ac21d23966"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "このとき、植生オブジェクトは、植生モデル（LOD2）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

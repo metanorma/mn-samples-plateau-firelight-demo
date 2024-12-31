@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "K.4.1.1.1  GISデータの変換により作成する方法",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "K.4.1.1.1  GISデータの変換により作成する方法"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "K.4.1.1.1  GISデータの変換により作成する方法"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6961c262-2f23-a40e-6569-b2732504fcb7"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "GISデータがある場合には、これを利用できる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d11cf986-80e7-9e5d-52c3-64952979e25e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、既存のGISデータの利用にあたっては以下の点に留意する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

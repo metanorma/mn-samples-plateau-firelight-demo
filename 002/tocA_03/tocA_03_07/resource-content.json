@@ -1,0 +1,97 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "A.3.7  拡張品質要求",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "A.3.7  拡張品質要求"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "A.3.7  拡張品質要求"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b27e1f30-7ae0-4609-6dc6-c4cdf042a74d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本様式は、品質要求を追加又は標準製品仕様書の品質要求を変更する場合に使用する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_58ff5c9d-c0aa-6d6f-6339-ec5ec27f5052"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "「No.」には、追加した品質要求を識別する番号を以下の規則により付与する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b126e965-f89c-d847-4fef-55aeabcc896c"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "QE[識別番号]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_93f0b707-a6b5-16e4-3344-6c8eae94e59c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ここで、「QE」は拡張された品質要求であることを示す接頭辞、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[識別番号]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は 品質要求を識別する連番（先頭の0は省略する）とする。また、「品質要素」は、「品質の要求、評価及び報告のための規則」に定義された品質要素（15項目）から選択する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

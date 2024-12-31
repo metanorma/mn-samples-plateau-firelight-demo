@@ -1,0 +1,1042 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "5.4.1  データ出力",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "5.4.1  データ出力"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "5.4.1  データ出力"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f27c7217-768f-8206-9ebb-09507afe3c24"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "前項までで作成した3D都市モデルを、製品仕様に示された符号化仕様に従うデータに変換する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ffb054b2-ca3f-d747-b308-5bbfa0250feb"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "手順："
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_0387db89-c63f-3f1b-c961-bafa9edaded2"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "指定されたファイル単位に分割する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_2c9c1b68-6fc2-b730-57fb-7589c6ef3eff"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "標準製品仕様書で地物型ごとに指定されたファイル単位（5.4.2）に従い、分割する。分割は、メッシュコードに紐づく空間範囲ごとに実施する。ただし、空間範囲の境界線上に存在する地物は区切らず、それぞれのメッシュに平面投影した形状が含まれる面積の割合を算出し、この割合が最も大きいメッシュに対応するファイルに含む。m2で面積を計算し、小数点2桁（3桁目で四捨五入）で比較する。面積が同じ場合はメッシュ番号の小さい方とする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_244d9f1c-fea2-8e25-5b61-44bc7862eda5"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "分割したファイル単位にデータを変換・出力する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_f9a2a851-480f-c0d2-fd00-3748d160cabb"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "符号化仕様に定義されたタグ及びタグの構造（階層、出現順序、データ型、出現回数等）に従い、プログラム等により分割したデータをCityGML及びi-URによるGML形式に変換する。i-UR及びCityGMLに定義された地物型等には、それぞれi-UR及びCityGMLで推奨された接頭辞を使用する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_14f3064a-ba1e-3048-fcfb-db82358c8daa"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "出力においては、成果品となる3D都市モデルの構造（5.4に示すファイル名やフォルダ構成）を考慮すること。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_460f8422-d9b0-c061-335f-c070b8ab6bcd"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "CityGML及びi-URの符号化仕様は以下より取得できる。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_efc9f5ad-a971-2c13-f217-9cb18464a077"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "CityGML："
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "bullet_list",
+                                                    "content": [
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_6f1c5d11-50be-2dec-5688-53dfe03ba838"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "external_link",
+                                                                            "attrs": {
+                                                                                "href": "http://schemas.opengis.net/citygml/"
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_0f21b27a-4722-c29f-9485-d7272c30dddf"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "i-UR："
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "bullet_list",
+                                                    "content": [
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_223f24cd-aff5-405b-b140-2c66a7d173da"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "external_link",
+                                                                            "attrs": {
+                                                                                "href": "https://www.geospatial.jp/iur/schemas/uro/3.1/urbanObject.xsd"
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_a02a2281-d68b-a6c9-8b11-37d07c1a0121"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "external_link",
+                                                                            "attrs": {
+                                                                                "href": "https://www.geospatial.jp/iur/schemas/urf/3.1/urbanFunction.xsd"
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_8bd56e22-ccc0-26f1-df56-f4dcd57f50e7"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "なお、符号化仕様は最新のものであることをversion属性により確認すること。version属性は、符号化仕様内のxs:schemaタグに記載されている（以下のフラグメントの太字部分）。"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "type": "source_listing",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_f33c1007-40c6-4286-283a-b47d9b7418e2"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "<xs:schema"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "xmlns:urf="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"https://www.geospatial.jp/iur/urf/3.1\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "xmlns:core="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"http://www.opengis.net/citygml/2.0\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "xmlns:xs="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"http://www.w3.org/2001/XMLSchema\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "xmlns:gml="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"http://www.opengis.net/gml\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "xmlns:uro="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"https://www.geospatial.jp/iur/uro/3.1\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "targetNamespace="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"https://www.geospatial.jp/iur/urf/3.1\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "elementFormDefault="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"qualified\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "attributeFormDefault="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"unqualified\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "version="
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "\"3.1.0\""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "span",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": ">"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_8a0ca655-c169-f9bc-4dd6-6febb4fb73e9"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "コード型に対応するコードリストをXML形式に変換・出力する。XMLの形式は、GML 3.1.1 simple dictionary profileを使用する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_75714de3-895c-7df7-7572-8001f9f377fe"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "GML 3.1.1 simple dictionary profileは、もともとは辞書として利用されることを想定したXML形式であり、名前（gml:name）とその説明（gml:description）の対の集まりから構成される。CityGMLでは、コードリストの符号化仕様としてこのGML 3.1.1 simple dictionary profileを使用していることから、標準製品仕様においてもコードリストの符号化仕様としてGML 3.1.1 simple dictionary profileを採用する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_297ed920-7e0c-b9f1-ce99-1e3f96ca5de5"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "GML 3.1.1 simple dictionary profileに従ったXML形式のコードリスト例を以下に示す。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "source_listing",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_6f28cb41-ffe3-b8a6-2f64-79b91c9fbe73"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:Dictionary"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "xmlns:xsi="
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\"http://www.w3.org/2001/XMLSchema-instance\""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "xmlns:gml="
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\"http://www.opengis.net/gml\""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "xsi:schemaLocation="
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\"http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd\""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "gml:id="
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\"cl_f649301c-8e10-11ec-b909-0242ac120002\""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": ">"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:name>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Building_class"
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:name>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:dictionaryEntry>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:Definition"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "gml:id="
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\"id1\""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": ">"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:description>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "普通建物"
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:description>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:name>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "3001"
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:name>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:Definition>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:dictionaryEntry>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<!-- …略… -->"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:dictionaryEntry>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:Definition"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "gml:id="
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "\"id5\""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": ">"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:description>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "分類しない建物"
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:description>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "<gml:name>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "3000"
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:name>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:Definition>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:dictionaryEntry>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "span",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "</gml:Dictionary>"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_d08aaa64-f88b-00e7-aef2-77be4b8195c1"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "`gml:Dictionary`の`gml:id`は、"
+                                                        },
+                                                        {
+                                                            "type": "code",
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "[接頭辞]_[UUID]"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "とする。"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "bullet_list",
+                                                    "content": [
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_96ad8e99-38de-6762-c9b2-b262b71b42ce"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "code",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "[接頭辞]"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "は、clとする。"
+                                                                        },
+                                                                        {
+                                                                            "type": "code",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "[UUID]"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "は、Universally Unique Identifierとする。"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_70b5ba67-dc43-72b1-af1e-20ec6f885d22"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "gml:nameには、当該3D都市モデルにおけるコードリストを識別する名称として、地物型名と属性名との組み合わせとする。地物型名と属性名とは_（アンダースコア）でつなぐ。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_cb7d9883-a784-92e1-6992-f0203eb5bfda"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "コードとその説明を、gml:Definitionにより対として記述する。gml:Definitionの子要素となるgml:descriptionには説明を、gml:nameにはコードを示す。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_495204bc-4785-94cd-a178-a51dcfe2792b"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "標準製品仕様書に定義されたコードリストのXMLは以下より取得できる。"
+                                                        },
+                                                        {
+                                                            "type": "external_link",
+                                                            "attrs": {
+                                                                "href": "https://www.geospatial.jp/iur/codelists"
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_e65c81d3-6713-a7ca-e322-72bc4002cbe7"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "品質評価を実施する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_a320b1ab-e20a-4e63-1519-55a9e7c62359"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "論理一貫性（L03）の品質評価は、拡張製品仕様書において作成対象とした地物及び属性に対して行うこと。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

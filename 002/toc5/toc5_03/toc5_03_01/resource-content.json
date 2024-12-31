@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.3.1  メタデータの作成単位",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.3.1  メタデータの作成単位"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.3.1  メタデータの作成単位"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7e781c65-61fd-12f4-5bb3-f0374cd942cc"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルのメタデータは、CityGML形式で作成する全てのデータを一式として作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f04968b9-3220-fd7a-6458-f7406b1857b9"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "メタデータは、拡張製品仕様書に従った3D 都市モデルと、3D都市モデルオープンデータのそれぞれについて作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_66c32c11-4c61-45e0-0fe3-980880344437"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "メタデータ作成における留意点を以下に示す。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

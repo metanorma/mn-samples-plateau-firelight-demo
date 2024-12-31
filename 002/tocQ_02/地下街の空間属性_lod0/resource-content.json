@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "Q.2.3  地下街の空間属性LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Q.2.3  地下街の空間属性LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Q.2.3  地下街の空間属性LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_612c9d70-7eb1-4996-a999-9071fd91d575"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下街モデル（LOD0）では、地下街の形状を面として表現する。このとき、地下街オブジェクトは、地下街モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

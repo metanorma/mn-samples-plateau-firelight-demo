@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "G.2.4  広場の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "G.2.4  広場の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "G.2.4  広場の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b69ba567-7023-3b69-5617-45520f10fd37"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "広場の主題属性には、あらかじめCityGML又はGMLにおいて定義された属性（接頭辞tran、gml）と、i-URにより拡張された属性（接頭辞uro）がある。CityGMLで定義された属性は、道路の機能など、基本的な情報となる。i-URにより拡張された属性には、広場に関する情報を格納するための属性（uro:SquareUrbanPlanAttribute、uro:StationSquareAttribute、uro:TerminalAttribute）、数値地形図との互換性を保つための情報を格納するための属性（uro:DmAttribute）、さらに、作成したデータの品質に関する情報を格納するための属性（uro:DataQualityAttribute）がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

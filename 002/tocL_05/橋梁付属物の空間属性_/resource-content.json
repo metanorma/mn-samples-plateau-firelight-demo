@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.5.1  橋梁付属物の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.5.1  橋梁付属物の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.5.1  橋梁付属物の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_43abc265-0494-4fa4-7ea0-584709722d8e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:BridgeInstallationの空間属性の型は、gml:_Geometryである。gml:_Geometryは、幾何オブジェクトの基底要素であり、実装においては、この下位型のうち、具象となる幾何オブジェクトを地物の形状に合わせて選定する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_79cc108b-bd95-73e2-9219-fe43985a961e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "CityGMLでは、曲面や立体だけではなく、点や曲線も使用可能である。しかしながら3D都市モデルでは、3次元での利用を想定し、付属物の形状に使用可能な幾何オブジェクトを曲面又は立体に限定する。原則として面の集まり（gml:MultiSurface）を使用するが、ユースケースの必要に応じてgml:Solidを使用できる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

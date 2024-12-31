@@ -1,0 +1,227 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "J.2.1  災害リスクモデル",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "J.2.1  災害リスクモデル"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "J.2.1  災害リスクモデル"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b0bd2da8-9fc7-51f5-c9c9-255e58d08fd0"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "災害リスクとは、標準製品仕様書では、以下の7種類を指す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_2b9ed84e-4ae8-84dd-d37f-36581702ade5"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "洪水浸水想定区域図データ電子化ガイドラインが対象とする「洪水浸水想定区域」"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_165800de-8c43-fb85-c4ac-291472178977"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "resource_link",
+                                            "attrs": {
+                                                "href": "urn:x-metanorma-xml-id:mlit_int_flood_guidelines"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "内水浸水想定区域図作成マニュアル（案）"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " に定める「内水浸水想定区域」"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_f22dfdde-1bbd-3467-9928-788e5f7b35d4"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "水防法第14条の3第1項に定める「高潮浸水想定区域」"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_2e51481d-7d10-832f-5501-d4eec64e69d6"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "津波防災地域づくりに関する法律第8条第1項に定める「津波浸水想定」"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_0b24f63a-2110-1892-7472-e47a88e37d2e"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "resource_link",
+                                            "attrs": {
+                                                "href": "urn:x-metanorma-xml-id:maff_reservoir_hazard_maps"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "ため池ハザードマップ作成の手引き"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " に定める「ため池ハザードマップ」"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_faf6a23b-9957-89db-16f4-437ae1709555"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "土砂災害警戒区域等における土砂災害防止対策の推進に関する法律第7条第1項に定める「土砂災害警戒区域」"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_16e4ef02-bda6-e4bd-f9b1-2bb5d0fb17db"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "土砂災害警戒区域等における土砂災害防止対策の推進に関する法律第9条第1項に定める「土砂災害特別警戒区域」"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_90df7934-d1db-6c20-f302-7bbdbcd27bfc"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、「洪水浸水想定区域」は、水防法第14条第1項に定める洪水浸水想定区域のほか、中小河川洪水浸水想定区域図作成の手引きに従って作成された洪水浸水想定区域及び急流河川における浸水想定区域検討の手引きに従って作成された浸水想定区域等、水防法に基づく洪水浸水想定区域以外の河川が氾濫した場合に浸水が想定される区域を含む。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0995ae6c-230e-6df2-9b0e-c4f60fac8c54"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "また、「内水浸水想定区域」は、水防法に基づく想定最大規模降雨に対する内水による浸水が想定される区域（水防法第14条の2第1項に定める「雨水出水浸水想定区域」）、地域の既往最大降雨や他地域での大規模な降雨など一定の被害が想定される降雨に対する内水による浸水が想定される区域及び計画降雨等に対する内水による浸水が想定される区域を含む。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9fc28cb5-fd1a-53b1-34b7-7fe02c5c1425"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書では、洪水浸水想定区域、内水浸水想定区域、高潮浸水想定区域、津波浸水想定及びため池ハザードマップを「災害リスク（浸水）モデル」、土砂災害警戒区域及び土砂災害特別警戒区域を「災害リスク（土砂災害）モデル」と区分し、それぞれLOD１のみを対象とする。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

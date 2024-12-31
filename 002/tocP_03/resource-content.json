@@ -1,0 +1,181 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "P.4  リンクとなる地物型",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "P.4  リンクとなる地物型"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.4  リンクとなる地物型"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_84b03eba-5fc3-ec7a-e7e9-39c2c6da5e01"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下埋設物のネットワークのリンクとなる地物型には、ケーブル（uro:Cable）、管路（uro:Pipe）及びこれらを格納する保護設備（uro:Duct）がある。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e7b41e21-5a6b-d4a3-d7e6-cec928ef50a9"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "これらの地物型は、属性としてリンクの開始ノードであるstartNodeとリンクの終了ノードであるendNodeを属性としてもつ。管路やケーブルのノードとは、uro:UtilityNodeとこれを格納するuro:UtilityNodeContainerを継承する地物型である。属性startNodeと属性endNodeには、ノードとなる地物の識別子を入力する。この識別子は、都市設備の位置や識別に関するデータ型であるuro:frnFacilityIdAttributeの属性idの値とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1ea5a776-8e25-7e62-ebd8-89d2a252bfa8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "また、uro:frnFacilityIdAttributeの属性idは"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[路線名]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "又は"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[路線]-[区間名]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "、uro:frnFacilityIdAttributeの属性routeは"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[路線名]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "又は"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[路線]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "、uro:frnFacilityIdAttributeの属性alternativeNameは"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[路線名]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "又は"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[路線]-[区間名の通称]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5017e95a-da11-caae-1520-f1da54cd3218"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "リンクの形状はLOD0 で線、LOD1以上は立体又は線の集まりとして表現される。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bcca379c-ae9a-a20a-f7ee-cd4123c779b8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "また、長さや土被りの深さ、オフセット量などを、埋設された相対的な位置に関する情報を属性としてもつことができる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8a246c3c-e636-bffd-33ec-53532908e428"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "uro:OffsetDepthが地下埋設物の特定の箇所に対する情報であるのに対し、uro: ThematicShapeは地下埋設物全体の位置に関する情報として地下埋設物の中心線の情報をもつことができる。この中心線の高さは、地下埋設物の中心の高さ、地表の高さ、土被りの高さのいずれかとなり、中心線にもつ高さを属性heightTypeで指定する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

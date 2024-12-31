@@ -1,0 +1,127 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "A.3.1  取得項目一覧",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "A.3.1  取得項目一覧"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "A.3.1  取得項目一覧"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1fbe3f55-a6c9-669b-0960-2f270d8d058e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本様式は、拡張製品仕様書の対象となる地物等を示すために使用する。この様式を用いて作成対象とする地物及び必須とすべき地物属性と地物関連を特定する。また、標準製品仕様書を拡張する地物型等を明らかにする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7780fc4f-9ddb-9357-2212-b192ef452663"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本様式に記述した結果は、3D都市モデルとして整備する地理空間データの範囲となる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_55dd9f22-e740-af37-1171-5b92f697d02b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、この様式では、3D都市モデルに含むべき地物型（建築物、道路、都市計画決定情報、土地利用、災害リスク及び地形）について、拡張製品仕様書の対象とすることが望ましい地物属性を示している。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_eb77aa7c-37f4-e6d5-40d5-4c059e917268"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "対象となる地物属性にはあらかじめ「作成対象」欄に「●（必須）」又は「〇（作成することが望ましい）」を印している。「●」は標準製品仕様書において必須となっている地物属性である。「〇」は、都市計画基礎調査やオープンデータを使用することで入力可能な地物属性である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bcaacf67-9098-a12e-339e-31ce6db61353"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ここで、地物属性には入れ子構造になっているものがある。例えば、建築物の地物属性である「大規模小売店舗等の立地状況（uro:largeCustomerFacilityAttribute）」には、「集客施設の種類（uro:class）」や「調査年（uro:surveyYear）」などの子となる地物属性が含まれる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e3638e96-e1d8-cf99-4a11-c6b721816bb6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "子となる地物属性は親となる地物属性を作成する場合にのみ作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bfb740e5-e475-3ea8-3f73-9de745c6789d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "例えば、「大規模小売店舗等の立地状況」を作成しない場合は、子となる地物属性は作成不要である。一方、「大規模小売店舗等の立地状況」を作成する場合は、子となる地物属性のうち、「●」となる地物属性は必ず作成しなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_16d9fb62-4b6e-c1e6-6ef7-a781f05288fa"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、親となる地物属性を作成する場合で、子となる「●」又は「○」が印されている地物属性の値が不明な場合には、値が不明であることが分かるようにする。例えば、「大規模小売店舗等の立地状況」の「調査年」が分からない場合は、「不明」を示す「0001」を値として入力する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "H.2.4.3.2  施設識別属性（uro:FacilityIdAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "H.2.4.3.2  施設識別属性（uro:FacilityIdAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "H.2.4.3.2  施設識別属性（uro:FacilityIdAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1304bb17-32cf-8312-35de-e9cbaa6f40b0"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "uro:FacilityIdAttributeは、施設の位置を特定する情報及び施設を識別する情報を記述するためのデータ型である。uro:FacilityIdAttributeは、施設を識別するための情報として、識別子（uro:id）や正式な名称以外の呼称（uro:alternativeName）に加え、施設の位置を示すための、都道府県（uro:prefecture）、市区町村（uro:city）及び開始位置の経緯度（uro:startLat、uro:startLong）を属性としてもつ。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

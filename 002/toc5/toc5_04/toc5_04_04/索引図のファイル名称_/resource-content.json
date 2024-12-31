@@ -1,0 +1,89 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.5  索引図のファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.5  索引図のファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.5  索引図のファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1619b775-3046-ce2a-4423-5e0ad7110e88"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "索引図のファイル名称は、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]_indexmap"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4092101f-ad99-dd7c-1763-b66d87b01c7d"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "の命名規則は、ルートフォルダの命名規則（5.4.5(2)）に従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_19b10633-009a-07cd-5432-b8b3f0d3b3a1"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "オープンデータの索引図のファイル名称には、末尾にopを付ける。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

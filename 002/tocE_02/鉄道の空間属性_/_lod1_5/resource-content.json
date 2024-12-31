@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "E.2.3.2  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "E.2.3.2  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "E.2.3.2  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2bd417f2-4e0f-6139-430b-a39d4f69b142"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（鉄道）モデル（LOD1）では、鉄道の形状を面として表現する。このとき、交通（鉄道）オブジェクトは、交通（鉄道）モデル（LOD1）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "J.3.2.1  微小ポリゴンへの対応",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "J.3.2.1  微小ポリゴンへの対応"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "J.3.2.1  微小ポリゴンへの対応"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_626155d3-18f3-f0bc-4f88-ceec0855a4da"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "災害リスク（浸水）モデル（LOD1）を作成する際に、原典資料の図郭の単位、適用される座標参照系と、標準製品仕様書が採用するファイルの単位や座標参照系とが異なることから、データ変換時に、微小ポリゴンが作成される場合がある。この場合には、指定された閾値（0.01m）未満の近傍点を統合し、微小ポリゴンを修正する必要がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

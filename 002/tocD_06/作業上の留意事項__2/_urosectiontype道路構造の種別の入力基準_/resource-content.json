@@ -1,0 +1,82 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.6.2.3  uro:sectionType（道路構造の種別）の入力基準",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.6.2.3  uro:sectionType（道路構造の種別）の入力基準"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.6.2.3  uro:sectionType（道路構造の種別）の入力基準"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_fce5a94c-4da4-072c-7504-67001a194460"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路構造の種別は下記の入力基準に従い入力する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_7113d7f4-bb7f-86d0-ef4a-473f1cc3d24e"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "橋梁、高架橋、トンネル又はアンダーパス以外は「土工区間・通常区間」とする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_f823eb25-b232-0170-bf79-a6e04f21b356"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "アンダーパスかどうか判断できない箇所は「土工区間・通常区間」とする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

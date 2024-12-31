@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "K.4.1.1.3  新規に幾何オブジェクトを作成する方法",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "K.4.1.1.3  新規に幾何オブジェクトを作成する方法"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "K.4.1.1.3  新規に幾何オブジェクトを作成する方法"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_cbfdbd4d-98dc-8188-adfa-afd690396a2f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "新規に幾何オブジェクトを作成する方法とは、地図情報レベル2500の数値地形図データ（都市計画基本図データ）を背景として新たに都市計画の区域を作図する方法である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d18812de-ad69-6bce-02fe-f5c1e91e2828"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "主として、今後新たに都市計画決定や変更をする際に、計画図に掲載する区域の図形と3D都市モデルの都市計画決定オブジェクトを一体的に作成することを想定した手法である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

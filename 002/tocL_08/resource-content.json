@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.8  brid:_BoundarySurface",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.8  brid:_BoundarySurface"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.8  brid:_BoundarySurface"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_af4cf56c-8521-a376-4605-040e19c6ea98"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:_BoundarySurfaceは、橋梁（brid:Bridge）や橋梁部分（brid:BridgePart）の屋根面、壁面及び底面等の境界面を表す地物型である。橋梁モデル（LOD2）、橋梁モデル（LOD3）及び橋梁モデル（LOD4）を作成する際に使用される。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f584122e-1995-2a0e-0b52-d3c49b5975d6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "この地物型は抽象地物であり、実装においてはこの下位型の具象となる地物型を使用する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e2bfdb42-e6d5-bbc9-7b9e-4ec9e7752a06"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "CityGMLでは、橋梁の境界面としてbrid:_BoundarySurfaceの下位型となる地物型が用意されている。地物型には、屋根面や外壁面、底面などがあるが、これら境界面の空間属性（面）は、橋梁の立体を構成する境界面に一致する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

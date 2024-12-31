@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "R.2.3.2  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "R.2.3.2  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "R.2.3.2  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_055308e5-042d-ef37-59d9-ca12d63299f1"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "植生モデル（LOD1）では、植生の形状を立体として表現する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5212789e-2572-f6fd-cf1a-c2ed818c2bce"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "立体は、植生の上からの正射影の外周を取得し、地表面から一律の高さで上向きに押し出して作成する。一律の高さは、単独木の場合は樹木の最高高さ、植被の場合は中央値を原則とする。このとき、植生オブジェクトは、植生モデル（LOD1）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

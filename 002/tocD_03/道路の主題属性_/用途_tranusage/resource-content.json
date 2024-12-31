@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.3.2.3  用途（tran:usage）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.3.2.3  用途（tran:usage）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.3.2.3  用途（tran:usage）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9e795ece-22aa-80af-85d2-e196c2f3366a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路の用途は、道路の利用方法であり、標準製品仕様書ではその区分として「緊急輸送道路」及び「避難道路」を定義している。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4f7719b5-8835-340a-ffae-9b1a73aa318a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "これらは、自治体の地域防災計画に含まれる情報である。オープンデータとして「緊急輸送道路」及び「避難道路」のGISデータが公開されている場合は、これを利用してもよい。ただし、最新の地域防災計画の内容が反映されているか否かを確認の上、過不足があれば修正すること。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

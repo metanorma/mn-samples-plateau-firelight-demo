@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.2.4.3  構造物機能属性（uro:tunFunctionalAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.2.4.3  構造物機能属性（uro:tunFunctionalAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.2.4.3  構造物機能属性（uro:tunFunctionalAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ebbfc0df-03cf-5f0c-ae44-ba862be14e17"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "トンネルの利用者や進行方向。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

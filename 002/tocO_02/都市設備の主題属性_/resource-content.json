@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "O.2.4  都市設備の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "O.2.4  都市設備の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "O.2.4  都市設備の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b376ee5f-0ec0-b970-e91b-c07ddba7198d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市設備の主題属性には、あらかじめCityGML又はGMLにおいて定義された属性（接頭辞frn、gml）がある。また、標準製品仕様書では、i-URにおいて拡張された都市設備に関する詳細な情報を格納するための属性（uro:cityFurnitureDetailAttribute）、作成したデータの品質に関する情報を格納するための属性（uro:DataQualityAttribute）、都市設備の位置や識別に関する属性（uro:FacilityIdAttribute）、特定の分野における施設区分に関する属性（uro:FacilityTypeAttribute）、その分野における施設管理に必要な属性（uro:FacilityAttribute）、公共測量標準図式に従った表現に必要となる属性（uro:frnDmAttribute）を定義している。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

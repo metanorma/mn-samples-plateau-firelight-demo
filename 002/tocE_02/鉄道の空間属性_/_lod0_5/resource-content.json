@@ -1,0 +1,83 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "E.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "E.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "E.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c7802c17-f571-9b86-2007-42578450b6db"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（鉄道）モデル（LOD0）では、鉄道の形状を線により表現する。このとき、交通（鉄道）オブジェクトは、交通（鉄道）モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bbecd0a5-2a26-9371-e25d-f3492de3c7b4"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "LOD0は鉄道を線として表現するが、このときの線は、ネットワーク（軌道中心線）又はレールの中心線のいずれかを選択できる。3Ｄ都市モデルでは、ネットワークを採用することを原則とする。レールを採用する場合、「"
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://psgsv2.gsi.go.jp/koukyou/jyunsoku/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "付録７ 公共測量標準図式"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "」（以下、「公共測量標準図式」という）に従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c8318d98-3548-ec9a-39ea-569e0f922b73"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ネットワークを採用する場合は、tran:lod0Networkを使用し、レールを採用する場合は、uro:lod0Geometryを使用する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

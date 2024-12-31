@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.7.1  部屋の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.7.1  部屋の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.7.1  部屋の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_73592f6b-f31c-7a8e-293d-6df70823d710"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Roomは立体（bldg:lod4Solid）として表現する。このとき、立体の境界となる面は、天井面（bldg:CeilingSurface）、床面（bldg:FloorSurface）、内壁面（bldg:InteriorWallSurface）又は閉鎖面（bldg:ClosureSurface）のいずれかとなる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

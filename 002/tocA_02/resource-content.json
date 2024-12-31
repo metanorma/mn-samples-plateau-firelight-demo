@@ -1,0 +1,134 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "A.2  様式の公開",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "A.2  様式の公開"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "A.2  様式の公開"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2cbe97ed-5650-2343-7320-6a4234afc335"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "拡張製品仕様書の作成に必要な様式は、以下よりダウンロードできる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_eddf38da-b13b-784b-8888-b497744f4fae"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "拡張製品仕様書　テンプレートセット： "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateaudocument/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "https://www.mlit.go.jp/plateau/file/libraries/doc/template.zip"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9dabc751-a742-0aeb-6c3d-a9e30ba9893d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本付属書で示す様式（"
+                        },
+                        {
+                            "type": "resource_link",
+                            "attrs": {
+                                "href": "urn:x-metanorma-xml-id:tab-A-1"
+                            },
+                            "content": [
+                                {
+                                    "type": "span",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "図A-1"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "～"
+                        },
+                        {
+                            "type": "resource_link",
+                            "attrs": {
+                                "href": "urn:x-metanorma-xml-id:tab-A-8"
+                            },
+                            "content": [
+                                {
+                                    "type": "span",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "図 A-8"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "）は、拡張製品仕様書テンプレートセットに含めており、ファイル名は"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "template_objectlist.xlsx"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

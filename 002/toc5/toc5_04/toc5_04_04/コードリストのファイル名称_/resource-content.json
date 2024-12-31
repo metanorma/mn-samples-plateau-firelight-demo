@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.2  コードリストのファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.2  コードリストのファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.2  コードリストのファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0f1d6559-2f6d-25bc-d74e-33a0bf6bb027"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "作成したコードリストのファイル名称は、「1.4 標準製品仕様書の拡張」においてコード型の属性を追加した手順に示すとおりとする。オープンデータ用のコードリストには、_opは付与しない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

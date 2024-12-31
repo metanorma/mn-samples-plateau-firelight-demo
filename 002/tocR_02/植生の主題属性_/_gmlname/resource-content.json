@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "R.2.4.1  gml:name",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "R.2.4.1  gml:name"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "R.2.4.1  gml:name"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_76f20142-a4f0-97af-f063-62c3de128e50"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:nameは、樹木を識別する名称であり、道路台帳の一部として整備される植栽台帳や街路樹台帳において付番された管理番号を示す。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

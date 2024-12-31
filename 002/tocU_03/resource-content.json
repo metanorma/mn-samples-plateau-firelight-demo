@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "U.3  urf:Boundary",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "U.3  urf:Boundary"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "U.3  urf:Boundary"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f9703a3b-232b-44f5-481c-561d1c5387ad"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "urf:Boundaryは、区域の境界に属性をもたせたい場合に使用する型である。区域の境界に属性をもたせる必要が無い場合は、urf:Boundaryは使用しなくてよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

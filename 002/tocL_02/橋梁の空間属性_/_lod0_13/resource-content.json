@@ -1,0 +1,71 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e4c8961d-9b49-76e4-0530-d043d4a0aa10"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "橋梁モデル(LOD0)では、橋梁の形状を線又は面により表現する。このとき、橋梁オブジェクトは、橋梁モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6883a3b9-9109-3b6b-05ae-268e7e0b4307"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "橋梁モデル（LOD0）の取得方法は、「"
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://psgsv2.gsi.go.jp/koukyou/jyunsoku/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "付録７ 公共測量標準図式"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "」（以下、「公共測量標準図式」という）に従う。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

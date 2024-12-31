@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.2.3  3D都市モデルに含むべき建築物のLOD",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.2.3  3D都市モデルに含むべき建築物のLOD"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.2.3  3D都市モデルに含むべき建築物のLOD"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9f06ff5e-ffed-262c-3e85-c738f42f2ebd"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルに建築物を含む場合には、幾何オブジェクトとして、LOD1（立体）とこれを作成する際に使用するLOD0（面）を必ず記述しなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6225e410-c656-2e49-3cb6-a8f81c9d9a6f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "一つの建築物オブジェクトには、LOD0からLOD4までの5段階の幾何オブジェクトを記述できる。LOD1及びLOD0は必須であるが、LOD2からLOD4はユースケースの必要に応じて記述することができる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3e508ae6-9c2c-58d6-0c83-d470ed25d870"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、LOD3及びLOD4の幾何オブジェクトを記述する場合に、必ずしもLOD2の幾何オブジェクトを記述しなくてもよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

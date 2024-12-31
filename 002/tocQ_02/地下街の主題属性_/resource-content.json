@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "Q.2.4  地下街の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Q.2.4  地下街の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Q.2.4  地下街の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_49fc48b7-2820-d95b-ceeb-ceb04571be30"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下街は、抽象建築物（bldg:_AbstractBuilding）を継承して定義される。そのため、地下街の主題属性は、bldg:_AbstractBuildingの属性として定義された属性以外に、i-URにおいて拡張された全ての属性をもつことができる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

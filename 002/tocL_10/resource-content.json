@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.10  標準的な作業手順",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.10  標準的な作業手順"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.10  標準的な作業手順"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d9c18d9e-89b1-7da8-1782-59a415b4ccd8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "各ＬＯＤの幾何オブジェクトを作成する際の標準的な作業手順及び作業上の留意事項を示す。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

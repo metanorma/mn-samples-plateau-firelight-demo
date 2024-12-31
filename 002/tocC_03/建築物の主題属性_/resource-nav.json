@@ -1,0 +1,70 @@
+{
+    "breadcrumbs": [
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03",
+            "plainTitle": "C.3  bldg:Building"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/",
+            "plainTitle": "PLATEAU 2"
+        }
+    ],
+    "children": [
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/名称_gmlname",
+            "plainTitle": "C.3.2.1  名称（gml:name）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/用途_bldgusage",
+            "plainTitle": "C.3.2.2  用途（bldg:usage）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/計測高さ_bldgmeasuredheight",
+            "plainTitle": "C.3.2.3  計測高さ（bldg:measuredHeight）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/建築物の住所_bldgaddress",
+            "plainTitle": "C.3.2.4  建築物の住所（bldg:address）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/建築物の識別属性_urobuildingidattribute",
+            "plainTitle": "C.3.2.5  建築物の識別属性（uro:BuildingIDAttribute）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/都市計画基礎調査のための属性_",
+            "plainTitle": "C.3.2.6  都市計画基礎調査のための属性"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/都市独自の建物用途_uromajorusageuroorgusageurodetailedusage",
+            "plainTitle": "C.3.2.7  都市独自の建物用途（uro:majorUsage、uro:orgUsage、uro:detailedUsage）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/構造種別_urobuildingstructuretype",
+            "plainTitle": "C.3.2.8  構造種別（uro:buildingStructureType）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/建築物の災害リスク属性_urodisasterriskattribute",
+            "plainTitle": "C.3.2.9  建築物の災害リスク属性（uro:DisasterRiskAttribute）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/建築物のデータ品質属性_urodataqualityattribute",
+            "plainTitle": "C.3.2.10  建築物のデータ品質属性（uro:DataQualityAttribute）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/_lod1の押し出しに使用する建築物の高さ_",
+            "plainTitle": "C.3.2.11  LOD1の押し出しに使用する建築物の高さ"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/施設管理のための属性_",
+            "plainTitle": "C.3.2.12  施設管理のための属性"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/数値地形図属性_urobldgdmattribute",
+            "plainTitle": "C.3.2.13  数値地形図属性（uro:bldgDmAttribute）"
+        },
+        {
+            "path": "/mn-samples-plateau-firelight-demo/002/tocC_03/建築物の主題属性_/不動産_id属性_urobldgrealestateidattribute",
+            "plainTitle": "C.3.2.14  不動産ID属性（uro:bldgRealEstateIDAttribute）"
+        }
+    ]
+}

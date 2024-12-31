@@ -1,0 +1,79 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.6.2  開口部の下位型",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.6.2  開口部の下位型"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.6.2  開口部の下位型"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f1c355c8-9980-db8e-84d1-b6400ae88143"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Window"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f9ca47a4-5a60-2a9a-c81c-66309fb03e14"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Windowは、窓を記述するために使用する地物型である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7674db8f-4cab-3dea-5022-a20933c852d8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Door"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a58476e4-0a6a-46b3-7366-b0ef27ad4af4"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Doorは、扉を記述するために使用する地物型である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

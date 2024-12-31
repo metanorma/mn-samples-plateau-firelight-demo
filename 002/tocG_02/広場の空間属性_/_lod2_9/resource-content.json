@@ -1,0 +1,140 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "G.2.3.3  LOD2",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "G.2.3.3  LOD2"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "G.2.3.3  LOD2"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1df48502-98c3-672c-408c-e303ff1d4088"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（広場）モデル（LOD2）では、広場の形状を面として表現する。このとき広場（tran:Square）は、横断構成要素であるtran:TrafficAreaとtran:AuxiliaryTrafficAreaに分解される。すなわち、tran:Squareの空間属性は、これを構成するtran:TrafficAreaとtran:AuxiliaryTrafficAreaの空間属性の集まりとなる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5ca33e76-125e-e946-f24c-3f1d112e9cc4"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（広場）モデル（LOD2）の外形は、交通（広場）モデル（LOD1）の外形と一致する。このとき、交通（広場）オブジェクトは、交通（広場）モデル（LOD2）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1e67ac1f-81f1-a85c-2f31-759d3030921a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（広場）モデル（LOD2）は、都市計画において定められた広場の区域（交通（広場）モデル（LOD1））を以下に区分する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_8b278895-f0f3-9991-c0a2-066ae3734ef0"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "車道部"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_ab23c4de-fc77-fa64-3791-0d581c11a057"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "車道交差部"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_24d4357d-bbd6-07ab-6005-9c5995edf897"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "歩道部"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_630b47c7-9eb8-c7e5-792d-ce7e8f005c38"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "島"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "Q.3.1.5.3  作業手順（BIMモデルからの変換により作成する場合）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Q.3.1.5.3  作業手順（BIMモデルからの変換により作成する場合）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Q.3.1.5.3  作業手順（BIMモデルからの変換により作成する場合）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3bfe47fb-99b2-81ab-f34d-3c2a2745687a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "BIMモデルからの地下街モデル（LOD4）の作成については、以下のマニュアルに従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-xml-element:p-ac7db087-5084-4abc-af4a-028912ae6d58"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "［出典： "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateau/libraries/handbooks/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "PLATEAU Handbook #03"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "]"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

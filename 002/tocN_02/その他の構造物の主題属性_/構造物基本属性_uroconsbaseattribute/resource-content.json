@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "N.2.4.2  構造物基本属性（uro:consBaseAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "N.2.4.2  構造物基本属性（uro:consBaseAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "N.2.4.2  構造物基本属性（uro:consBaseAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9e1f77ef-89ce-10b8-e64b-2d9282399b5d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "構造物の管理に必要となる基本的な情報及び、構造物の建設に関する基本的な情報を記述する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

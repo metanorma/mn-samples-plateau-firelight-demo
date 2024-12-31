@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "2.4  標準製品仕様書の拡張",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "2.4  標準製品仕様書の拡張"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "2.4  標準製品仕様書の拡張"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2f6f1b78-eff1-5426-0b0d-b0137f4e4066"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルのユースケースに必要な地物等が標準製品仕様書に定義されておらず、地物型等の追加が必要な場合は、標準製品仕様書を拡張する。拡張のパターン（1.4.1）により、拡張の手順（1.4.2）が異なる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

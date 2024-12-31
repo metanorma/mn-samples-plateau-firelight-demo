@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "J.3.2.5  災害リスク（浸水）モデルのgml:nameについて",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "J.3.2.5  災害リスク（浸水）モデルのgml:nameについて"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "J.3.2.5  災害リスク（浸水）モデルのgml:nameについて"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d8b94d43-89ad-cb32-7237-15ee979d7dfb"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "主題属性gml:nameは、浸水想定区域等の図面に示される、図面の名称を記述する。図面の名称は、「〇〇水系●●川洪水浸水想定区域図」というように、水系名を含む河川名と「洪水浸水想定区域図」の組み合わせを基本とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_233623ab-dfae-716c-740d-4b64dd391c68"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、都道府県等で独自に作成された浸水想定区域図の場合等は、「城南地区河川流域浸水予想区域図」のように、図面の名称が「〇〇水系●●川洪水浸水想定区域図」にならなくてもよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

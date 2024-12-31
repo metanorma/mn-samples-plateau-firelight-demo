@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "O.3.1.4.2  作業手順（立体の場合）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "O.3.1.4.2  作業手順（立体の場合）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "O.3.1.4.2  作業手順（立体の場合）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c1a485a3-dc01-31de-87a8-1a0284b44124"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "① MMS点群等を用いて、都市設備の主要な部分について、一定の高さで横断面を作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4ab2da82-31f3-bb2b-31e9-2d37e757b786"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "② 横断面の各頂点を結び、立体を作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bad9a42b-414c-0429-b7d1-8ba38ad5bc8e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "③ 都市設備モデル（LOD3.1）の場合は、MMS点群等を用いて主要な部分の接続部分を図化する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

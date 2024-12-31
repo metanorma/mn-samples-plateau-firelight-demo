@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_98c23482-cd7f-594f-a493-acf803143013"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "トンネルモデル(LOD0)では、トンネルの形状を点、線又は面として記述する。このとき、トンネルオブジェクトは、トンネルモデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_dd6b2881-051f-191c-05af-e5d3997e25c5"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "トンネルモデル（LOD0）の取得方法は、数値地形図に従う。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

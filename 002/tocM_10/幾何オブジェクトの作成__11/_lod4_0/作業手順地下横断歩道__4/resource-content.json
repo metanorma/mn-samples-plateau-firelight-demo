@@ -1,0 +1,97 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.10.1.5.3  作業手順（地下横断歩道）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.10.1.5.3  作業手順（地下横断歩道）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.10.1.5.3  作業手順（地下横断歩道）"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_8b9a052a-dd95-b474-1805-980dc91a50aa"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① トンネルモデル（LOD3）に対し、内部形状を作成する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_b4a27d4c-42e0-5221-7190-839c4498a579"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "一般図又は点群データから内部の形状を取得する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_dd9539b6-7ba1-7566-893c-48c70e3ba94d"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "② ②の内部形状の境界面をCeilingSurface、InteriorWallSurface、FloorSurface、ClosureSurfaceに区分する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_c774e970-03a8-0d6d-faf5-55e6696fcef5"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "ただし、CeilingSurface及びFloorSurfaceがInteriorWallSurfaceと区別できない場合は、全てInteriorWallSurfaceとして区分する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

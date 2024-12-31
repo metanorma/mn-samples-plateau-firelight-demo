@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.3  tran:Road",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.3  tran:Road"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.3  tran:Road"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4906db7e-5a22-33e3-b9fe-4d7b59b9dfed"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran:Roadは、道路の記述に使用する地物型である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "P.6.1  繰り返しオブジェクトの座標の単位",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "P.6.1  繰り返しオブジェクトの座標の単位"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.6.1  繰り返しオブジェクトの座標の単位"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_22533e39-2a8c-29f6-2834-79e15daff417"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下埋設物モデルが採用する平面直角座標系の軸の単位はメートル（m）であることから、プロトタイプモデルの座標及び変換行列の単位もメートル（m）でなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

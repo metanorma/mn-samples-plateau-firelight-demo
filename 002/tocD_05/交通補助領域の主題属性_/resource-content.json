@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.5.2  交通補助領域の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.5.2  交通補助領域の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.5.2  交通補助領域の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ee29171b-ed19-c7d8-07b5-95e81ab61182"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通補助領域の主題属性であるtran:function及びtran:surfaceMaterialについては、交通領域と同様である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

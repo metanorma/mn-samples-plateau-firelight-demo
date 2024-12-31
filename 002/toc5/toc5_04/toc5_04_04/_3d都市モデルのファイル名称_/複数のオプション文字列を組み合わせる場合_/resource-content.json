@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.1.6  複数のオプション文字列を組み合わせる場合",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.1.6  複数のオプション文字列を組み合わせる場合"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.1.6  複数のオプション文字列を組み合わせる場合"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1d5e273d-2ccd-7dfc-7260-f7c698b4132c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "複数のオプションの文字列を、区切り文字（-）でつなぐ。標準製品仕様書に定義済みのオプション値と、拡張製品仕様書において追加したオプション値を同時に使用する場合は、最初に標準製品仕様書に定義したオプション値を記載し、次に拡張製品仕様書で追加したオプション値を記載する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

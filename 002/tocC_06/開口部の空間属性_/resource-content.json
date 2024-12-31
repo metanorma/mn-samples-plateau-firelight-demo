@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.6.1  開口部の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.6.1  開口部の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.6.1  開口部の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2be8eb4d-2f4f-6acf-cf8e-b5a53e513c4e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:_Openingの空間属性bldg:lod3MultiSurface及びbldg:lod3MultiSurfaceの型は、面（gml:MultiSurface）である。これらの開口部の面は、境界面（外壁面や屋根面）の一部となる。もし開口部と境界面とに位相関係をもたせる場合には、境界面の内空と開口部の空間属性の境界線とを一致させる。位相関係が不要な場合には、境界面に内空を設ける必要はない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

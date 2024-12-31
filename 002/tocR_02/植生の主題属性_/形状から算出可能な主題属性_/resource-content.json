@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "R.2.4.3  形状から算出可能な主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "R.2.4.3  形状から算出可能な主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "R.2.4.3  形状から算出可能な主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_cac4d2e0-1b47-f673-fb3c-dc1de092d101"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "veg:SolitalyVegetationObjectの主題属性veg:class、veg:height、veg:trunkDiamiter、veg:crownDiamiter、及びveg:PlantCoverの主題属性veg:averageHeightは、植栽台帳や街路樹台帳から取得することを基本とする。ただし、これらの原典資料が得られない場合には、veg:SolitalyVegetationObjectの主題属性veg:class、veg:height、veg:trunkDiamiter、veg:crownDiamiter、及びveg:PlantCoverの主題属性veg:averageHeightを、作成した幾何オブジェクトから算出した値を取得する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

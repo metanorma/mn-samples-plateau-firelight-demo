@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.3  bldg:Building",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.3  bldg:Building"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.3  bldg:Building"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e63a3b95-f0e1-1545-748e-9f26d1093e52"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Buildingは、建築物の記述に使用する地物型である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.4  製品仕様のファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.4  製品仕様のファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.4  製品仕様のファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d0161758-4869-b208-401b-f88d375a787d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルの製品仕様のファイル名称は、 "
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]_[提供者区分]_[整備年度]_specification"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f7d4d9dc-825f-22b8-0bdb-f522d353f0cd"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "また、"
+                        },
+                        {
+                            "type": "resource_link",
+                            "attrs": {
+                                "href": "urn:x-metanorma-xml-id:tocA"
+                            },
+                            "content": [
+                                {
+                                    "type": "span",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "附属書A"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "に示す様式に従い作成した応用スキーマ文書やコードリスト等の表のファイル名称は、 "
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]_[提供者区分]_[整備年度]_objectlist"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bc021b7b-66b4-a69f-4145-3f54676c16fc"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者区分]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "及び"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[整備年度]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "の命名規則は、ルートフォルダの命名規則（5.4.5(2)）に従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_97c9f098-d6ea-a2be-0fcb-507673682f10"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "オープンデータの製品仕様のファイル名称には、末尾に`_op`を付ける。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

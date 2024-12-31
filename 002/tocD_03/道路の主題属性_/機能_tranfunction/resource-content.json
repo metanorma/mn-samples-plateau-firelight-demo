@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.3.2.2  機能（tran:function）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.3.2.2  機能（tran:function）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.3.2.2  機能（tran:function）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a8e5d4bd-5f30-44e4-0d44-8fffd81d5c73"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路の機能は、道路法における道路の区分及び建築基準法における道路の区分である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a3e0ca8c-3235-222c-55ff-fb1764dfd249"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路法における道路の区分は、道路管理者より管内図や路線網図を入手し、作成する。また、建築基準法における道路の区分については市町村より指定道路図を入手し、作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_16fc8e1b-4fee-4a32-93b9-2dbaabd8eab2"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、tran:functionの定義域のうち、「高速自動車道」「一般国道」「都道府県道」「市町村道」は、道路法の区分に従っている。そのため、自動車専用道、一般国道自動車専用道及び都市高速道路（首都高速道路）は、一般国道、都道府県道又は市道（政令指定都市の場合）に区分される。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

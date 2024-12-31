@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "U.4.1.1  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "U.4.1.1  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "U.4.1.1  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_31c35214-8c73-df9d-0561-a40f95113b62"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "GISデータが存在する場合には、これを利用する。ただし、利用可能なGISデータは位置正確度をもつもののみとする。GISデータを利用する場合は、原典資料リストにその地図情報レベルを記載すること。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a3684f1e-e84c-f8c2-90e7-2f28a4e64265"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "GISデータが無い場合には、法定図書に含まれる図面を使用し、既成図数値化により幾何オブジェクトを作成する。既成図数値化の作業手順及び精度管理は、「作業規程の準則　第3編第5章　既成図数値化」に従う。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

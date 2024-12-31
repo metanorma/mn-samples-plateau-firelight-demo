@@ -1,0 +1,69 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.1.1  洪水浸水想定区域のファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.1.1  洪水浸水想定区域のファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.1.1  洪水浸水想定区域のファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f6a1bd66-0ea6-b791-1ea7-2a7b732f3d1b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "洪水浸水想定区域のファイル名称は、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[メッシュコード]_[地物型]_[CRS]_[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "を適用し、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "が取りうる値は、l1又はl2とする（「l1」は、小文字のエルと数字のイチの組み合わせ、「l2」は小文字のエルと数字の二の組み合わせ）。ファイルに含まれる洪水浸水想定区域が対象とする降雨規模が計画規模の場合には、l1を使用し、想定最大規模の場合はl2を使用する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

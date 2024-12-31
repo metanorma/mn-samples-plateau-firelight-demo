@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "5.2.2  作業上の留意事項",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "5.2.2  作業上の留意事項"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "5.2.2  作業上の留意事項"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d64f1a05-ebe2-f18a-760b-4163390c3408"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "幾何オブジェクトの作成時におけるデータ作成負荷を軽減することを目的とする作業上の留意事項を示す。ただし、幾何オブジェクトの作成においては、を満たさなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

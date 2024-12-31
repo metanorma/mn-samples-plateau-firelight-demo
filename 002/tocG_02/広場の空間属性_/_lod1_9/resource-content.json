@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "G.2.3.2  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "G.2.3.2  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "G.2.3.2  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_50032e87-1ec1-c31e-c9e2-cf208508cf96"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（広場）モデル（LOD1）では、広場の形状を面として表現する。このとき、交通（広場）オブジェクトは、交通（広場）モデル（LOD1）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_177a9106-e92d-5016-357f-aee0fc42ff5a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（広場）モデル（LOD1）の形状は、都市計画において指定された「駅前広場」、「自動車ターミナル」又は「交通広場」の区域に一致する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

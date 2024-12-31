@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.2.4.5  災害リスク属性（uro:bridDisasterRiskAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.2.4.5  災害リスク属性（uro:bridDisasterRiskAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.2.4.5  災害リスク属性（uro:bridDisasterRiskAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_25e51ae1-2f18-c0e7-7ead-c65ca5e2b5b6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "浸水想定区域や土砂災害警戒区域等の災害リスクに関する情報。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

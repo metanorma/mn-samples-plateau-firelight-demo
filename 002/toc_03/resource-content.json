@@ -1,0 +1,1260 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "参考文献",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "参考文献"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "参考文献"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:ifc_bridge_wp2"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[1] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "buildingSMART International. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "IFC Bridge Fast Track Project — Report WP2: Conceptual Model"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.buildingsmart.org/standards/domains/infrastructure/ifc-bridge/"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.buildingsmart.org/standards/domains/infrastructure/ifc-bridge/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.buildingsmart.org/standards/domains/infrastructure/ifc-bridge/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:sig3d_model_1"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[2] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "SIG3D. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Modeling Guide for 3D Objects Part 1: Basics (Rules for Validating GML Geometrics in CityGML)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.sig3d.org/files/media/downloads/SIG3D/AG-Qualitaet/201311_SIG3D_Modeling_Guide_for_3D_Objects_Part_1.pdf"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.sig3d.org/files/media/downloads/SIG3D/AG-Qualitaet/201311_SIG3D_Modeling_Guide_for_3D_Objects_Part_1.pdf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.sig3d.org/files/media/downloads/SIG3D/AG-Qualitaet/201311_SIG3D_Modeling_Guide_for_3D_Objects_Part_1.pdf"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:sig3d_model_2"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[3] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "SIG3D. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Modeling Guide for 3D Objects Part 2: Modeling of Buildings (LoD1, LoD2 and LoD3)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.sig3d.org/files/media/downloads/SIG3D/AG-Qualitaet/201311_SIG3D_Modeling_Guide_for_3D_Objects_Part_2.pdf"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.sig3d.org/files/media/downloads/SIG3D/AG-Qualitaet/201311_SIG3D_Modeling_Guide_for_3D_Objects_Part_2.pdf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.sig3d.org/files/media/downloads/SIG3D/AG-Qualitaet/201311_SIG3D_Modeling_Guide_for_3D_Objects_Part_2.pdf"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:iconstruction"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[4] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土地理院. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "i-Construction推進のための3次元数値地形図データ作成マニュアル"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://psgsv2.gsi.go.jp/koukyou/public/3dmapping/index.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://psgsv2.gsi.go.jp/koukyou/public/3dmapping/index.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://psgsv2.gsi.go.jp/koukyou/public/3dmapping/index.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:tunnel_diagram_asakawa"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[5] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "東北地方整備局福島河川国道事務所,  セントラルコンサルタント株式会社．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "令和2年度　平石地区トンネル詳細設計業務　設計図　【本坑（上線）】（国道13号）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.thr.mlit.go.jp/road/kouji/kouji-tunnel/29_R13_asakawa/data_05.pdf"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.thr.mlit.go.jp/road/kouji/kouji-tunnel/29_R13_asakawa/data_05.pdf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.thr.mlit.go.jp/road/kouji/kouji-tunnel/29_R13_asakawa/data_05.pdf"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:gsi_map_level_dps"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[6] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土地理院．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "地図情報レベル2500数値地形図データ作成のための標準製品仕様書（案）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 第1.1版．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://psgsv2.gsi.go.jp/koukyou/public/seihinsiyou/seihinsiyou_index.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://psgsv2.gsi.go.jp/koukyou/public/seihinsiyou/seihinsiyou_index.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://psgsv2.gsi.go.jp/koukyou/public/seihinsiyou/seihinsiyou_index.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:gsi_geospatial_dps_manual"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[7] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土地理院．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "地理空間データ製品仕様書作成マニュアル JPGIS2014版"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://psgsv2.gsi.go.jp/koukyou/public/seihinsiyou/seihinsiyou_index.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://psgsv2.gsi.go.jp/koukyou/public/seihinsiyou/seihinsiyou_index.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://psgsv2.gsi.go.jp/koukyou/public/seihinsiyou/seihinsiyou_index.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:gsi_building_data_manual"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[8] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土地理院．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "建物三次元データ作成マニュアル（案）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.gsi.go.jp/kankyochiri/Laser_gijutusiryo.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.gsi.go.jp/kankyochiri/Laser_gijutusiryo.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.gsi.go.jp/kankyochiri/Laser_gijutusiryo.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:jp_water_prevention_law"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[9] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "日本国政府．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "水防法（昭和二十四年法律第百九十三号）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://elaws.e-gov.go.jp/document?lawid=324AC0000000193"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://elaws.e-gov.go.jp/document?lawid=324AC0000000193"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://elaws.e-gov.go.jp/document?lawid=324AC0000000193"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:cbr_road_sample_data"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[10] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省中部地方整備局．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "道路施設台帳サンプルデータ"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.cbr.mlit.go.jp/architecture/kensetsugijutsu/download/index.htm"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.cbr.mlit.go.jp/architecture/kensetsugijutsu/download/index.htm"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.cbr.mlit.go.jp/architecture/kensetsugijutsu/download/index.htm"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:tunnel_diagram_oonabe"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[11] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "中央復建コンサルタンツ株式会社．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "雄勝地区トンネル詳細設計業務　設計図　【大鍋トンネル】（国道13号）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.thr.mlit.go.jp/road/kouji/kouji-tunnel/24_R13_oonabe/data_05_.pdf"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.thr.mlit.go.jp/road/kouji/kouji-tunnel/24_R13_oonabe/data_05_.pdf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.thr.mlit.go.jp/road/kouji/kouji-tunnel/24_R13_oonabe/data_05_.pdf"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:jis_e_1001"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[12] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "鉄道―線路用語"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+E+1001%3A2001"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[src]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://webdesk.jsa.or.jp/preview/pre_jis_e_01001_000_000_2001_j_pr10_i4.pdf"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[pdf]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:citygml_30_encoding"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[13] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "Tatjana Kutzner, Carl Stephen Smyth, Claus Nagel, Volker Coors, Diego Vinasco-Alvarez,  Nobuhiro Ishi. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "OGC City Geography Markup Language (CityGML) Part 2: GML Encoding Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 2. Open Geospatial Consortium. 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "http://www.opengis.net/doc/IS/CityGML-2/3.0.0"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "http://www.opengis.net/doc/IS/CityGML-2/3.0.0"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "http://www.opengis.net/doc/IS/CityGML-2/3.0.0"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[src]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://docs.ogc.org/is/21-006r2/21-006r2.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[obp]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:ogc_19-081"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[14] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "Josh Lieberman. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "MUDDI v1.1 (Model for Underground Data Definition and Integration) Engineering Report"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Open Geospatial Consortium. 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "http://www.opengis.net/doc/PER/MUDDI"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "http://www.opengis.net/doc/PER/MUDDI"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "http://www.opengis.net/doc/PER/MUDDI"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[src]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://docs.ogc.org/per/19-081.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[obp]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:plateau_000"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[15] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省都市局."
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "3D都市モデルの導入ガイダンス"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 第3.0版．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.mlit.go.jp/plateau/libraries/handbooks/"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.mlit.go.jp/plateau/libraries/handbooks/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateau/libraries/handbooks/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:plateau_003"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[16] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省都市局."
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "3D都市モデル整備のためのBIM活用マニュアル"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 第3.0版．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.mlit.go.jp/plateau/libraries/handbooks/"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.mlit.go.jp/plateau/libraries/handbooks/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateau/libraries/handbooks/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:plateau_tr_03"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[17] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省都市局."
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "3D都市モデルLOD3データ作成実証レポート"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 第1.0版．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0003_ver01.pdf"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0003_ver01.pdf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0003_ver01.pdf"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:plateau_tr_56"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[18] "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省都市局. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "AI等を活用したLOD2自動生成ツールの開発及びOSS化技術検証レポート"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 第1.0版．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0056_ver01.pdf"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0056_ver01.pdf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0056_ver01.pdf"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

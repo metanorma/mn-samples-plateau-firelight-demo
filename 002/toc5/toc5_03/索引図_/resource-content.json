@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.3.5  索引図",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.3.5  索引図"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.3.5  索引図"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b03f8ec8-857b-b614-efca-0b0f41ab2536"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "索引図は、3Ｄ都市モデルの空間範囲を、LOD別に地図上で示す。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.4.2.1  機能（tran:function）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.4.2.1  機能（tran:function）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.4.2.1  機能（tran:function）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_21d78381-c3fd-2cee-66db-6bcc8a886bb7"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran:functionは、区画線や路面標示、道路標識等により示された交通領域の機能であり、歩道や車道、分離帯のように、道路を横断方向に区分する属性である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_32829864-05a1-265e-287f-baa465c144e8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路基盤地図情報が得られる場合にはこれが利用できる。道路基盤地図情報が得られない場合、LOD3.0までは道路台帳から取得できる。また、LOD3.1以上では航空写真やMMSから取得した画像や点群からの判読が必要となる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

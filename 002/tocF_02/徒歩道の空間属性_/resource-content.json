@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "F.2.3  徒歩道の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "F.2.3  徒歩道の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "F.2.3  徒歩道の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_87508ac4-e7e1-6658-b741-0ba6493145e8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran:Trackの空間属性は道路と同様の定義となっている。いずれのLODにおいても、同一のLODにおける徒歩道の連続性を担保する必要がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

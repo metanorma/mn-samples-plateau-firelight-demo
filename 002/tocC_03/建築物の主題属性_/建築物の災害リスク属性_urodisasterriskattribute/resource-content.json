@@ -1,0 +1,162 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.3.2.9  建築物の災害リスク属性（uro:DisasterRiskAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.3.2.9  建築物の災害リスク属性（uro:DisasterRiskAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.3.2.9  建築物の災害リスク属性（uro:DisasterRiskAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2b36ff3d-9ddd-18af-23fc-7db6e6319702"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "uro:DisasterRiskAttributeは、災害リスク情報と建築物の位置関係により建築物毎の災害リスクを空間演算し、その結果を建築物の主題属性として記述するための属性である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b3f9f2f7-3d2a-7189-94df-235fe83edf68"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書では、以下を災害リスク属性として定義している。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_590dd9a6-a5ba-0e88-2444-e3cccb9d5a05"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "洪水浸水想定区域（uro:RiverFloodingRiskAttribute）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_370982a1-7787-bbec-00ef-620b4d5a3876"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "津波浸水想定（uro:TsunamiRiskAttribute）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_0648d274-41e2-7fec-fbde-cb3a5fefb1ee"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "高潮浸水想定（uro:HighTideRiskAttribute）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_9d449718-7f63-a2fc-2c3f-49f4862e3994"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "内水浸水想定（uro:InlandFloodingRiskAttribute）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_4c0d1db1-ca51-caf6-4ed9-0947dc65051d"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "ため池ハザードマップ（uro:ReservoirFloodingRiskAttribute）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_6712cf69-ea7d-40f7-16b0-f3113f480518"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "土砂災害警戒区域（uro:LandSlideRiskAttribute）"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

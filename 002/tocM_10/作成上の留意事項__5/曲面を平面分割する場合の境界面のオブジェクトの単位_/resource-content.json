@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.10.2.3  曲面を平面分割する場合の境界面のオブジェクトの単位",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.10.2.3  曲面を平面分割する場合の境界面のオブジェクトの単位"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.10.2.3  曲面を平面分割する場合の境界面のオブジェクトの単位"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f7bfdfd4-70de-c3dc-a353-afcc95963c77"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "トンネルの壁面は曲面として構成されていることが多いが、3D都市モデルは平面（gml:Polygon）のみを対象とするため、tun:WallSurface等の境界面は、データセットが採用する地図情報レベルの水平及び高さの誤差の標準偏差に収まるよう、平⾯に分割しなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_aea777ea-41f0-151c-b3e6-5a60c6bed699"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "このとき、分割した各平面をtun:WallSurface等の境界面にするのではなく、分割後の複数の平面を集約し、元の曲面を近似した単一の tun:WallSurface等の境界面として記述すること。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

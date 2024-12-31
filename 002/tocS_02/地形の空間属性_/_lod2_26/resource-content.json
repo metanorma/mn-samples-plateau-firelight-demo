@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "S.2.3.3  LOD2",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "S.2.3.3  LOD2"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "S.2.3.3  LOD2"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d37ff340-62be-00f4-ec1a-b4a94f68d8b0"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地形モデル（LOD2）では、地形の形状を、高さをもつ三角形の集まり（dem:TINRelief）又は高さをもつ点の集まり（dem:MassPointRelief）として表現する。このとき、地形オブジェクトは、地形モデル（LOD2）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

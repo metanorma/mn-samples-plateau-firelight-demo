@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "H.2.3.3  LOD2",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "H.2.3.3  LOD2"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "H.2.3.3  LOD2"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ce8abb06-2386-957b-53cd-1b67303661ec"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（航路）モデル（LOD2）では、航路（uro:Waterway）の形状を面として記述する。LOD2では、uro:Waterwayはtran:TrafficAreaに区分できる。このとき、uro:Waterwayの空間属性は、これを構成するtran:TrafficAreaの空間属性の集まりとなる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5791038b-7a09-36ef-b4d1-94ebd8bc582c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran:TrafficAreaは、法令により指定された船舶の航行方向により区分する。航行方向の指定が無い場合、交通（航路）モデル（LOD2）においてtran:TrafficAreaの形状と、uro:Waterwayの形状は等しくなり、これは交通（航路）モデル（LOD1）と一致する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

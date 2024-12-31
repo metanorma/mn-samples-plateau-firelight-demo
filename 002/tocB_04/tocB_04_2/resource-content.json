@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "B.4.2  座標値の記述",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "B.4.2  座標値の記述"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "B.4.2  座標値の記述"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e3e99591-7342-155e-1391-5bd276da51eb"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:pos又はgml:posListを用いて座標値を記述する場合、2次元座標により記述された幾何オブジェクトには仮想的な高さとして0.0を与える。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.3.2.5  車線数",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.3.2.5  車線数"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.3.2.5  車線数"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b687d5f2-f598-33dd-433b-b8a44485d3df"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "uro:numberOfLanesは、上下線の合計（一方通行区間の場合を除く）の車線数である。道路構造令第 2 条第 7 号の登坂車線、同第 2 条第 6 号にいう付加追越車線、同第 2 条 8 号の屈折車線、同第 2 条第 9 号の変速車線及び同第 2 条第 14 号の停車帯、及びゆずり車線は車線数には含めない。また、「1 車線道路」は道路構造令第 5 条 1 項ただし書きによって、車線により構成されない車道を持つ道路であるが、ここでは車線数＝1とする。「1車線道路」は車道幅員が5.5m未満の場合とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e6f4fb72-13f6-c4c4-7175-1047e23e5d50"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "想定される取得方法を以下に示す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_5c36fbde-a803-bc42-0ed6-2423da67cab8"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① 都市計画基礎調査で収集されている場合は、これを使用する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_40467842-c75e-417c-8ae6-9299e5055d82"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "② 道路基盤地図情報より得られる場合はこれを使用する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_396f77f2-1da1-949b-0b40-dc24945d0c35"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "③ 全国道路・街路交通量情勢調査（一般交通量調査）で収集されている場合はこれを使用する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2af2b826-6938-96ff-2442-7c3ce23e3318"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "既存資料より得られない場合には、航空写真やMMSにより取得された画像や点群を用いて判読する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

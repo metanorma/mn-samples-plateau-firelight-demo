@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "B.3.3  gml:MultiPoint",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "B.3.3  gml:MultiPoint"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "B.3.3  gml:MultiPoint"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_193ef1c9-e929-30b2-6145-b41b289e417e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:MultiPointは、点（gml:Point）の集まりを記述するための幾何オブジェクトである。gml:pointMemberにより構成する点を記述又は参照する。gml:MultiPointには、一つ以上の点が含まれていなくてはならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

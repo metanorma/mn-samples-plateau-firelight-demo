@@ -1,0 +1,56 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.5.2  ルートフォルダの命名規則",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.5.2  ルートフォルダの命名規則"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.5.2  ルートフォルダの命名規則"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c85e282b-3220-bdf9-ae49-c4ff7d9b64fa"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ルートフォルダの名称は、 "
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]_[都市名英名]_[提供者区分]_[整備年度]_citygml_[更新回数]_[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " とする。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

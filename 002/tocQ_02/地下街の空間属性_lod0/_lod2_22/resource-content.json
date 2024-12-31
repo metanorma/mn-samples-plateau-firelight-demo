@@ -1,0 +1,79 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "Q.2.3.2  LOD2",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Q.2.3.2  LOD2"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Q.2.3.2  LOD2"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c85828bc-aea8-d603-648f-0b82ee87689e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下街モデル（LOD2）では、地下街の形状を立体として表現する。地下街の外形を立体として表現し、立体を構成する境界面を、上向きの面は屋根面、下向きの面は底面、それ以外は外壁面に区分する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_592c3f84-ba5c-6474-9f18-4388d59a001b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "このとき、地下街オブジェクトは、地下街モデル（LOD2）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7bdad3b0-8b0f-ebe4-008c-b9dffd409fa8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下街モデル（LOD2）は、開口部を区分しないため、地上に設けられた地下街の出入口は屋根面として取得する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_efdfefac-7687-70c7-36dc-3f51582e12f6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、地上に設置された、地下街出入口の建屋は都市設備（CityFurniture）として取得する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

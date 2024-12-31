@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "U.4.2  主題属性の作成",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "U.4.2  主題属性の作成"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "U.4.2  主題属性の作成"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5362a2f8-df6d-ae2d-9fff-cb191424a245"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "GISデータが存在する場合には、これを利用する。また、GISデータの属性に不足がある場合には、法定図書を原典資料とする。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

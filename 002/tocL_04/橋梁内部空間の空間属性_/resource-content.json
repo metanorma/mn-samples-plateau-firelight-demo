@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.4.1  橋梁内部空間の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.4.1  橋梁内部空間の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.4.1  橋梁内部空間の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f5a64503-3f05-5a00-9e54-997242d7a2de"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "橋梁モデル（LOD4）において、橋梁の内部空間の形状は、立体により表現する。立体は境界面に区分し、それぞれの境界面は、brid:CeilingSurface、brid:FloorSurface、brid:InteriorWallSurface又はbrid:ClosureSurfaceのいずれかにならなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

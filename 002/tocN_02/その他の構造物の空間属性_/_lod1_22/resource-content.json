@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "N.2.3.2  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "N.2.3.2  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "N.2.3.2  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a5913e82-c343-c827-5985-d7c005968472"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "その他の構造物モデル（LOD1）では、その他の構造物の形状を、構造物の上方からの正射影の外周に一律の高さを与えて上向きに押し出した立体により表現する。このとき、その他の構造物オブジェクトは、その他の構造物モデル（LOD1）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b874f720-6c93-926e-b54b-e3af7939bf16"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "その他の構造物モデル（LOD1）では、構造物の外周に一律の高さを与えた立体を表現することを基本とする。ただし、水制や床止めのように、同じ形状の小規模な構造物が繰り返し配置され、一体となってその機能を果たす構造物の場合、全体を包含する矩形又は矩形の集まりを面として取得し、一律の高さを与えて上向きに押し出した立体とする。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "B.3.12  gml:TriangulatedSurface",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "B.3.12  gml:TriangulatedSurface"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "B.3.12  gml:TriangulatedSurface"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3989d194-f147-da5b-be0a-04530c2eefef"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:TriangulatedSurfaceは、複数の三角形だけから構成した合成曲面（gml:CompositeSurface）を記述するための幾何オブジェクトである。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_daa8654d-c291-0b4c-085f-7bfb7a8a635a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:TriangulatedSurfaceは、閉じておらず、境界をもつことができる。どのように三角形分割するかの制約はもたない。ここでの「閉じていない」とは、立体の境界のような「殻」にはなっていないという意味である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

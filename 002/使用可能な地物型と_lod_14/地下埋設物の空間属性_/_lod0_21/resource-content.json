@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "P.3.1.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "P.3.1.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.3.1.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_50c1c8b0-37f1-9788-95b8-9dc59c0edf2e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下埋設物モデル（LOD0）では、地下埋設物の形状を、管路を表す線、設備を表す点及びマンホール又はハンドホールを表す点によるネットワークとして表現するとともに、管路が格納された構造物を面として表現する。このとき、地下埋設物オブジェクトは、地下埋設物モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c12b10f6-8829-2956-6993-5dd64519b55c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下埋設物モデル（LOD0）は、地下埋設物のGISデータやCADデータをCityGML形式に変換し、3D都市モデル上に重畳して使用することを想定したデータである。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

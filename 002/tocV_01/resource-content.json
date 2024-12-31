@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "V.1  概要",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "V.1  概要"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "V.1  概要"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ba481b74-0564-ff29-6e52-5ae356942747"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "各都市では、それぞれのユースケースに応じて、「3D都市モデル標準製品仕様書」（以下、「標準製品仕様書」という）には含まれていない地物や属性を標準作業手順書に従って追加し、標準製品仕様書を拡張し、「拡張製品仕様書」を作成できる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2348bddc-4476-cf5f-dd77-a29fdda83ceb"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本付属書では、拡張製品仕様書を作成する際の参考として、テクスチャ画像の使用について解説する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

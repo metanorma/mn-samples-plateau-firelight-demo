@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "N.2.4.3  構造物構造属性（uro:consStructureAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "N.2.4.3  構造物構造属性（uro:consStructureAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "N.2.4.3  構造物構造属性（uro:consStructureAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6a8f731f-9916-edc5-6ac3-6a4dc5b56ab8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "構造物の規模に関する基本的な情報を記述する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

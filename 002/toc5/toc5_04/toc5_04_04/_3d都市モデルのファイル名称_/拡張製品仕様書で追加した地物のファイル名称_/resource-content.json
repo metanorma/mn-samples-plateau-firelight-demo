@@ -1,0 +1,69 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.1.4  拡張製品仕様書で追加した地物のファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.1.4  拡張製品仕様書で追加した地物のファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.1.4  拡張製品仕様書で追加した地物のファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_69a44a8b-e991-4b2a-a7d5-b0fc756c374d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "拡張製品仕様書において汎用都市オブジェクトを追加した場合及び標準製品仕様書には含まれていない地物をi-URから追加した場合は、それぞれのモデルを格納するフォルダ（gen及びext）において、オプションの文字列を用いて追加した地物の種類ごとにファイルを分けることができる。このとき、オプションの文字列は、f"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[識別子]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "を使用する。このとき"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[識別子]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は半角数字の組み合わせとする。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

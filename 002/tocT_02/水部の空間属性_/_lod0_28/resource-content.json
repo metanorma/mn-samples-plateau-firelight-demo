@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "T.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "T.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "T.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e1e5b9be-f918-1221-4a70-f0116b168016"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "水部モデル（LOD0）は、水部の形状を線又は点として記述する。このとき水部オブジェクトは、水部モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_cd6596ff-b082-124b-9810-65268c832035"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "水部モデル（LOD0）は、河川中心線又は公共測量標準図式に従った表現となる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "H.3.2.1  国土数値情報の航路データの利用について",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "H.3.2.1  国土数値情報の航路データの利用について"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "H.3.2.1  国土数値情報の航路データの利用について"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b5339577-b0c0-9f74-b45c-0ca97613f32a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "法令の改正に伴い、"
+                        },
+                        {
+                            "type": "resource_link",
+                            "attrs": {
+                                "href": "urn:x-metanorma-xml-id:nlftp"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "国土数値情報の航路データ"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "作成時点から区域が変更されている場合があるため、国土数値情報の利用にあたっては、整備対象とする航路に変更がないか確認する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

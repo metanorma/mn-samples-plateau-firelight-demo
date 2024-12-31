@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.4.1  交通領域の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.4.1  交通領域の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.4.1  交通領域の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_149bb75c-ae74-0c54-d68f-6bf85cac7c9f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路面は一体的な面であり、その一体的な面を機能により交通領域や交通補助領域に区分している。そのため、道路を構成する交通領域は、他の交通領域や交通補助領域と重なることはない。また、道路を構成する交通領域は、隣接する他の交通領域や交通補助領域と隙間が空いていてはならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8be8e92b-1a68-0860-e0ad-d117dacdb29d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、立体交差を2次元で表現する場合には空間属性が互いに重なってしまう。空間属性の重なりが妥当であるのか否かを判定するために、立体交差では必ず道路のインスタンスを分けなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

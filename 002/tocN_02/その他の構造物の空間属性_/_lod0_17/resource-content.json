@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "N.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "N.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "N.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_fdbc4eb4-5b9c-6cb1-e560-85bac78ad051"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "その他の構造物モデル（LOD0）では、その他の構造物の形状を、点、線又は面により表現する。このとき、その他の構造物オブジェクトは、その他の構造物モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9faf1167-2988-68b8-55b2-63ae5eb8500b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "点は、gml:Point又はgml:MultiPointにより実装する。線は、gml:MultiCurveにより実装する。また、面はgml:MultiSurfaceにより実装する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

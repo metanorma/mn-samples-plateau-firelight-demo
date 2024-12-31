@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.4  brid:BridgeRoom",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.4  brid:BridgeRoom"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.4  brid:BridgeRoom"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_72f3a8dc-1e9c-a8a9-1363-8de8037d2073"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:BridgeRoomは、橋梁の内部空間の記述に使用する地物型である。橋梁モデル（LOD4）においてのみ使用する。brid:BridgeRoomは、橋梁と一体的な建屋があり、人や物の出入りが可能な場合に、その内部空間を表現するため使用する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

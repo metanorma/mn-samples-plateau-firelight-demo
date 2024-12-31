@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "E.2.3.3  LOD2",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "E.2.3.3  LOD2"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "E.2.3.3  LOD2"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4104e846-d13c-b1eb-ab77-682fe55505d6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（鉄道）モデル（LOD2）では、鉄道の形状を面として表現する。このとき、tran:Railwayは、横断構成要素であるtran:TrafficAreaに分解される。tran:Railwayの空間属性は、これを構成するtran:TrafficAreaの空間属性の集まりとなる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ffdf6f21-356e-2ae6-068e-a69b274a6a83"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（鉄道）オブジェクトは、交通（鉄道）モデル（LOD2）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

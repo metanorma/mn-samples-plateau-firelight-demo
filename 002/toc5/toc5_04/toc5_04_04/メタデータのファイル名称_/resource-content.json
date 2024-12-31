@@ -1,0 +1,165 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.3  メタデータのファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.3  メタデータのファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.3  メタデータのファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2873e253-e033-c87e-9982-352db1709c80"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルのメタデータファイルの名称は、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "udx_[都市コード]_[整備年度]_[地物型]_[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ae784e88-d871-0fc0-f409-cf9cba47c5b5"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[都市コード]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "及び"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[整備年度]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "の命名規則は、ルートフォルダの命名規則（5.4.5(2)）に従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a4ca356a-8e80-8013-4a9c-eb31325bd848"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[地物型]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は地物型を識別する接頭辞（"
+                        },
+                        {
+                            "type": "resource_link",
+                            "attrs": {
+                                "href": "urn:x-metanorma-xml-id:tab-5-9"
+                            },
+                            "content": [
+                                {
+                                    "type": "span",
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "表6-23"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "）とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_2ff14cd1-5a98-04e5-ac40-d7716208ce46"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は、メタデータを分けたい場合（5.3.1）に、それぞれのメタデータを識別するために使用する任意の半角英数字とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_77aae0a6-687c-5de9-fc68-a33ca86bfa9b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、オープンデータのメタデータには、末尾に_opが付く。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

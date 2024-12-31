@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.3.1  道路の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.3.1  道路の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.3.1  道路の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5f75d318-ad22-45d5-c335-97e56116a54c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran:Roadの空間属性は、いずれのLODにおいても、同一のLODにおける道路の連続性を担保する必要がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

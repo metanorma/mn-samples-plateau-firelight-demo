@@ -1,0 +1,125 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.11.1.3.2  作業手順",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.11.1.3.2  作業手順"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.11.1.3.2  作業手順"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_91680f5c-f1ac-687c-bd02-74cbb83de013"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① 建築物の外観を構成する各面を取得する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_bcbadfdc-4781-5ad9-9882-10e8ea766a67"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "建築物モデル（LOD0）の範囲に含まれる航空写真から作成した点群又は航空レーザ点群を抽出し、建築物の屋根形状を作成する。このとき、屋根の棟及び谷で区切り、屋根の傾斜や向きを再現する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_6453f5e8-8c95-2f29-4036-d24c5b7d5e60"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "② 前項で作成した各面を境界とする立体を作成する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_32b874de-5d81-3c13-b8a3-54c5f3abe969"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "建築物モデル（LOD２）の作成については、以下の技術レポートを参考にできる。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_0057f1e2-f7f8-aae6-abfb-acd71e6c911d"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "参考「 "
+                                        },
+                                        {
+                                            "type": "external_link",
+                                            "attrs": {
+                                                "href": "https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0056_ver01.pdf"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "AI等を活用したLOD2自動生成ツールの開発及びOSS化技術検証レポート"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " 」"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

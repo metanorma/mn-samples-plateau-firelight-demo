@@ -1,0 +1,1053 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "1.2  引用文献",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "1.2  引用文献"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "1.2  引用文献"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ea6067c8-4fac-0a04-64ac-f3ab047ba915"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "次に掲げる引用規格は，この規格に引用されることによって，その一部又は全部がこの規格の要 求事項を構成している。これらの引用規格のうち，西暦年を付記してあるものは，記載の年の版を適 用し，その後の改正版(追補を含む。)は適用しない。西暦年の付記がない引用規格は，その最新版(追 補を含む。)を適用する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:iso_19101"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "ISO 19101,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Geographic information — Reference model"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.iso.org/standard/26002.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[src]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.iso.org/contents/data/standard/02/60/26002.detail.rss"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[rss]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:gsi_ops"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[1]  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土地理院．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "作業規程の準則"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://psgsv2.gsi.go.jp/koukyou/jyunsoku/"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://psgsv2.gsi.go.jp/koukyou/jyunsoku/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://psgsv2.gsi.go.jp/koukyou/jyunsoku/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:nilim_kiban_dps"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[1]  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土技術政策総合研究所．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "道路基盤地図情報（整備促進版）製品仕様書（案）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn0848pdf/ks084811.pdf"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn0848pdf/ks084811.pdf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn0848pdf/ks084811.pdf"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:mlit_foundation_reqs"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[1]  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省都市局．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "都市計画基礎調査実施要領"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 第4版．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.mlit.go.jp/toshi/tosiko/kisotyousa001.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.mlit.go.jp/toshi/tosiko/kisotyousa001.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/toshi/tosiko/kisotyousa001.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:jpgis_spec_reqs"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "JPGIS 品質の要求，評価及び報告のための規則,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土地理院．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "品質の要求，評価及び報告のための規則"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:jmp20"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "JMP 2.0,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土地理院. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "JMP2.0仕様書"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:iurban_des"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "i-UR 3.0,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Data Encoding Specification of i-Urban Revitalization -Urban Planning ADE- ver.3.0（内閣府地方創生推進事務局）"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.chisou.go.jp/tiiki/toshisaisei/itoshisaisei/iur/index.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.chisou.go.jp/tiiki/toshisaisei/itoshisaisei/iur/index.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.chisou.go.jp/tiiki/toshisaisei/itoshisaisei/iur/index.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:jpgis_2014"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "JPGIS 2014,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省国土地理院．"
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "地理情報標準プロファイル（JPGIS）2014"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.gsi.go.jp/GIS/jpgis-downloads.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:ogc_19-008r4"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "OGC 19-008r4,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "Emmanuel Devys, Ted Habermann, Chuck Heazel, Roger Lott,  Even Rouault. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "OGC GeoTIFF Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 4. Open Geospatial Consortium. 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "http://www.opengis.net/doc/IS/GeoTIFF/1.1"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "http://www.opengis.net/doc/IS/GeoTIFF/1.1"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "http://www.opengis.net/doc/IS/GeoTIFF/1.1.0"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[src]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://docs.ogc.org/is/19-008r4/19-008r4.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[obp]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "http://www.opengis.net/doc/IS/GeoTIFF/1.1"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:ogc_12-019"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "OGC 12-019,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "Gerhard Gröger, Thomas H. Kolbe, Claus Nagel,  Karl-Heinz Häfele. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "OGC City Geography Markup Language (CityGML) Encoding Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Open Geospatial Consortium. 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.ogc.org/standards/citygml"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.ogc.org/standards/citygml"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "http://www.opengis.net/spec/citygml/2.0"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[src]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://portal.ogc.org/files/?artifact_id=47842"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[obp]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.ogc.org/standards/citygml"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:ogc_05-099r2"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "OGC 05-099r2,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "Arliss Whiteside. "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "GML 3.1.1 simple dictionary profile"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 2. Open Geospatial Consortium. 入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.ogc.org/standards/gml"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.ogc.org/standards/gml"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": null
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[src]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://portal.ogc.org/files/?artifact_id=13206"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[obp]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.ogc.org/standards/gml"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:plateau_prod_spec_4"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "PLATEAU Handbook #01,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省都市局."
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "3D都市モデル標準製品仕様書"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 第4.1版．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.mlit.go.jp/plateau/libraries/"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.mlit.go.jp/plateau/libraries/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateau/libraries/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:plateau_010"
+                    },
+                    "content": [
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "PLATEAU Handbook #10,  "
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "国土交通省都市局."
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "3D都市モデル整備のための測量マニュアル"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": ". Version 第3.0版．入手先: "
+                        },
+                        {
+                            "type": "span",
+                            "content": [
+                                {
+                                    "type": "external_link",
+                                    "attrs": {
+                                        "href": "https://www.mlit.go.jp/plateau/libraries/"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://www.mlit.go.jp/plateau/libraries/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateau/libraries/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[citation]"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7c36b2f8-71e3-2c92-91c0-95bf7be5c57c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "引用文献のうちで、版の記載があるものは、その版を適用し、その後の改正版（追補を含む）は適用しない。版の記載がないものは、その最新版（追補を含む）を適用する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b18ab0fb-3790-86ea-a1c6-315805f6bf90"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "また本書において、「i-UR」は、特段の指定がない限り、"
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.chisou.go.jp/tiiki/toshisaisei/itoshisaisei/iur/index.html"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "i-UR 3.0"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " を指す。また、「CityGML」についても同様に "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.ogc.org/standards/citygml"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "OGC 12-019"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " を指す。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

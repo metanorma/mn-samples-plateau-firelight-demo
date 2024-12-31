@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "K.2.3  都市計画決定情報の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "K.2.3  都市計画決定情報の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "K.2.3  都市計画決定情報の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_640a8ef9-e0de-cd65-d4f8-01fe2f11d920"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市計画決定情報の空間属性は、都市計画の区域と一致し、gml:MultiSurfaceを用いて記述する。また、区域の境界を区域界（urf:Boundary）として記述する場合は、gml:MultiCurveを用いる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c744ef8a-3a0f-633b-253e-708581672a5d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、区域及びその境界は高さをもたない（高さは０とする）。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

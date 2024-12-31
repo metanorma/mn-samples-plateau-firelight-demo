@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.3.4  原典資料リストの作成手順",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.3.4  原典資料リストの作成手順"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.3.4  原典資料リストの作成手順"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_cb32b997-7c5c-78fd-c81d-42eaefb409dc"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "JMP2.0は、データ製品を作成する際に使用した原典資料の諸元を詳細に記述できないことから、標準製品仕様書では、原典資料リストのための仕様を定めている。3D都市モデルを作成する際には、必ずこの原典資料リストを作成しなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "G.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "G.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "G.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_75ff37f9-884d-7a4d-a64b-11c1119a622a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（広場）モデル（LOD0）では、広場の形状を線により表現する。広場の形状の線は、ネットワークを基本とする。ただし、数値地形図との互換性を保つために、道路縁及び車道の界線を選択できる。このとき、交通（広場）オブジェクトは、交通（広場）モデル（LOD0）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0dac8fcb-31e0-656c-a6a4-397748293ae2"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路縁及び車道の界線を採用する場合、公共測量標準図式に従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0dcad1f1-9c10-df8c-e67f-9b0fb324c6bf"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（広場）モデル（LOD0）のうち、駅前広場及び交通広場は、交通（道路）モデル（LOD0）で表現される地物の集まりとして構成される。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

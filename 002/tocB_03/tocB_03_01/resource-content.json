@@ -1,0 +1,77 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "B.3.1  gml:pos, gml:posList",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "B.3.1  gml:pos, gml:posList"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "B.3.1  gml:pos, gml:posList"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4ef1947b-03b3-83cb-4e2d-eb2ac94bc4ca"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:posは直接座標、gml:posListは直接座標のリストの記述に用いる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9475195f-513f-893a-15ba-6159e3c23e73"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:Envelopeの属性srsName座標で指定した空間参照系に基づく座標値を記述する。「日本測地系2011 における経緯度座標系と東京湾平均海面を基準とする標高の複合座標参照系」の定義に従い、座標値は緯度、経度、標高の順列とし、それぞれを半角スペースで区切る。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5c36ed82-0d9c-4992-f358-92f5875b0da6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "「日本測地系2011 における経緯度座標系と東京湾平均海面を基準とする標高の複合座標参照系」は、水平方向の「日本測地系2011 における経緯度座標系」と高さ方向の「東京湾平均海面を基準とする標高」との複合座標参照系である。このとき、水平方向である「日本測地系2011 における経緯度座標系」（EPSGコード：6668）では、その軸が、緯度、経度の順序で定義されている（参照： "
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://epsg.org/crs_6668/JGD2011.html?sessionkey=avd2dpqnm9"
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "text": "）。そのため、座標値が緯度、経度、標高の順列となる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

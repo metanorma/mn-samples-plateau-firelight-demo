@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.4.1  トンネル内部空間の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.4.1  トンネル内部空間の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.4.1  トンネル内部空間の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_94eb59de-d6c7-e3fc-0a98-18ba7771e4f5"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "トンネルモデル（LOD4）において、トンネルの内部空間の形状は、立体により表現する。立体は、境界面に区分し、それぞれの境界面は、tun:CeilingSurface、tun:FloorSurface、tun:InteriorWallSurface又はtun:ClosureSurfaceのいずれかにならなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

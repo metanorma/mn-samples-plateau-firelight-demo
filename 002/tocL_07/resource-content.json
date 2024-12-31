@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.7  brid:BridgeFurniture",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.7  brid:BridgeFurniture"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.7  brid:BridgeFurniture"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_11129e2d-0f9e-28d0-339f-d8c1d529b01b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:BridgeFurnitureは、橋梁内部の空間に配置された、可動設備を記述するために用いる。brid:IntBridgeInstallationが、橋梁内部に設置された恒久的かつ固定的な設備であることと対照的に、brid:BridgeFurnitureは椅子や机のような動かすことができる（位置が固定されない）設備である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3fe735cf-dfc4-054d-faec-66e661759536"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ユースケースの要求に応じて、取得対象とする可動設備を決定してよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

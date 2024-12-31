@@ -1,0 +1,94 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.1.7  オープンデータのファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.1.7  オープンデータのファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.1.7  オープンデータのファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1a61684e-bb04-fcc8-6127-743e4fd0b6b8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "オープンデータとなる3D都市モデルのファイル名称は、元となる3D都市モデルのファイル名称に「 "
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "_op"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " 」を付与し、 "
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[メッシュコード]_[地物型]_[CRS]_[オプション]_op"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c56dd183-ede7-a0d6-51fb-9fd609b2ce55"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "例示したファイルには、基準地域メッシュコード "
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "53394610"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": " に区分される範囲に含まれる、建築物、建築物部分、建築物付属物及びこれらの境界面が含まれる、日本測地系2011における経緯度座標系と東京湾平均海面を基準とする標高の複合座標参照系により記述されたデータ集合からオープンデータ化が可能なデータが抽出されたデータ集合が格納される。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

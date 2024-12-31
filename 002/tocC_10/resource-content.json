@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.10  bldg:BuildingFurniture",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.10  bldg:BuildingFurniture"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.10  bldg:BuildingFurniture"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0f23ace2-8e71-5ba3-2688-d65f96d8ae91"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:BuildingFurnitureは、机や椅子のような、部屋の中に置かれる可動式の設備である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "E.3.1.1.2  作業手順（ネットワークを採用する場合）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "E.3.1.1.2  作業手順（ネットワークを採用する場合）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "E.3.1.1.2  作業手順（ネットワークを採用する場合）"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_bc363c06-293e-8b9e-8ecf-8a6fce2142ea"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① 都市計画基本図等のDMデータからレールを抽出し、レールの中心線を発生する、又は航空写真からの図化により軌道中心線を取得する。軌道中心線の高さは0とする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

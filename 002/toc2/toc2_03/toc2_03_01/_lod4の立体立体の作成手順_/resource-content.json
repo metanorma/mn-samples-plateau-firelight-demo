@@ -1,0 +1,83 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "3.3.1.3  LOD4の立体 の作成手順",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "3.3.1.3  LOD4の立体 の作成手順"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3.3.1.3  LOD4の立体 の作成手順"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5d47acd0-a101-7121-2906-5e3d38b4eb9a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "LOD4の立体は、LOD3の詳細な都市オブジェクトの形状（外形）に加えて、都市オブジェクトの内部の形状が再現された立体である。例えば建築物の場合、LOD4では、LOD3の外形に加えて、建築物の内部の空間として部屋及び境界面（内壁、天井、床）、また、部屋の境界面に設けられた開口部（窓、扉）が再現される。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6fcc18ca-b556-7504-26b5-ab2f70ca2230"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "内部の形状は測量では取得できない場合や取得が困難な場合があるため、LOD4はCADやBIMなどの設計データからの変換や設計図のデジタイズにより作成することが基本となる。ただし、可能な場合には測量により取得してもよい。この場合には、LOD2やLOD3と同様の作成手順となる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1f617528-fbf7-f152-ce82-2e3837995761"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "BIMデータの活用については、「"
+                        },
+                        {
+                            "type": "external_link",
+                            "attrs": {
+                                "href": "https://www.mlit.go.jp/plateau/libraries/handbooks/"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "PLATEAU Handbook #03"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "」を参照する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

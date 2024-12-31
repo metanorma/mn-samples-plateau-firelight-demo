@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.6  bldg:_Opening",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.6  bldg:_Opening"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.6  bldg:_Opening"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_810a7520-d0d0-ded9-bbc0-7425cfec3f6b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:_Openingは、外壁面や屋根面に設置される開口部である。開口部は、LOD3及びLOD4でのみ記述可能となる。また、開口部は、これが設置された外壁面又は屋根面のbldg:openingにより記述又は参照されなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

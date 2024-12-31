@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.3.2  橋梁部分の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.3.2  橋梁部分の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.3.2  橋梁部分の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ec6e5099-b498-5dbd-01c8-5159c6a793ea"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "brid:BridgePartは、brid:Bridgeと同様の主題属性をもつことができる。必要に応じてbrid:BridgePartごとに個別の属性をもつ。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

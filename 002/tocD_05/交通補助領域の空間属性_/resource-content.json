@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.5.1  交通補助領域の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.5.1  交通補助領域の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.5.1  交通補助領域の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_786652ff-9a1c-c88e-9a73-af658272309f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran:AuxiliaryTrafficAreaも、道路面を構成する要素であるため、tran: TrafficAreaと同様の要件を満たす必要がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

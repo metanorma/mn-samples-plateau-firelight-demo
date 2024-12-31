@@ -1,0 +1,114 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "5.3.1  属性の追加",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "5.3.1  属性の追加"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "5.3.1  属性の追加"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_adf54da5-1537-193f-2b54-745b6ebd7b7e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地物型に定義された主題属性及び時間属性を、幾何オブジェクトの属性として追加する。追加すべき主題属性及び時間属性は、第1章において決定した各都市の製品仕様に従う。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b87db4bc-32c1-dae4-e777-8fc6fe1cfd90"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "手順："
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_1df108a6-52c2-d599-e5c7-ba45220574b8"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "原典資料に含まれる、作成した幾何オブジェクトに対応する値を特定する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_af0d8b16-2edf-7f55-ded8-a3844f1dcc33"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "幾何オブジェクトの属性として特定した値を記述する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_d3b9dd31-3596-e731-af3e-f4703f09d564"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "品質評価を実施する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

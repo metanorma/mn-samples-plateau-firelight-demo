@@ -1,0 +1,138 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "P.7.2.4  地下埋設物（マンホール）モデルの主題図形",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "P.7.2.4  地下埋設物（マンホール）モデルの主題図形"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.7.2.4  地下埋設物（マンホール）モデルの主題図形"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7c2aae96-9f3e-206d-ce01-8472233245b8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.6.2.3と同様の理由でマンホールやハンドホールにおいては、地表の高さをもった中心点をもたせることができる。中心点を作成する場合は、以下の作成手順となる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_b6b744e4-bfc0-cec9-a6ff-f68462e04357"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① マンホールの正射影を取得する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_b9f1236b-9645-9b88-7a39-a187aa541d97"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "原典資料からマンホール及びハンドホールの蓋の外周の正射影を取得する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_faefa37c-3479-5d1c-5100-d1f014d03b98"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "②　①で取得した正射影から中心点を取得する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_54d5eb94-47ca-7777-c3c3-6b8c206de380"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "マンホールの単位ごとに①の正射影から中心点を取得する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_afa8677f-153c-8064-23e0-d2883f1c4fa2"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "③　②で取得した中心点に対して、地表の高さを与える。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_ec57a568-d228-932f-00b8-9f4bba7c1bd8"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "各中心点に対しその中心点の位置の地表の高さを与え、3次元の中心点とする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

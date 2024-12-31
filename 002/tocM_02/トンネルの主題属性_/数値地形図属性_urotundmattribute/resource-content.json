@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.2.4.7  数値地形図属性（uro:tunDmAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.2.4.7  数値地形図属性（uro:tunDmAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.2.4.7  数値地形図属性（uro:tunDmAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1dd3eab5-6810-594f-3fff-9f30ce6107bd"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "公共測量標準図式に従った形状表現に必要な情報を記述するための属性である。LOD0の幾何オブジェクトのほか、数値地形図との互換性を保つために必要な情報が、属性として定義されている。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

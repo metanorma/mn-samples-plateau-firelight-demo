@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "1.4  本書で使用する用語",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "1.4  本書で使用する用語"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "1.4  本書で使用する用語"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6b73799a-1ace-410f-e38c-126ebaee066d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "この規格で用いる主な用語及び定義は，次による。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_653babe4-795e-abea-288e-884c80cf007a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "本書では、以下の用語を使用する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

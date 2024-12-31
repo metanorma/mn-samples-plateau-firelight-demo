@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "H.2.4.1  航路詳細属性（uro:waterweyDetailAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "H.2.4.1  航路詳細属性（uro:waterweyDetailAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "H.2.4.1  航路詳細属性（uro:waterweyDetailAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8e9b46aa-a9de-7178-ddc0-2b26651f8cbe"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "航路の詳細な属性として、航路の管理番号、進行方向、幅員、延長、航法、計画水深、速力制限、対象船型を定義する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_03b3bd0b-a78c-aca8-d822-49d6c9be200b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "幅員が幅をもって指定されている場合は、最小値（uro:minimumWidth）及び最大値（uro:maximumWidth）の両方を入力する。特定の値が指定されている場合は、最小値（uro:minimumWidth）のみを入力する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

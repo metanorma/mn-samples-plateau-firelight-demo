@@ -1,0 +1,111 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "R.3.1.4.3  作業手順（植被）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "R.3.1.4.3  作業手順（植被）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "R.3.1.4.3  作業手順（植被）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b3bc549e-0e35-bd28-6e52-100e48cca329"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "①　航空写真から作成した点群又は航空レーザ点群及び植生モデル（LOD1）の上方からの正射影の外周を使用して、植被の範囲の点群を特定する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_03ad86f7-dba5-4cb7-256b-29b2021f7128"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "②　特定した範囲内の点群を使用し、TINモデルを作成する。このとき、TINの外縁は植生モデル（LOD1）の底面とする。ただし、植被の表層の比高が1m未満の場合（植込等）は、底面を最高高さまで上向きに押し出した立体とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_8d3b4e8a-e11b-55e4-14a5-a03a5b640ac2"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "TINを作成する点群の密度は、航空写真から作成した点群の場合は16点/m2、航空レーザ点群の場合は1点/m2以上とする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_dd5bd51c-a8ba-36c8-cec5-984280756476"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "点群の格子間隔は5ｍを推奨とする。ただし、取得対象とする植被が小さい場合は、点の分布を確認し、表層の形状を再現するのに必要な点が存在するか確認する。表層を再現するのに必要な点が存在しない場合、表層の形状を再現できる格子間隔を採用する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_bbdae31b-5574-7024-705e-77f87557c860"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "作成したTINの形状が、水平及び高さの誤差の標準偏差に収まるようにする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

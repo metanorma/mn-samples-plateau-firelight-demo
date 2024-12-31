@@ -1,0 +1,170 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.1.2  成果品の単位",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.1.2  成果品の単位"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.1.2  成果品の単位"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f4efce44-3368-1f72-631e-6a5114a34e64"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルのデータセットは、原則として基礎自治体（市区町村）を単位とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d5358e21-ef24-cba9-877e-59056031eb2f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、3D都市モデルの提供者が以下に該当する場合は、成果品を分けることができる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_b1693b58-8fb8-d787-75ed-68ac1f5c4801"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "国土交通省"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_79ce4d86-42c2-b7e3-a7f3-b84b7ac83a42"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "都道府県"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_bb4bcf87-4164-6882-520e-3b212137b136"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "ユーティリティ事業"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_718a2264-de17-3856-860f-ec3177e59e8a"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "道路事業"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_f551a4dc-c984-3029-f9f3-8f3131ce9f2c"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "鉄道事業"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b8581a05-417f-cd96-0483-06a13568c103"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "成果品を分ける場合は、標準製品仕様書に示すルートフォルダの命名規則に従い、成果品の名称の"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "を指定すること（5.4.1）。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

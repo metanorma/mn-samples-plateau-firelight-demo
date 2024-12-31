@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "I.2.3.1  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "I.2.3.1  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "I.2.3.1  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7b9de474-324a-9bb9-45f8-77369acb5fda"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "土地利用モデル（LOD1）では、土地利用の形状を、高さをもたない面として表現する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_1a9a236c-8108-0643-32c5-e923fe075f4b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書において、土地利用は都市計画基礎調査の土地利用現況を指すことから、土地利用の空間属性は、都市計画基礎調査の土地利用現況の面と一致する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

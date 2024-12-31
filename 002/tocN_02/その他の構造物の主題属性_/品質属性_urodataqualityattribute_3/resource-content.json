@@ -1,0 +1,91 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "N.2.4.6  品質属性（uro:DataQualityAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "N.2.4.6  品質属性（uro:DataQualityAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "N.2.4.6  品質属性（uro:DataQualityAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3f44d882-f58c-7afb-31dd-5dad51d44e95"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "その他の構造物オブジェクトの作成に使用した原典資料の記録や、適用した詳細なLODの区分を示すための属性である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6399c0cb-325b-2888-a726-c1360059cf82"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "使用した原典資料やそれに基づくデータの品質、また、採用したLODは、データセットのメタデータに記録できる。ただし、データセット全体に対して一つのメタデータを作成することが基本となり、個々の都市オブジェクトの品質を記録することは困難である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d17b10e1-7cfa-61be-1afb-3221ca793f4c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "同じデータセットの中に、航空写真測量により作成したその他の構造物オブジェクトや完成図等から作成したその他の構造物オブジェクトというように、複数の品質をもつ都市オブジェクトが混在している場合には、都市オブジェクトごとにこの構造物品質属性を使用して、品質情報を記録することで、その品質を明確にできる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_730a6722-ee7b-40b0-5636-cfb170707dff"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "そこで、標準製品仕様書では、個々のデータに対してデータ品質に関する情報を記述するための属性として、「データ品質属性」（uro:DataQualityAttribute）を定義している。データ品質属性は、属性としてデータ作成に使用した原典資料の地図情報レベル、その他原典資料の諸元及び精緻化したLODをもつ。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9e5dad9d-32d3-c617-26f1-4eca3738a410"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルに含まれる全てのその他の構造物オブジェクトは、このデータ品質属性を必ず作成しなければならない。ただし、その他の構造物（uro:OtherConstruction）に対してデータ品質属性を付与することはできるが、これを構成する屋根面や外壁面（uro:_BoundarySurfaceの下位クラス）にデータ品質属性を付与することはできない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

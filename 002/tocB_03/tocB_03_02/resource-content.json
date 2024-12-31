@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "B.3.2  gml:Point",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "B.3.2  gml:Point"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "B.3.2  gml:Point"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7934e161-fc91-6dd9-aed9-e7d5ef493486"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:Pointは、点を記述するための幾何オブジェクトである。gml:posによりその位置を示す座標値を記述する。gml:Pointは識別子をもち、これを構成要素とする曲線（gml:_Curve）が参照できる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

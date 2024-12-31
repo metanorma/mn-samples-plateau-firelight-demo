@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "I.3.2.3  幾何オブジェクトの区切り",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "I.3.2.3  幾何オブジェクトの区切り"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "I.3.2.3  幾何オブジェクトの区切り"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5e32616f-b7db-79e4-c477-71e40f3ded67"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "土地利用の幾何オブジェクトは、同じ用途に供される土地の範囲を示す境界により区切ることを基本とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d2394e3e-1b27-5c66-3ba2-dec507df5b90"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、道路や河川のように、用途が同じ土地利用が連続的に存在する地物は、市区町村全域で一つの幾何オブジェクトとなる。この結果、複雑な形状となり、エラーを生じやすい。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d39eadad-6727-2c38-aa39-aa8b8eef9269"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "このような場合には、土地利用のファイル単位となる統合地域メッシュ（第2次地域区画）の境界を跨ぐ場合は、第2次地域区画により分割することが望ましい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

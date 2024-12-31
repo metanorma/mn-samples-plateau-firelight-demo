@@ -1,0 +1,310 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "3.2  既存資料の把握",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "3.2  既存資料の把握"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3.2  既存資料の把握"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_efd32396-65bf-3371-7555-ae1c91663c1c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "「既存資料」には、都市計画基本図や基盤地図情報のような地物型の空間属性（位置や形状）の情報が含まれる資料（地図・図面）や、都市計画基礎調査のような地物型の時間属性や主題属性が含まれる資料（調書・台帳）が存在する。また、これらには、地方公共団体等の行政機関が保有するデータ、一般に公開されているオープンデータ、そして、民間企業等が販売するアーカイブデータがある。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_aae4af15-637b-a3e2-eee1-f2c1fad8a73c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ここでは、拡張製品仕様として定義された地物型等の情報が含まれる可能性のある既存資料を把握する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_fead83db-ef38-e61f-f73f-77bf26edc19e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "手順："
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_53b8254d-b052-dcd1-a834-57b99bc08dc4"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "既存資料の有無を調査する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_79b38922-f071-d876-c935-2860b3a6ee68"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "拡張製品仕様により、原典資料（データ取得の拠り所となる資料）として利用可能な既存資料は異なるが、例えば以下に示す資料の活用が想定される。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_219ae576-1c77-c5bc-b687-fff54a749965"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "地方公共団体等の行政機関が保有するデータ"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "bullet_list",
+                                                    "content": [
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_6342c8e8-f0f4-2ea6-7152-f912be7975fa"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "都市計画基本図、都市計画図、都市計画基礎調査、都市計画決定図書、数値地形図（DM）データ、公共測量成果（地上レーザ測量、車載写真レーザ測量、UAV写真測量、空中写真測量、航空レーザ測量、地上レーザ点群測量、UAV写真点群測量等、作業規程の準則に基づく各種公共測量における測量成果）、3D都市モデル、道路基盤地図情報、道路台帳及び道路台帳附図、道路施設台帳、指定道路図、路線網図、工事完成図書、下水道台帳及び下水道台帳付図（施設平面図）"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_06226a5d-0ae0-9d71-5da7-e4dae61006cb"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "オープンデータ"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "bullet_list",
+                                                    "content": [
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_ac837cdd-672f-b50e-4bea-7c03f7b0ecc6"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "基盤地図情報（基本項目、数値標高モデル）、"
+                                                                        },
+                                                                        {
+                                                                            "type": "resource_link",
+                                                                            "attrs": {
+                                                                                "href": "urn:x-metanorma-xml-id:nlftp"
+                                                                            },
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "国土数値情報"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "（例：洪水浸水想定区域、津波浸水想定、土砂災害警戒区域、土地利用細分メッシュデータ）"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_1c4d3002-1829-de10-366c-60a2f96e6158"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "統計データ（全国道路・街路交通情勢調査一般交通量調査）"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_17b91586-0329-81fd-950b-d7e7e0e4aba1"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "民間企業が販売するアーカイブデータ"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "bullet_list",
+                                                    "content": [
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_18569fc1-3e11-f397-33f2-d854380e3448"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "レーザ点群データ、航空写真、地図データ"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_ab678111-09cc-dde3-4c32-b6ca6edb28a3"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "地方公共団体等の行政機関が保有する都市計画基本図や数値地形図データは、主として3D都市モデルの幾何オブジェクトを作成する際に使用する。また、航空写真やレーザ点群データ等の公共測量成果は、幾何オブジェクトに高さを付与するために使用する。都市計画基礎調査、道路基盤地図情報、道路台帳等の法定図書、統計データは3D都市モデルの主題属性を付与するために使用する。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_285edd3b-3287-41b3-b74c-07bfbc17d850"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "1)で存在が確認された資料について、データ形式、整備項目、整備範囲、整備時点、品質、利用条件及び更新頻度等を整理する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_dd3b914d-a5d6-d3c0-276b-d76b3ba96bc9"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "整備した3D都市モデルが様々な分野・用途でも活用されるよう、オープンデータ化を念頭に置いて、既存資料の整理をすること。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

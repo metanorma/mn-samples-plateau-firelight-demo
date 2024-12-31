@@ -1,0 +1,79 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "Q.2.3.3  LOD3",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Q.2.3.3  LOD3"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Q.2.3.3  LOD3"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_42eaa264-8b72-7c7e-7b64-150c7b6134fe"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下街モデル（LOD3）では、地下街の形状を立体として表現する。地下街の外形を立体として表現し、立体を構成する境界面のそれぞれを、上向きの面は屋根面、下向きの面は底面、それ以外は外壁面として区分する。また、地下街への出入口を閉鎖面として取得する。このとき、地下街オブジェクトは、地下街モデル（LOD3）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d914105e-c2ac-ecc8-2fbe-34a3b140139b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下街モデル（LOD3）は、地下街モデル（LOD2）から、地下街への出入口を閉鎖面に区分したモデルである。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_bd0a954f-60cb-fe3b-2d37-e0477f9ece0a"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ユースケースの必要に応じて境界面に扉や窓を設けてもよい。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_97f912cd-7166-a3b2-8b88-588289c7a260"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、地上に設置された、地下街出入口の建屋は都市設備（CityFurniture）として取得する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

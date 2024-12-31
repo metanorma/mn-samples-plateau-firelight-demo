@@ -1,0 +1,68 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.10.1.7.3  作業手順（地下横断歩道）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.10.1.7.3  作業手順（地下横断歩道）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.10.1.7.3  作業手順（地下横断歩道）"
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_04eec66a-67ff-e64e-ec05-de25d5ff9fb5"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "① LOD4.1モデルにMMS点群データ又はLiderSLAM点群を重畳表示し、作成したLOD4.0の内部の箱抜部や付属物を作成する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_a6babd74-62bb-ec4d-15b7-83a967643b39"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "この際、作成する付属物は内部の固定された付属物を全て作成する。また、任意で可動する設備を作成する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

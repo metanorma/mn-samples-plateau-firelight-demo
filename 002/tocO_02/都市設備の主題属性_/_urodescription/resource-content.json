@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "O.2.4.3  uro:description",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "O.2.4.3  uro:description"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "O.2.4.3  uro:description"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9fd5b652-e3b4-151a-50b4-68efceb21b0f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "uro:descriptionは、uro:facilityTypeをさらに詳細化するための属性である。例えば、uro:facilityTypeを用いて区分された規制標識の「最高速度」について、指定された速度（例：時速50km）を、uro:descriptionにより記述できる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

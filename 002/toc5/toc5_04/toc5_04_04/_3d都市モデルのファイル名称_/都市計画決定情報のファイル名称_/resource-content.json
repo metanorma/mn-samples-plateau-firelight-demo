@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.4.1.2  都市計画決定情報のファイル名称",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.4.1.2  都市計画決定情報のファイル名称"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.4.1.2  都市計画決定情報のファイル名称"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_cef6b082-754e-0ca4-895e-641e6d30f3d0"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市計画決定には様々な種類があるため、これらが全て同じフォルダに混在すると、データの利便性が損なわれる恐れがある。そこで、標準製品仕様書ではあらかじめ都市計画の種類ごとにオプションとして使用する文字を定め、都市計画の種類ごとにファイルを分けて作成するように定義している。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

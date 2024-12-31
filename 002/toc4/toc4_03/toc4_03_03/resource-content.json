@@ -1,0 +1,152 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "5.3.3  実施すべき品質評価",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "5.3.3  実施すべき品質評価"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "5.3.3  実施すべき品質評価"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a785dbea-2ea7-2dd6-0c66-b4603b8ef654"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "「属性の追加」では、主として主題属性に関する品質評価を行う。属性の型は正しいか、定義域を満たしているか（論理一貫性）、正しい属性値が格納されているか（主題正確度）について評価する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c1f20fde-95fa-2429-2bce-2dc350ed6402"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "「属性の追加」において実施すべき品質評価を以下に示す。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_fd416be6-4fb0-7fc2-3bbb-4a05ce618244"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "品質要素ごとに分類された各番号は、標準製品仕様書に定義する品質要求及び評価手順の識別子である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_ffb66a76-90cf-9a3e-0fd6-29b169ec638b"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "完全性：C-bldg-01"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_1a9e00dc-17e0-8f19-e1f5-d8959b1723c4"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "論理一貫性：L04, L-bldg-03, L-bldg-04, L-bldg-05"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_084e9c7c-9baf-5356-feff-b00609c11f91"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "位置正確度：-"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_ccb1177f-d0b3-3efb-c77b-91b9aa3c1e98"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "主題正確度：T01, T02"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e40d7bb7-2923-6f32-db46-b13289fa6c33"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書の品質要求に追加又は変更を行った場合には、論理一貫性及び主題正確度についての品質評価を実施すること。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

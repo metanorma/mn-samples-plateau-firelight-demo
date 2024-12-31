@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.11.2.2  バルコニーとベランダの区分",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.11.2.2  バルコニーとベランダの区分"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.11.2.2  バルコニーとベランダの区分"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4d057d7b-20fc-db0f-b8cf-82b36162c4d7"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "バルコニーとベランダは、いずれも建築物の屋外に床を設けた部分であり、一般的には屋根がない場合にバルコニー、軒や庇などによる屋根がある場合にはベランダと呼ばれる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ba1b65dd-c40e-afa9-4da0-f3ba20558579"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "建築基準法ではバルコニーとベランダを区別せず、バルコニーとして扱っていることから、標準製品仕様書においてもこれらを区分していない。ユースケースにより両者の区分が必要な場合は、拡張製品仕様書においてベランダを追加することができる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

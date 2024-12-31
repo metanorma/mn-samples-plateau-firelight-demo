@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "P.3.2  地下埋設物の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "P.3.2  地下埋設物の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.3.2  地下埋設物の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b43b3864-a282-377c-40a2-b8c3d94076aa"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下埋設物は、都市設備（frn:CityFurniture）を継承して定義される。そのため、地下埋設物の主題属性には、各地物型の属性として定義された属性以外に、都市設備から継承する、都市設備に関する詳細な情報を格納するための属性（uro:cityFurnitureDetailAttribute）、作成したデータの品質に関する情報を格納するための属性（uro:DataQualityAttribute）、都市設備の位置や識別に関する属性（uro:frnFacilityIdAttribute）、特定の分野における施設区分に関する属性（uro:frnFacilityTypeAttribute）、その分野における施設管理に必要な属性（uro:frnFacilityAttribute）及び公共測量標準図式に従った表現に必要となる属性（uro:frnDmAttribute）をもつことができる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

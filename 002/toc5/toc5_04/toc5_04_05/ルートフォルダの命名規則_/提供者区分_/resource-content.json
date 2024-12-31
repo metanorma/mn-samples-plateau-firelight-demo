@@ -1,0 +1,387 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.5.2.3  [提供者区分]",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.5.2.3  [提供者区分]"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.5.2.3  [提供者区分]"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ac15ef47-9fb6-a0f6-11c2-4541102239aa"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者区分]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は、データセットの提供者を識別するための文字列であり、半角英数字及び区切り文字（-）の組み合わせとする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_de933a63-5f97-3fe1-175c-9f88f12a8a60"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルの作成主体及び提供主体は市区町村が主となるが、将来的にはライフライン事業者や鉄道事業者などの公益事業者や、商業施設を保有する民間事業者がそれぞれ保有する施設の情報を3D都市モデルとして作成・提供するというように、3D都市モデルの作成・提供主体が様々となる可能性がある。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_10fb8472-fc0f-fb31-d6d3-68d39de8f7ff"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "そこで、3D都市モデルの提供者を識別するために、成果物のフォルダ名称に"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者区分]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "を設ける。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_590abba3-811e-3d98-ab0d-199739b73971"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルの提供者が市区町村又は都道府県の場合、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者区分]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は以下とする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f7e488d1-1ca2-de0a-7ba9-4f6efa7c33b4"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "city：市区町村"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_34bf3a28-dc38-c7d6-2da3-d8ce736d1141"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "pref：都道府県"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a47bc9ec-5b82-69a0-5116-6315a0111c49"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "提供者が市区町村又は都道府県以外の場合、提供者の事業分野を識別する"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[事業分野]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "と、提供者を識別する"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "により構成する。"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[事業分野]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "及び"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "には半角英数字を使用し、この二つを区切り文字（半角のハイフン）により接続する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8b061010-2c45-27ec-22c7-fad9c33d172e"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[事業分野]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は標準製品仕様書において以下の通り定めている。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3bf9a5a8-599f-edbe-e687-65894c9d39cc"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "unf：ユーティリティ事業"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5c217d8d-eaf6-4334-fc92-68dc84dae9a5"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran：道路事業"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_36b56552-55e8-eb27-146b-ad74b722f9ea"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "rwy：鉄道事業"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c85fe32d-355f-2052-719f-eb126b0e643c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[事業分野]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は、標準製品仕様書に順次追加される。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_9840c591-2b66-bad6-e1b0-8af14742386a"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は、拡張製品仕様書において定めるものとする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_513ed5a0-2cb5-648b-108b-330eb114ee52"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者区分]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "の例を以下に示す。ただし、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[提供者]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "の部分はいずれも作成例である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6cbe0e46-8a69-eff7-9908-453476ad3fc6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran-mlit：国土交通省が作成する道路のデータセット"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_27e388d3-63f2-fd7e-7808-d3bc64c1178c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "unf-tg：東京ガス"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8b9219ee-925e-edf0-20b6-f5b9d7fcd5f8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tran-enexco：NEXCO東日本"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_02b653c2-cc99-8ae1-9cc3-c1b6e3ce8e5f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "rwy-jre：JR東日本"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

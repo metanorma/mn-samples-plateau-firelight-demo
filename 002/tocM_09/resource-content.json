@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.9  tun:_Opening",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.9  tun:_Opening"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.9  tun:_Opening"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_e8498837-7b1a-b670-b940-f778cf9eb6e8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tun:_Openingは、壁面や屋根面に設置される開口部である。開口部は、トンネルモデル（LOD3）又はトンネルモデル（LOD4）において記述できる。開口部は、これが設置された境界面のtun:openingにより記述又は参照されなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

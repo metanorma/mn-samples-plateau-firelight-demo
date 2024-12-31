@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.3.2  建築物の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.3.2  建築物の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.3.2  建築物の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5998e24a-de10-d258-33f8-bc8f0477e0af"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:Buildingの主題属性には、あらかじめCityGML又はGMLにおいて定義された属性（接頭辞bldg、gml）と、i-URにより拡張された属性（接頭辞uro）がある。CityGMLで定義された属性は、建築物の用途や階数など、基本的な情報となる。i-URにより拡張された属性には、建築物を識別するための属性（uro:BuildingIDAttribute）、都市計画基礎調査において収集された詳細な情報を格納するための属性（uro:BuildingDetailAttribute、uro:LargeCustomerFacilityAttribute）、災害リスク情報を格納するための属性（uro:BuildingDisasterRiskAttribute）、作成したデータの品質に関する情報を格納するための属性（uro:DataQualityAttribute）、建築物が存在する土地及び建築物に紐づく不動産IDを格納するための属性（uro:RealEstateIDAttribute）などがある。また、拡張製品仕様においてコード型の属性を追加した場合には、主題属性としてuro:KeyValuePairAttributeが含まれる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_fdf3cdbe-d5be-540a-9fb2-4c14940dd179"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "さらに、特定分野での施設管理に使用する属性として、施設区分に関する属性（uro:FacilityTypeAttribute）、その分野における施設の位置や識別に関する属性（uro:FacilityIdAttribute）、その分野における施設の詳細な属性（uro:FacilityAttribute）をもつことができる。また、公共測量標準図式に従った表現に必要となる属性（uro:bldgDmAttribute）をもってもよい。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

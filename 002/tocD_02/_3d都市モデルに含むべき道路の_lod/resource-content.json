@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.2.3  3D都市モデルに含むべき道路のLOD",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.2.3  3D都市モデルに含むべき道路のLOD"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.2.3  3D都市モデルに含むべき道路のLOD"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6061af07-236e-6077-a5b9-927b1335b97e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルに道路を含む場合には、幾何オブジェクトとして、LOD1又はLOD2を必ず記述しなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8a2b4c45-ea15-5b98-fcdd-34807ef85de8"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "また、ユースケースの必要に応じ、LOD0又はLOD3を記述することができる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

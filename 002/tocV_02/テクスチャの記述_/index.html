@@ -1,0 +1,25 @@
+
+    <!doctype html>
+    <html lang="ja"
+        
+    data-path-prefix="/mn-samples-plateau-firelight-demo/002"
+  
+        data-initial-resource-id="urn:x-metanorma-xml-id:___x30c6___x30af___x30b9___x30c1___x30e3___x306e___x8a18___x8ff0_"
+        data-workspace-title="PLATEAU 2">
+      <head>
+        <meta charset="utf-8">
+        <!-- devtools
+        <script src="http://192.168.0.179:8097"></script> -->
+        <title data-react-helmet="true">V.2.2  テクスチャの記述</title>
+        
+        
+        <link rel="stylesheet" href="/mn-samples-plateau-firelight-demo/002/plateau-layout.css" />
+<link rel="stylesheet" href="/mn-samples-plateau-firelight-demo/002/metanorma-site-content.css" />
+<link rel="stylesheet" href="/mn-samples-plateau-firelight-demo/002/bootstrap.css" />
+      </head>
+      <body >
+        <div id="app"><div style="isolation:isolate;color-scheme:light" class="_t8qIa_spectrum kDKRXa_spectrum kDKRXa_i18nFontFamily YqfL3a_spectrum--light _1DrGeG_spectrum--large XhWg9q_spectrum XhWg9q_spectrum--dark XhWg9q_spectrum--darkest XhWg9q_spectrum--large XhWg9q_spectrum--light XhWg9q_spectrum--lightest XhWg9q_spectrum--medium" lang="en-US" dir="ltr"><div class="style_browserBar"><header class="style_browserBarTitle"><h1>PLATEAU 2</h1></header></div></div><main id="resources"><div style="isolation:isolate;color-scheme:light" class="_t8qIa_spectrum kDKRXa_spectrum kDKRXa_i18nFontFamily YqfL3a_spectrum--light _1DrGeG_spectrum--large XhWg9q_spectrum XhWg9q_spectrum--dark XhWg9q_spectrum--darkest XhWg9q_spectrum--large XhWg9q_spectrum--light XhWg9q_spectrum--lightest XhWg9q_spectrum--medium" lang="ja-JP" dir="ltr"><div class="style_resource "><ul class="style_resourceBreadcrumbsNav"><li> <a href="/mn-samples-plateau-firelight-demo/002/">PLATEAU 2</a></li><li> <a href="/mn-samples-plateau-firelight-demo/002/tocV_02">V.2  テクスチャマッピングのためのプロファイル</a></li></ul><div class="layout_overall"><article id="content"><h1>V.2.2  テクスチャの記述</h1><p about="urn:x-metanorma-xml-id:_55253a31-60e6-4686-d818-741cbd4795d8" id="urn:x-metanorma-xml-id:_55253a31-60e6-4686-d818-741cbd4795d8">アピアランスモデルより記述されるテクスチャマッピングの情報は、3D都市モデルの一部としてCityGML形式で記述する。</p><pre about="urn:x-metanorma-xml-id:_9263658d-c39f-6c80-4544-21043a14b409" id="urn:x-metanorma-xml-id:_9263658d-c39f-6c80-4544-21043a14b409"><span>&lt;app:ParameterizedTexture&gt;</span><span>&lt;app:imageURI&gt;</span>[テクスチャ画像への相対パス]<span>&lt;/app:imageURI&gt;</span><span>&lt;app:mimeType&gt;</span>[テクスチャ画像のファイルタイプ]<span>&lt;/app:mimeType&gt;</span><span>&lt;app:target</span><span>uri=</span><span>"[テクスチャ画像を貼る対象となる面への参照"</span><span>&gt;</span><span>&lt;app:TexCoordList&gt;</span><span>&lt;app:textureCoordinates</span><span>ring=</span><span>"[テクスチャ画像を貼る対象となる面の外周への参照"</span><span>&gt;</span>[面の外周に対応するテクスチャ画像の座標]<span>&lt;/app:textureCoordinates&gt;</span><span>&lt;/app:TexCoordList&gt;</span><span>&lt;/app:target&gt;</span><span>&lt;/app:ParameterizedTexture&gt;</span></pre><ul><li><p about="urn:x-metanorma-xml-id:_e41b1a0a-caa1-ee37-b059-5ad467aabf38" id="urn:x-metanorma-xml-id:_e41b1a0a-caa1-ee37-b059-5ad467aabf38">app:imageURIには、参照するテクスチャ画像データのファイルの所在を、3D都市モデルファイルからの相対パスにより記述する。</p><ul><li><p about="urn:x-metanorma-xml-id:_743f9a9c-9e39-e4c6-ca0f-4b2ac8bb84ef" id="urn:x-metanorma-xml-id:_743f9a9c-9e39-e4c6-ca0f-4b2ac8bb84ef">テクスチャ画像のファイルの格納については5.4.4フォルダ構成とフォルダ名称 (5)テクスチャのフォルダ構成を参照すること。</p></li><li><p about="urn:x-metanorma-xml-id:_d0555ca6-77f4-b513-c434-c2ce2bcdb241" id="urn:x-metanorma-xml-id:_d0555ca6-77f4-b513-c434-c2ce2bcdb241">テクスチャ画像のパスにフォルダを複数階層、含んでもよいこととする。</p></li></ul></li><li><p about="urn:x-metanorma-xml-id:_c206fc1a-1ba4-1714-273b-3f415117f01f" id="urn:x-metanorma-xml-id:_c206fc1a-1ba4-1714-273b-3f415117f01f">app:mimeTypeには、テクスチャ画像のファイルタイプを指定する。image/png又は、image/jpegのいずれかとなる。</p></li><li><p about="urn:x-metanorma-xml-id:_7e46f0fd-c279-6e2e-4081-c43c93208d3a" id="urn:x-metanorma-xml-id:_7e46f0fd-c279-6e2e-4081-c43c93208d3a">app:target の属性uriには、テクスチャ画像を貼る対象となる面（gml:Polygon）のgml:idへの参照を記述する。</p></li><li><p about="urn:x-metanorma-xml-id:_e9d00448-63fe-1b9b-be43-b86d062d1d9b" id="urn:x-metanorma-xml-id:_e9d00448-63fe-1b9b-be43-b86d062d1d9b">app:textureCoordinatesの属性ringには、テクスチャ画像を貼る対象となる面の外周（gml:LinearRing）のgml:idへの参照を記述する。</p></li><li><p about="urn:x-metanorma-xml-id:_3abe953a-cac8-581b-420e-bc7bb3832b55" id="urn:x-metanorma-xml-id:_3abe953a-cac8-581b-420e-bc7bb3832b55">app:textureCoordinatesの値には、gml:LinearRingを構成する各座標に対応するテクスチャ画像の座標を列挙する。</p><ul><li><p about="urn:x-metanorma-xml-id:_a946a2a3-babf-f615-276e-5c91c87b909e" id="urn:x-metanorma-xml-id:_a946a2a3-babf-f615-276e-5c91c87b909e">テクスチャ画像の座標として用いるUV座標は横方向をU軸、縦方向をV軸として、座標値は0から1の小数値を用いる。UV座標の定義は面ごとにU値、V値の順に、面の頂点定義の順に定義する。</p></li></ul></li></ul></article><nav><ul></ul></nav></div></div></div></main></div>
+        <script src="/mn-samples-plateau-firelight-demo/002/bootstrap.js"></script>
+      </body>
+    </html>
+  

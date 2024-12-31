@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "U.2.4.1  urf:function",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "U.2.4.1  urf:function"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "U.2.4.1  urf:function"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_8a6ebcc7-02ca-6a1b-36e6-3f75ab52e54f"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "urf:Zoneは、法令により定められた区域を定義する汎用的な地物型であり、属性urf:functionによりその区域の種類を識別する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_81e469d8-f6ac-6783-4f29-5582d6fcb855"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書では、属性urf:functionの定義域として、港湾区域や河川区域等が用意されているが、この定義域が不足する場合には、定義域に必要な区域の名称を追加できる。定義域を追加する場合は、拡張製品仕様書においてurf:Zoneの定義に追加したい区域の名称を追記するとともに、urf:functionが参照するコードリストZone_function.xmlにコードとコードに対応する説明を追加する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_dba11d13-c79d-fb72-e6bf-5793ff6ce6a6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、都市計画の区域のように、urf:Zoneを継承し、地物型が定義されている場合には、urf:Zoneではなく、これを継承するそれぞれの地物型を使用して記述しなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "R.2.4  植生の主題属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "R.2.4  植生の主題属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "R.2.4  植生の主題属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d1973670-537a-8351-9eaa-c7edc89e81ae"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "植生の主題属性には、あらかじめ CityGML 又は GML において定義された属性（接頭辞veg、gml）がある。また、標準製品仕様では、作成したデータの品質に関する情報を格納するための属性（uro:DataQualityAttribute）を定義している。さらに、植生が施設として管理されている場合に、施設管理に利用可能な属性（uro:FacilityTypeAttribute、uro:FaclityIdAttribute、uro:FacilityAttribute）ももつことができる。また、数値地形図との互換性を保つための情報（uro:vegDmAttribute）ももつことができる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

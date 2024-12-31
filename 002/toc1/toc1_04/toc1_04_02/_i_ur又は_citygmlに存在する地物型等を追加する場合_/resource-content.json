@@ -1,0 +1,222 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "2.4.2.3  i-UR又はCityGMLに存在する地物型等を追加する場合",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "2.4.2.3  i-UR又はCityGMLに存在する地物型等を追加する場合"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "2.4.2.3  i-UR又はCityGMLに存在する地物型等を追加する場合"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_7267cac0-750c-7d00-5630-f4e29a711609"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書に定義されていないが、i-UR又はCityGMLのいずれかに定義されている地物型等を追加する場合には、以下の手順により拡張する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_18651ca1-90fb-88d8-00ee-23a4e97aa742"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "手順："
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_17a57fea-a5bb-5755-cc85-c61b4d00c5a4"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "追加したい地物型等について、応用スキーマクラス図及び応用スキーマ文書を作成する。応用スキーマクラス図は、i-UR及びCityGMLの仕様（0.2参照）に従う。また、応用スキーマ文書の作成には、A.3.4に示す様式を用いる。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_bf40b682-a063-11ea-eec6-9663fb231035"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "応用スキーマ文書は、以下の事項を守り作成すること。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_b7d10837-bba6-b7b6-afc5-190d52ee4aeb"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "地物型等の名称には、i-URやCityGMLで定義された名称を使用する。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_02c4acee-295f-ff7d-6cdf-4cf511e2ed80"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "多重度や地物属性/地物関連の型はi-UR及びCityGMLの定義を変更してはならない。"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "bullet_list",
+                                                    "content": [
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_db84f50a-4f40-f8f0-174e-1907819523b7"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "より厳密にしたい場合には注釈にその内容を記述する。"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_56630cfe-74c9-1476-ee53-a71c6ffe8fbe"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "コード型属性を追加する場合、コードリストの名称は、"
+                                                                        },
+                                                                        {
+                                                                            "type": "code",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "[属性名称].xml"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "）とする。"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "list_item",
+                                                            "content": [
+                                                                {
+                                                                    "type": "paragraph",
+                                                                    "attrs": {
+                                                                        "resourceID": "urn:x-metanorma-xml-id:_9cc4ee8f-16a4-9662-1620-443a9f06e1fa"
+                                                                    },
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "code",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "[地物型名称]"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "は応用スキーマクラス図に記載された地物型の名称（接頭辞は除く）とし、"
+                                                                        },
+                                                                        {
+                                                                            "type": "code",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "[属性名称]"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "は応用スキーマクラス図に記載された属性名称（接頭辞は除く）とする。"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

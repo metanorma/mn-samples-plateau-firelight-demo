@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.2.4.4  構造物損傷属性（uro:tunRiskAssessmentAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.2.4.4  構造物損傷属性（uro:tunRiskAssessmentAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.2.4.4  構造物損傷属性（uro:tunRiskAssessmentAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ee694e77-53ba-8502-68e1-3a3719970c97"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "構造物の損傷及び対応状況に関する情報。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

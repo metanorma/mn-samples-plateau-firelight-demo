@@ -1,0 +1,90 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.4.5.2.6  [オプション]",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.4.5.2.6  [オプション]"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.4.5.2.6  [オプション]"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a9a9e52e-d1d2-89d7-d13e-687d8778c891"
+                    },
+                    "content": [
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は、成果品が複数種類作成される場合に、これらを識別する任意の文字列とする。半角英数字のみ使用可とする。成果品が1種類の場合は、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "_[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "は省略する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_ae5bc3a8-dbbd-ac06-364d-98e7ef21937e"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書では、"
+                        },
+                        {
+                            "type": "code",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "[オプション]"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "text": "としてオープンデータであることを示すopを定めている。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

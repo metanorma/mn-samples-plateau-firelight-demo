@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "C.9  bldg:IntBuildingInstallation",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "C.9  bldg:IntBuildingInstallation"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "C.9  bldg:IntBuildingInstallation"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_424e850d-600c-a675-9081-361f6ab2d33c"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "bldg:IntBuildingInstallationは、階段、スロープ、てすり、輸送設備（エレベータ、エスカレータ、動く歩道）のような、建築物の内側に設置された付属的な設備であり、かつ永続的に設置されている固定的な設備である。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

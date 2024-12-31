@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "L.2.4.4  構造物損傷属性（uro:bridRiskAssessmentAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "L.2.4.4  構造物損傷属性（uro:bridRiskAssessmentAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "L.2.4.4  構造物損傷属性（uro:bridRiskAssessmentAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_42803ec6-64a0-8a5f-f1cc-a55bd148242b"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "構造物の損傷及び対応状況に関する情報。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

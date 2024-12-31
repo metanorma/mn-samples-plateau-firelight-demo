@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "B.3.11  gml:Triangle",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "B.3.11  gml:Triangle"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "B.3.11  gml:Triangle"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_dc2f50e1-0f50-c551-0fa9-e9e4d1d492be"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "gml:Triangleは、三角形を記述するための幾何オブジェクトである。この幾何オブジェクトは、gml:TriangulatedSurfaceを構成するために用いる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

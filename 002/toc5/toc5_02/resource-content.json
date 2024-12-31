@@ -1,0 +1,160 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "6.2  オープンデータの作成",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "6.2  オープンデータの作成"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "6.2  オープンデータの作成"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_fd49701c-7cc3-3a87-1f74-0b971d093597"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルが様々な分野・用途に利用され、都市空間の情報基盤としてSociety5.0の実現に資するためにも、整備した3D都市モデルをオープンデータとすることが重要となる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_390cd3f6-3033-06c6-381b-df526a5a7ca5"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "しかしながら、個人情報保護の観点等からオープンデータとして適切ではない情報項目が含まれている場合には、3D都市モデルからオープンデータにしない情報を除去、あるいはオープンデータとなるように加工したものを作成する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_95ced7e6-6295-c092-b1cc-ddf1e1b7f02d"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "ただし、オープンデータには、3D都市モデルに含まれるすべての地物型とその空間属性のデータを含むこととする。また、空間属性以外の地物属性（建物用途、建物階数、構造種別、土地利用の土地利用用途等）については、可能な限りオープンデータとする。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a513f0e8-c977-6ed2-8f73-7dc653bfb3eb"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "手順："
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_8dc843ef-dd45-803c-00e0-0e523799469c"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "オープンデータにできない地物属性・地物関連を整理する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_fa7905d9-10ea-9086-a62f-4307a94c7270"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "オープンデータ化できる方策を検討する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_0857195b-b773-f1f3-194d-cb916b722328"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "詳細な数値・区分のオープンデータ化が難しい場合には、数値を丸める、粗い区分にまとめるといった方策が考えられる。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_ae16ce43-277f-bec8-bb47-caf3b1ac453e"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "オープンデータに加工する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

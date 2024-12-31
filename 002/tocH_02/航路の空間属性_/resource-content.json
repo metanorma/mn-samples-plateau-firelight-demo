@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "H.2.3  航路の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "H.2.3  航路の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "H.2.3  航路の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_591b9a37-8fd3-cbb7-55db-4d2ff5f45275"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "uro:Waterwayの空間属性は、いずれのLODにおいても、同一のLODにおける航路の連続性を担保する必要がある。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

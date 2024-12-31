@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "F.2.3.1  LOD0",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "F.2.3.1  LOD0"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "F.2.3.1  LOD0"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_641494ce-083b-2c63-392e-dac6f1e191f7"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "交通（徒歩道）モデル（LOD0）では、徒歩道の形状を線として表現する。このとき、線はネットワーク（徒歩道中心線）を基本とする。ただし、数値地形図との互換性を保つために、徒歩道縁を選択できる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_d2f37b6d-85d7-95d8-262b-a6b7f6e12ce1"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "LOD0においてネットワーク（徒歩道中心線）として表現する場合、gml:GeometrixComplexを用いて記述する。このとき、gml:GeomericComplexに含む幾何オブジェクトは、gml:LineStringとする。gml:GeometrixComplexに含まれるgml:LineString同士は交差してはならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_5201d87e-3c5c-d588-794d-807f395a3456"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、これは、一つの交通（徒歩道）オブジェクトに対して適用するものである。例えば、高架における上の徒歩道と下の徒歩道というように、異なる交通（徒歩道）オブジェクトの空間属性が交差することは許容する。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

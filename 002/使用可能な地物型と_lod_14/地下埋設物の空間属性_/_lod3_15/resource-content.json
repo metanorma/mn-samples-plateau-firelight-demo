@@ -1,0 +1,43 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "P.3.1.4  LOD3",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "P.3.1.4  LOD3"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "P.3.1.4  LOD3"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_45fdffb0-83ce-470d-0a52-18c35d94aa20"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下埋設物モデル（LOD3）では、地下埋設物の形状を面の集まりとして表現する。面の集まりは、地下埋設物の外形を構成する面であり、曲面の場合は、データセットが採用する地図情報レベルの水平及び高さの誤差の標準偏差に収まるよう平面に分割される。面を構成する各頂点には埋設物の高さを与える。地下埋設物モデル（LOD2）までとは異なり、まとまって埋設されている地下埋設物も、個々に表現される。このとき、地下埋設物オブジェクトは、地下埋設物モデル（LOD3）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

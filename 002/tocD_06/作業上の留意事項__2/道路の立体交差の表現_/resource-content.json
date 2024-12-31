@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.6.2.2  道路の立体交差の表現",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.6.2.2  道路の立体交差の表現"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.6.2.2  道路の立体交差の表現"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_16cc0f20-d544-5a11-dc31-7d6d585d3dc3"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "道路の立体交差を表現する場合は、高架橋の道路と交差する下の道路も面として取得する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_77919516-b9d9-ad7e-837e-4e46d362c204"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "立体交差を2次元で表現する場合には、空間属性の重なりが妥当であるのか否かを判定するために、立体交差では必ず道路のインスタンスを分けなければならない。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

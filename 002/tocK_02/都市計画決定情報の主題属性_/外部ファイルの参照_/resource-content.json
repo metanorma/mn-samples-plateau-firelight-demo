@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "K.2.4.1  外部ファイルの参照",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "K.2.4.1  外部ファイルの参照"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "K.2.4.1  外部ファイルの参照"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_4a409d18-61a2-a059-19a3-48a70e3c78f9"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "都市計画に定める項目には、定型化されていないものや図表が含まれるものがある。このような情報に対応する属性には、型としてgml:StringOrRefTypeを設定している。gml:StringOrRefTypeは、文字列（xs:string）又は参照（xlink:href）のいずれかを選択可能な型である。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_6d0b0724-5aeb-4da6-6c68-fb7ebae4c283"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3D都市モデルの属性として文字列で記述することが難しい場合は、xlink:hrefを用いて外部ファイルを参照してよい。この外部ファイルは、自治体のウェブサイト等から公開されている都市計画決定に関わる計画書や計画図となる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

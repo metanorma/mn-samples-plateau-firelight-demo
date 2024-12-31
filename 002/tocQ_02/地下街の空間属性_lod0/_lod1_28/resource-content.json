@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "Q.2.3.1  LOD1",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Q.2.3.1  LOD1"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Q.2.3.1  LOD1"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c021d20f-aa94-d0d8-267c-beffb0d2e3a1"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地下街モデル（LOD1）では、地下街の形状を立体として表現する。立体は、地下街モデル（LOD0）の面を、地表面から一律の高さで下向きに押し出して作成する。一律の高さは、地表から地下街の下端までとする。このとき、地下街オブジェクトは、地下街モデル（LOD1）の定義に従ったものでなければならない。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_808b9bdd-2a32-9d7d-fee2-6080ffaacbb6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "地表面から一律の高さで下向きに押し出した立体として表現するため、地下街の正確な深さは分からないが、地下街が存在する可能性がある空間を表現できる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

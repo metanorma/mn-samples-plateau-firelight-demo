@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "M.3.1  トンネル部分の空間属性",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "M.3.1  トンネル部分の空間属性"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "M.3.1  トンネル部分の空間属性"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_b1d63905-393d-4fcc-9530-da7e996348d1"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "tun:TunnelPartの空間属性は、tun:Tunnelの空間属性の取得方法と同じである。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_79a3d373-9971-73d1-666c-4c94e7b45d10"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、連続するtun:TunnelPartの境界面は、tun:ClosureSurfaceとなる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

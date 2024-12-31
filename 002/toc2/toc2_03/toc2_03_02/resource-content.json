@@ -1,0 +1,182 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "3.3.2  作成方法及び作業手順の決定",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "3.3.2  作成方法及び作業手順の決定"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "3.3.2  作成方法及び作業手順の決定"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_0a2528b7-fa6a-62b8-965c-23ee3102ab48"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "既存資料や作業環境を整理し、3D都市モデルを構成する地物型ごとに作成方法及び作業手順を決定する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a3d47fea-7e54-f07c-b4c7-86b79ff72016"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "手順："
+                        }
+                    ]
+                },
+                {
+                    "type": "ordered_list",
+                    "attrs": {
+                        "order": 1
+                    },
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_7f44c8eb-c464-b7fa-a149-0f22a2ee6a65"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "既存資料の有無を踏まえ、地物型ごとに作成方法を決定する。"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "bullet_list",
+                                    "content": [
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_a9704afe-afa7-f677-7a66-7997af218f79"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "空間属性は数値地形図データから取得し、点群データから取得した高さを付与する、また、主題属性は都市計画基礎調査から取得する、というように、地物型に定義される各地物属性/地物関連について、作成方法を整理すること。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_e5c352e7-b8f0-e11d-f493-fea63191ddc9"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "既存資料を使用する場合には、どの既存資料を原典資料として使用するかを決定すること。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_52d0ad25-4688-7c07-4356-698894b2d18c"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "複数の既存資料を組み合わせて使用する場合には、取得時点や取得基準の差異による資料間の不整合が生じる場合がある。最新のものを優先することが前提となるが、できるだけ使用する既存資料の取得時点や取得基準を揃えること、また、複数時点の資料が存在する場合には可能な限り取得時点が近いものを選定することが望ましい。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "list_item",
+                                            "content": [
+                                                {
+                                                    "type": "paragraph",
+                                                    "attrs": {
+                                                        "resourceID": "urn:x-metanorma-xml-id:_e15b1249-9874-16c6-a51f-2f1ad5e00896"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "3D都市モデルが既に存在しており、これの一部更新となる3D都市モデルを作成する場合には、最終的に統合することを前提とし、作成方法を検討すること。"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_b2f2940d-8623-cdc5-5a17-be26941e32bd"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "作成方法及び作業環境に基づき、作業手順を決定する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_05ce7fac-043a-f7f9-6be7-a09c7320b965"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "作成方法及び作業手順の決定における留意事項を以下に示す。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

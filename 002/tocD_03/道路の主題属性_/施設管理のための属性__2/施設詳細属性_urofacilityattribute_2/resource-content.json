@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "D.3.2.9.3  施設詳細属性（uro:FacilityAttribute）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "D.3.2.9.3  施設詳細属性（uro:FacilityAttribute）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "D.3.2.9.3  施設詳細属性（uro:FacilityAttribute）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_3145d761-6180-c470-6f5d-c231e9629140"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "uro:FacilityAttributeは、各分野において施設管理に必要となる情報を記述するためのデータ型である。uro:FacilityAttributeは、抽象クラスであり、これを継承する具象となるデータ型に、施設の区分毎に必要となる情報を属性として定義している。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_580fe08f-a5a8-5e64-8005-a47163d3c2c6"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "標準製品仕様書では、港湾施設、漁港施設及び公園施設について、細分した施設の区分ごとにデータ型を定義している。また、施設に関する工事や点検の状況や内容を記述するためのデータ型（uro:MaintenanceHistoryAttribute）を定義している。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

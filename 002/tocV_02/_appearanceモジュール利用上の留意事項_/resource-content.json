@@ -1,0 +1,70 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "V.2.3  Appearanceモジュール利用上の留意事項",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "V.2.3  Appearanceモジュール利用上の留意事項"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "V.2.3  Appearanceモジュール利用上の留意事項"
+                        }
+                    ]
+                },
+                {
+                    "type": "bullet_list",
+                    "content": [
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_f13f68c5-07b0-8847-4e89-ca5624b18241"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "CityGMLでは、Appearanceモジュールには、テクスチャを記述する型として、GeoreferencedTextureも定義されている。ただし、GeoreferencedTextureは現時点でその実装例が存在しないため、3D都市モデルでは非推奨とする。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list_item",
+                            "content": [
+                                {
+                                    "type": "paragraph",
+                                    "attrs": {
+                                        "resourceID": "urn:x-metanorma-xml-id:_f89c3dbd-4620-fdb1-d05e-c20ede95b8ce"
+                                    },
+                                    "content": [
+                                        {
+                                            "type": "text",
+                                            "text": "地形（dem:ReliefFeature）に重畳する画像の記述には、ParametarizedTextureは使用しない。地形に重畳する画像のデータ形式にはGeoTIFFを適用する。"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

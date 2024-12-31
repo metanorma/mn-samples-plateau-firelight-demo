@@ -1,0 +1,55 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "O.3.1.4.3  作業手順（面の場合）",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "O.3.1.4.3  作業手順（面の場合）"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "O.3.1.4.3  作業手順（面の場合）"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_60b219bc-94c1-7f71-4eb1-eea069b2bd14"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "① 航空写真又は航空レーザ点群より、都市設備の上方からの正射影の外周を取得する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_10983b46-1abb-44f8-9098-bffb8ef28b21"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "② 外周の各頂点に、都市設備が添付されている構造物・地表面の高さを与える。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "V.2.4.3  テクスチャのファイル単位",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "V.2.4.3  テクスチャのファイル単位"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "V.2.4.3  テクスチャのファイル単位"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_102328f2-2bbb-82fe-7e0b-ab69858338ca"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "テクスチャの作成に当たっては、描画性能の観点から複数の地物のテクスチャを一つの画像ファイルにまとめること（アトラス化）を推奨する。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_f61ac0f3-fd8b-a682-cccf-7adfacc9e4cc"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "アトラス化の範囲は、一つのCityGMLファイルを上限とする。アトラス化後の画像サイズは一辺2048ピクセル以下（辺長サイズは2の累乗）を推奨とし、一辺4096ピクセルを上限とする。ただし、大規模な地物などで、一つの地物でアトラス化をした際にアトラス化後のテクスチャサイズが画像サイズの上限（一辺4096ピクセル）を超える場合は、その地物の画像ファイルを分割してアトラス化してもよい。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_c4147d9b-3090-9d57-9b47-31fdaeaa6c56"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "複数の地物のテクスチャを一つの画像ファイルにまとめる場合は、地理的に近接した地物単位でまとめる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

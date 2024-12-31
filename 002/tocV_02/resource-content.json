@@ -1,0 +1,67 @@
+{
+    "adapterID": "file:/Volumes/MNFirelight/firelight/packages/metanorma-site-content",
+    "content": {
+        "primaryLanguageID": "ja",
+        "labelInPlainText": "V.2  テクスチャマッピングのためのプロファイル",
+        "title": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "V.2  テクスチャマッピングのためのプロファイル"
+                }
+            ]
+        },
+        "contentSchemaID": "clause",
+        "contentDoc": {
+            "type": "doc",
+            "content": [
+                {
+                    "type": "title",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "V.2  テクスチャマッピングのためのプロファイル"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_42e31e4e-98ec-9d04-5bfe-a05bf32f7123"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "建築物等の都市オブジェクトをよりリアルに表現するために、コンクリート、タイル等のイメージ画像、あるいは実際に撮影された写真等の画像データを幾何オブジェクトに貼り付けることをテクスチャマッピングという。3D都市モデルにおいても、テクスチャマッピングに必要な情報を加えることができる。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_a0cad72c-0fa9-08b0-1f6b-b51bb7a16cd5"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "テクスチャマッピングに必要な情報は、CityGMLのAppearanceモジュールに定義されている。標準製品仕様書では、画像データをテクスチャとして使用したり、都市オブジェクトの表面のマテリアルを指定したりする場合に使用するAppearanceモジュールのプロファイルとして、アピアランスモデルを定義している。"
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "attrs": {
+                        "resourceID": "urn:x-metanorma-xml-id:_654da82d-a07b-f926-f9f4-5eb329d57c56"
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "なお、このモジュールは外観だけではなく、例えば耐震診断や放射熱のシミュレーション結果を画像として壁面や屋根面と重ね合わせて表示する用途にも利用できる。"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
